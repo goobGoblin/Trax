@@ -1,0 +1,178 @@
+[
+    {
+        "Artist": "Purple Brain",
+        "Title": "Rvng Prsnts Mx7: Purple Brain",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "Afrobeat"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rvng Intl."
+            }
+        ],
+        "Tracklist": [
+            "Isis - Servant Saviour",
+            "Stereolab & Nurse With Wound - Trippin' with the Birds",
+            "Jimi Hendrix - Captain Coconut",
+            "Joe South - A Million Miles Away",
+            "Yan Tregger - Sea Trumpet",
+            "Irmin Schmidt & Bruno Spoerri - Toy Planet",
+            "Bahumutsi Drama Group - To the Comrades (PB Edit)",
+            "Purple Paraiso",
+            "Dominik Von Senger - Dlaluk",
+            "Alan White - Ooooh Baby",
+            "Robert Palmer - Si Chatouillieux",
+            "Barry DeVorzon & Perry Botkin Jr. - The Riot (PB Edit)",
+            "Electric Sandwich - China",
+            "Beaver & Krause - People's Park",
+            "Phew - Our Element",
+            "Fusioon - Rapsodioa Un Violin",
+            "Gong - Percolations Parts 1 & 2",
+            "Roland Vincent & Jean-Pierre Lang - Le Feouk",
+            "Eroc - Der Prophet"
+        ],
+        "Date": "2009-07-22",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "The Rapture",
+        "Title": "Tapes",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "Afrobeat"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "!K7"
+            }
+        ],
+        "Tracklist": [
+            "The Undisputed Truth - Earthquake Shake",
+            "Ghostface Killah - Daytona 500",
+            "Junkyard Band - The Word",
+            "The Bar-Kays - Holy Ghost",
+            "Vaughan Mason & Crew - Bounce, Rock, Skate, Roll",
+            "Northend - Tee's Happy",
+            "Don Armando's Second Avenue Rumba Band - I'm An Indian Too",
+            "Martin Circus - Disco Circus",
+            "Arcade Lover - Fantasy Lines",
+            "Thomas Bangalter - Club Soda",
+            "Kiloo & Phonique - The Passion (Phonique Mix Down)",
+            "Armand Van Helden - Flowerz",
+            "Cajmere feat. Dajae - Say U Will",
+            "Syclops - Where's Jason's K",
+            "DJ Mujava - Township Funk",
+            "Donk Boys - Cpstyre",
+            "Dances With White Girls - Everybody's Got To Make A Living",
+            "Alter Ego - Why Not?!",
+            "Paul Johnson - Get Get Down (Extended Mix)",
+            "Kid Crème - Austin's Groove",
+            "Richie Havens - Going Back To My Roots",
+            "Galaxy 2 Galaxy - Afro Arps And Minimoogs"
+        ],
+        "Date": "2009-01-27",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Let No Man Jack"
+    },
+    {
+        "Artist": null,
+        "Title": "Orchestre Poly-Rythmo De Cotonou - The Vodoun Effect: 1972-1975 ",
+        "Genre": [
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "Afrobeat"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Analog Africa"
+            }
+        ],
+        "Tracklist": [
+            "Mi Homlan Dadalé",
+            "Assibavi",
+            "Se We Non Nan ",
+            "Ako Ba Ho",
+            "Mi Ni Non Kpo ",
+            "Se Tche We Djo Mon",
+            "Dis Moi La Verité ",
+            "Nouessename",
+            "Iya Me Dji Ki Bi Ni",
+            "Akoue Tche We Gni Medjome ",
+            "Nou De Ma Do Vo ",
+            "Koutoulie ",
+            "Kourougninda Wende ",
+            "Mawa Mon Nou Mio ",
+            ""
+        ],
+        "Date": "2009-01-19",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Dimitri Nasrallah"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Lagos Shake: A Tony Allen Chop Up",
+        "Genre": [
+            {
+                "name": "Afrobeat"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Honest Jon's Records"
+            }
+        ],
+        "Tracklist": [
+            "Hypnotic Brass Ensemble - Sankofa",
+            "Tony Allen - Kilode (Carl Craig Remix)",
+            "Tony Allen - Awa Na Re (Bonde Do Role Remix)",
+            "Tony Allen - Moyege (Mark’s Disco Dub)",
+            "Wareika Hill Sounds - Reggae Land Dub",
+            "Newham Generals - Tetsuya's Theme",
+            "Son Palenque de Colombia - Samba",
+            "Tony Allen - Fuji Ouija (Diplo Remix)",
+            "Salah Ragab And The Afro-Egyptian Ensemble - Ole (Cairo Version)",
+            "Tony Allen - Ole (Moritz von Oswald Remix) "
+        ],
+        "Date": "2008-07-25",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Dimitri Nasrallah"
+    }
+]

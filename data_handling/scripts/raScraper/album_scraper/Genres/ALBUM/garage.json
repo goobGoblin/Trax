@@ -1,0 +1,783 @@
+[
+    {
+        "Artist": "Patrick Holland",
+        "Title": "Infra",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Verdicchio Music Publishing"
+            }
+        ],
+        "Tracklist": [
+            "Third Rail",
+            "Boot feat. CFCF",
+            "Fried",
+            "Hitherto",
+            "It's In The Wrapping",
+            "Walking On Ice",
+            "S Mobile",
+            "Blurry Trench",
+            "Chop",
+            "Recycled",
+            "Photon feat. Unknown Mobile",
+            "High Noon",
+            "Daytime Disturbance",
+            "Sitting On A Chair",
+            "Blue",
+            "Off The Oil"
+        ],
+        "Date": "2024-02-22",
+        "Blurb": "A dance music return to form that spans house, techno, garage and downtempo, all held together by a keen melodic sense.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "JEWELSSEA",
+        "Title": "Dwelling",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Destination Unknown",
+            "Heal Our Inner Child And Chill",
+            "Standby",
+            "Left To None",
+            "If You Change Your Mind",
+            "I Could Get To Know You ",
+            "Reassurance"
+        ],
+        "Date": "2024-02-05",
+        "Blurb": "An introspective yet empathetic LP that uses modern, crossover-friendly dance music as a vehicle for overcoming heartbreak.",
+        "Recommended": false,
+        "Author": "Arielle Lana LeJarde"
+    },
+    {
+        "Artist": "Ciel",
+        "Title": "Homesick",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Tech House"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Parallel Minds"
+            }
+        ],
+        "Tracklist": [
+            "Bamboo",
+            "String",
+            "Gourd",
+            "Hide",
+            "Breath",
+            "Wood",
+            "Metal",
+            "Stone",
+            "Silk"
+        ],
+        "Date": "2023-12-05",
+        "Blurb": "Bringing many loves together—shoegaze, tech house and the traditional sounds of her home country—Ciel's debut album both soothes and compels movement.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Pangaea",
+        "Title": "Changing Channels",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hessle Audio"
+            }
+        ],
+        "Tracklist": [
+            "Installation",
+            "Hole Away",
+            "If",
+            "The Slip",
+            "Changing Channels",
+            "Squid",
+            "Bad Lines"
+        ],
+        "Date": "2023-10-06",
+        "Blurb": "Pangaea tours UK dance music genres, from garage to happy hardcore, with a sense of humour and brilliant, dance floor-destroying precision.",
+        "Recommended": false,
+        "Author": "Nathan Evans"
+    },
+    {
+        "Artist": "RAMZi",
+        "Title": "Feu Follets",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "FATi Records"
+            }
+        ],
+        "Tracklist": [
+            "risin",
+            "coucou mon ami feat. DJ Python",
+            "feu follets",
+            "all ball",
+            "tien-bon",
+            "zombini",
+            "psyrock feat. Anabasine",
+            "tone beast feat. CZ Wang"
+        ],
+        "Date": "2023-09-11",
+        "Blurb": "Exploring '90s sounds from ambient jungle to trip-hop, RAMZi's latest album is heavy on the kick drums with the whimsy still intact.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "TQD",
+        "Title": "there for you",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "break it down",
+            "on the ground feat. PVC",
+            "you and i",
+            "nice and close",
+            "represent feat. Dread MC",
+            "bassment feat. Cadell",
+            "too sweet",
+            "there 4 u"
+        ],
+        "Date": "2023-07-19",
+        "Blurb": "A masterclass in UK garage and bassline that sticks to what Royal-T, DJ Q and Flava D know best.",
+        "Recommended": false,
+        "Author": "Arielle Lana LeJarde"
+    },
+    {
+        "Artist": "Overmono",
+        "Title": "Good Lies",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "XL Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Feelings Plain",
+            "Arla Fearn",
+            "Good Lies",
+            "Walk Thru Water ",
+            "Cold Blooded",
+            "Skulled",
+            "Sugarushhh",
+            "Calon",
+            "Is U",
+            "Vermonly ",
+            "So U Kno",
+            "Calling Out"
+        ],
+        "Date": "2023-05-12",
+        "Blurb": "Overmono make the leap for the mainstream with their long-awaited debut album, which ups the ante when it comes to melody, hooks and all things pop.",
+        "Recommended": false,
+        "Author": "Xiaoran Shi"
+    },
+    {
+        "Artist": "Felon5",
+        "Title": "Petty Fraud & Fairytales",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Tech House"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "LowMoneyMusicLove"
+            }
+        ],
+        "Tracklist": [
+            "A1 Gorgeous George",
+            "A2 Sexy Swayze",
+            "B1 Putz It Ian",
+            "B2 Alien Linguistics",
+            "C1 Moped Mayhem (R.O.T.M Mix)",
+            "C2 Fiddler Sticks",
+            "D1 We're Going Back",
+            "D2 7 Minutes At Sea"
+        ],
+        "Date": "2023-05-11",
+        "Blurb": "Summertime house at its sparkliest, for fans of Charonne and Sweely.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "SBTRKT",
+        "Title": "The Rat Road",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Save Yourself"
+            }
+        ],
+        "Tracklist": [
+            "Remnant",
+            "Waiting feat. Teezo Touchdown",
+            "Rain Crush",
+            "Days Go By feat. Toro Y Moi",
+            "LFO feat. Sampha & George Riley",
+            "Creepin",
+            "Limitless feat. Leilah & Sampha",
+            "Go To Ground",
+            "Wasted feat. Anna Of The North",
+            "Coppa feat. Kai-Isaiah Jamal",
+            "You, Love",
+            "Don't Let",
+            "No Intention feat. Leilah",
+            "Forward feat. Leilah",
+            "D Double E Interlude feat. D Double E",
+            "You Broke My Heart But Imma Fix It",
+            "Palm Reader",
+            "Drift feat. Leilah",
+            "Demons feat. Toro Y Moi",
+            "Saya Interlude feat. Saya Gray",
+            "The Rat Road feat. Teezo Touchdown",
+            "I See A Stair feat. Little Dragon"
+        ],
+        "Date": "2023-05-10",
+        "Blurb": "A sprawling, guest-heavy collection of dance pop tracks that sparkle as often as they flail.",
+        "Recommended": false,
+        "Author": "Becca Inglis"
+    },
+    {
+        "Artist": "Interplanetary Criminal",
+        "Title": "All Thru The Night",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Locked On"
+            }
+        ],
+        "Tracklist": [
+            "Interplanetary Criminal x Porij - Don't Hurt Me ",
+            "Todd Edwards x Interplanetary Criminal  - Reckless ",
+            "Interplanetary Criminal - Why",
+            "Chavinski x Ell Murphy - O.B.F.C. ",
+            "Bakey - Last One ",
+            "Ollie Rant - A Love Like ",
+            "Main Phase -  Shake",
+            "Perception - Jump Up",
+            "Holloway - On Em ",
+            "Soul Mass Transit System - Lift Me Up ",
+            "Sage Introspekt - All Night Long ",
+            "Highrise -  In Time ",
+            "DJ Cosworth - Da Groove ",
+            "Alfie Fraser - Me and You ",
+            "Frazer Ray - Rev"
+        ],
+        "Date": "2023-04-09",
+        "Blurb": "The DJ behind last year's number-one garage hit takes over the genre's most legendary compilation series.",
+        "Recommended": false,
+        "Author": "Nathan Evans"
+    },
+    {
+        "Artist": "Caroline Polachek",
+        "Title": "Desire, I Want To Turn Into You",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perpetual Novice"
+            }
+        ],
+        "Tracklist": [
+            "Welcome To My Island",
+            "Pretty In Possible",
+            "Bunny Is A Rider",
+            "Sunset",
+            "Crude Drawing Of An Angel",
+            "I Believe",
+            "Fly To You feat. Grimes & Dido",
+            "Blood And Butter",
+            "Hopedrunk Everasking",
+            "Butterfly Net",
+            "Smoke",
+            "Billions"
+        ],
+        "Date": "2023-02-23",
+        "Blurb": "An astonishing blend of modern sophisti-pop and dance music that probes into the confusing, sometimes grotesque depths of love.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "DJ Perception",
+        "Title": "Journey To The Star",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Timehri"
+            }
+        ],
+        "Tracklist": [
+            "Highline",
+            "Asteroid Field",
+            "Journey To The Star ",
+            "Darkside",
+            "Sunlight",
+            "Jupiter's Lullaby",
+            "Space Yardie",
+            "History feat. MC Wizkid"
+        ],
+        "Date": "2022-12-14",
+        "Blurb": "Timeless UK garage blended with deep house, laced with soul and an outer-space twist.",
+        "Recommended": true,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "TSHA",
+        "Title": "fabric presents TSHA",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "fabric Records"
+            }
+        ],
+        "Tracklist": [
+            "Soulful Behaviour - Get To Groove (Jazznotic Groove Mix - Ben Gomori's Bad Behaviour Edit)",
+            "Stefan Seay feat. WILLYOUARENOT - Acid Kiss (MOOD Mix) ",
+            "Posthuman - You're Mine (Mac & Ward Extended Remix)",
+            "Conny - Song For Eva (Shan 3AM Pump Mix) ",
+            "Delicious Inc. - Eau De Chante' (For Men) ",
+            "Trax Unit - Get The Werk ",
+            "Jacques Greene - (Baby I Don't Know) What you Want ",
+            "Granary 12 - Mancmania ",
+            "Para - Naked ",
+            "Jeran Portis - Unproven ",
+            "UNCLE KNOWS - FLOCK",
+            "WK7 - The Higher (Hardcore PCK Mix) ",
+            "Ryan Clover - Velvet Lace Dream State ",
+            "Nowsm - Funny Lies (Edit) ",
+            "Sally C - Downtown ",
+            "Nicolson - 1988 ",
+            "TSHA - BOYZ ",
+            "Gallegos - Sycophantic Maniac ",
+            "Elkka - Harmonic Frequencies ",
+            "Aspect - Norf ",
+            "WTCHCRFT - Uhmm",
+            "Protect Ryan- Liam Features ",
+            "Undivulged - Moppie ",
+            "Tom VR - Soared Straight Through Me (Kareem Ali Remix) ",
+            "Mafro - Miss Me "
+        ],
+        "Date": "2022-05-20",
+        "Blurb": "A young, fresh perspective on the power of house music.\n",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Melchior Productions Ltd.",
+        "Title": "Vulnerabilities",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perlon"
+            }
+        ],
+        "Tracklist": [
+            "A1 Catharsis",
+            "A2 Asceding To Our Solitude",
+            "B1 Depressed Fun Seekers",
+            "B2 2 Step King",
+            "C1 The Checker",
+            "C2 Wats It Mean 2 U",
+            "D1 Gimme (Timeless Worlds Of Space)",
+            "D2 Mind Diving",
+            "E1 Adriana's Anxieties",
+            "F1 Closer",
+            "F2 Jingle All The Way"
+        ],
+        "Date": "2022-04-01",
+        "Blurb": "The master of micro still makes stripped-back house more soulful than almost anyone else, 15 years on from his last album.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "PinkPantheress",
+        "Title": "to hell with it (remixes)",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Parlophone"
+            }
+        ],
+        "Tracklist": [
+            "Pain (Powfu Remix)",
+            "Pain (LSDXOXO Remix)",
+            "I must apologise (Sango Remix)",
+            "I must apologise (Tommy Gold Remix)",
+            "Last valentines (WondaGurl Remix)",
+            "Last valentines (2AAB Remix)",
+            "Passion (Sam Gellaitry Remix)",
+            "Just for me (El Guincho Remix) ",
+            "Noticed I cried (Flume Remix)",
+            "Noticed I cried (O.J.C Remix)",
+            "Reason (Jarreau Vandal Remix)",
+            "Reason (Evilgiane Remix) ",
+            "All my friends know (FKJ Remix)",
+            "All my friends know (Anz Remix)",
+            "Nineteen (Nia Archives Remix)"
+        ],
+        "Date": "2022-02-04",
+        "Blurb": "A grab-bag of a remix album with inspired turns from Anz, Nia Archives and LSDXOXO, highlighting the singer-songwriter's unique position in pop-dance crossover.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Dusky",
+        "Title": "JOY",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "17 Steps"
+            }
+        ],
+        "Tracklist": [
+            "Soundcheck",
+            "Hildegard",
+            "E-Dawn",
+            "Wave",
+            "Eros",
+            "Invisible",
+            "Take Me High",
+            "Fields",
+            "Lift",
+            "Local Newspaper",
+            "Supply Systems",
+            "Pharaoh",
+            "Silver"
+        ],
+        "Date": "2021-11-11",
+        "Blurb": "The UK duo find new inspiration in old prog house and garage.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Brogan Bentley",
+        "Title": "Diapason Rex",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Leaving Records"
+            }
+        ],
+        "Tracklist": [
+            "Ecstasy",
+            "Never Ending",
+            "Phantom",
+            "You Never Asked",
+            "The Work",
+            "Hollow",
+            "Trust Yourself",
+            "The Keeper",
+            "Diapason Rex"
+        ],
+        "Date": "2021-08-20",
+        "Blurb": "The Los Angeles artist combines jungle, 2-step and hip-hop into one emotional wallop.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Joy Orbison",
+        "Title": "still slipping vol. 1",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Garage"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "XL Recordings"
+            }
+        ],
+        "Tracklist": [
+            "w/ dad & frankie",
+            "sparko (w/ herron)",
+            "swag w/ kav (w/ james messiah & bathe)",
+            "better (w/ léa sen)",
+            "bernard?",
+            "runnersz",
+            "rraine (w/ edna)",
+            "glorious amateurs",
+            "s gets jaded",
+            "froth sipping",
+            "layer 6",
+            "in drink",
+            "playground (w/ goya gumbani)",
+            "born slipping (w/ tyson)"
+        ],
+        "Date": "2021-08-16",
+        "Blurb": "Joy Orbison gets intimate, even subdued, on his first full-length release.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "anz",
+        "Title": "spring/summer dubs 2020",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Jungle"
+            },
+            {
+                "name": "UK Funky"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Sackville Street Stomp",
+            "Lunar Spiral",
+            "Sisi Eko",
+            "Couch To 50k (Dance Mat Mix)",
+            "Chaotic Good",
+            "Sweet One",
+            "Dancefloor Recalibration",
+            "Organic Matter",
+            "Unravel In The Designated Zone",
+            "Stay A While",
+            "In Session",
+            "The Prospector",
+            "Morphing Into Brighter",
+            "Tripper's Tip",
+            "Stone Groove",
+            "Giant's Leap",
+            "Speedway",
+            "Dmpa",
+            "Halved And Doubled",
+            "Odogwu (Akoni Ukg)",
+            "Quid For The Wheel",
+            "Do Right By You!",
+            "Double Dutch",
+            "Iinstructions Includedd",
+            "The Twist",
+            "Dream Sequence",
+            "Til Eternity",
+            "Oshun",
+            "Glass Gloss (Ryd Vocal Version)",
+            "Gt Mover",
+            "Rrrenegade",
+            "All Outta Shape",
+            "First One Back",
+            "Composure",
+            "Here's Where She Returns"
+        ],
+        "Date": "2020-07-02",
+        "Blurb": "Anz takes the hallmarks of UK dance music to miraculous heights.",
+        "Recommended": true,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Fox",
+        "Title": "Juice Flow",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Swing Ting"
+            }
+        ],
+        "Tracklist": [
+            "Day Ones",
+            "Poseidon Ride feat. RTKal",
+            "Juice Flow",
+            "Unicorns And Uniforms",
+            "Somewhere In Poland",
+            "Hotzone",
+            "Rebel Souljah feat. Coco",
+            "Brighter Dayz",
+            "Walk Away feat. Shanique Marie",
+            "Lost & Found",
+            "Imagine",
+            "Norf) West",
+            "Live Life"
+        ],
+        "Date": "2019-12-15",
+        "Blurb": "The Swing Ting MC, backed by beatmakers like Equiknoxx, Finn and Sinjin Hawke, delivers an accomplished first album.",
+        "Recommended": false,
+        "Author": "Hugh Taylor"
+    }
+]

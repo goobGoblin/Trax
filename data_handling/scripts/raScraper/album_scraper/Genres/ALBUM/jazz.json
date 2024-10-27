@@ -1,0 +1,724 @@
+[
+    {
+        "Artist": "Alice Coltrane",
+        "Title": "The Carnegie Hall Concert",
+        "Genre": [
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Impulsa Records"
+            }
+        ],
+        "Tracklist": [
+            "Journey In Satchidananda",
+            "Shiva-Loka",
+            "Africa",
+            "Leo"
+        ],
+        "Date": "2024-03-30",
+        "Blurb": "A previously unreleased benefit concert for Alice Coltrane's since-defamed spiritual mentor offers an opportunity to examine her spiritual journey in the late '60s and '70s.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "André 3000",
+        "Title": "New Blue Sun",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Epic Records"
+            }
+        ],
+        "Tracklist": [
+            "I Swear, I Really Wanted to Make a \"Rap\" Album but This Is Literally the Way the Wind Blew Me This Time",
+            "The Slang Word P(*)ssy Rolls Off the Tongue With Far Better Ease Than the Proper Word Vagina. Do You Agree?",
+            "That Night in Hawaii When I Turned Into a Panther and Started Making These Low Register Purring Tones That I Couldn't Control... Sh¥t Was Wild",
+            "BuyPoloDisorder's Daughter Wears a 3000® Button Down Embroidered",
+            "Ninety Three 'Til Infinity And Beyoncé",
+            "Ghandi, Dalai Lama, Your Lord & Savior J.C. / Bundy, Jeffrey Dahmer, and John Wayne Gacy",
+            "Ants to You, Gods to Who?",
+            "Dreams Once Buried Beneath the Dungeon Floor Slowly Sprout Into Undying Gardens"
+        ],
+        "Date": "2023-12-08",
+        "Blurb": "John-Paul Shiver investigates the star rapper's turn to ambient music.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Viken Arman",
+        "Title": "Alone Together",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Denature Records"
+            }
+        ],
+        "Tracklist": [
+            "You With Me",
+            "Lonely Raver",
+            "Vibrations",
+            "A Night In Tunisia",
+            "Last Night",
+            "You Don't Hurt Me",
+            "Kiki",
+            "Can't Do Without You",
+            "Alone Together"
+        ],
+        "Date": "2023-10-25",
+        "Blurb": "An intricately layered, kaleidoscopic voyage through different flavours of house, world music and jazz. ",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Speakers Corner Quartet",
+        "Title": "Further Out Than The Edge",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "OTIH Records"
+            }
+        ],
+        "Tracklist": [
+            "On Grounds feat. Coby Sey ",
+            "Acute Truth feat. Kelsey Lu",
+            "fix feat. Tirzah ",
+            "Wavelet feat. Confucius MC & Joe Armon Jones",
+            "Dreaded! feat. Léa Sen ",
+            "Can We Do This feat. Sampha",
+            "Geronimo Blues feat. Kae Tempest",
+            "Soapbox Soliloquy feat. LEILAH",
+            "Hither Green feat. James Massiah ",
+            "Round Again feat. Tawiah ",
+            "Behind The Sun feat. Lafawndah & Trustfall ",
+            "Shabz Needs Sun feat. Shabaka Hutchings",
+            "Karainagar feat. Mica Levi"
+        ],
+        "Date": "2023-06-20",
+        "Blurb": "The South London collective's debut LP adroitly captures the jazz-flecked, alt-orchestral sound of their unique live shows.",
+        "Recommended": false,
+        "Author": "Fred Garratt-Stanley"
+    },
+    {
+        "Artist": "Madison McFerrin",
+        "Title": "I Hope You Can Forgive Me",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Jazz"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mad McFerrin Music"
+            }
+        ],
+        "Tracklist": [
+            "Deep Sea",
+            "Fleeting Melodies",
+            "Testify",
+            "Run",
+            "God Herself",
+            "OMW",
+            "Please Don't) Leave Me Now",
+            "Stay Away (From Me)",
+            "Utah",
+            "Goodnight"
+        ],
+        "Date": "2023-06-04",
+        "Blurb": "The LA singer-songwriter enriches her once a-capella work with beautiful acoustic arrangements and electronic flourishes.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Makaya McCraven",
+        "Title": "In These Times",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Jazz"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "XL Recordings"
+            }
+        ],
+        "Tracklist": [
+            "In These Times",
+            "The Fours",
+            "High Fives",
+            "Dream Another",
+            "Lullaby",
+            "This Place That Place",
+            "The Calling",
+            "Seventh String",
+            "So Ubuji",
+            "The Knew Untitled",
+            "The Title"
+        ],
+        "Date": "2022-10-23",
+        "Blurb": "Drum & bass, jazz and hip-hop collide on an LP of beautiful compositions that highlight the non-stop evolution of Black music.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Polyswitch",
+        "Title": "Praise The Sun",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Astrofever Records"
+            }
+        ],
+        "Tracklist": [
+            "In Good Spirits feat. Glenn Astro",
+            "Better Days feat. Jazzy James",
+            "Things Change (Face Everything And Rise) feat. Saib",
+            "Endeavor 212",
+            "Endeavor 212 (Byron The Aquarius Remix)",
+            "The Great Conjunction feat. Mark De Clive-Lowe",
+            "Praise The Sun (Wrong To Be Right)",
+            "All You Need",
+            "The Believer",
+            "Aziza (The Hereafter)",
+            "Until We Meet Again",
+            "Freedom And You",
+            "Zeitgeist 21 (Bonus)"
+        ],
+        "Date": "2022-07-29",
+        "Blurb": "The Casablanca jazz and funk lothario's debut LP is a kaleidoscope of broken beats and smoky house music.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Jordan GCZ",
+        "Title": "My Brain's Brain",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Minimal Detroit Audio"
+            }
+        ],
+        "Tracklist": [
+            "Burning Chrome ",
+            "Zero Gravity Blanket ",
+            "It's Chinatown ",
+            "Terrace House Love ",
+            "Digital Worlds ",
+            "Science Funk",
+            "Mining the Moon ",
+            "One Note Ain't Always Enough ",
+            "Alienation Ditty ",
+            "Who Spiked The Cantina Band? ",
+            "Bah Bah Rhodes ",
+            "A Walk In The Park  "
+        ],
+        "Date": "2022-04-07",
+        "Blurb": "The long-awaited debut album from one of techno's most beloved improvisers is a weightless trip through the cosmos.",
+        "Recommended": true,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Culross Close",
+        "Title": "PRESSURE",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Jazz"
+            },
+            {
+                "name": "Broken Beat"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Esencia"
+            }
+        ],
+        "Tracklist": [
+            "PRESSURE!",
+            "To Belong",
+            "Misguided",
+            "Tipping Point",
+            "Convictions",
+            "Shifts",
+            "The Will To Change",
+            "The Will To Live (I,II)"
+        ],
+        "Date": "2022-03-14",
+        "Blurb": "Stately, unpredictable and jazzy broken beat from K15's band.",
+        "Recommended": false,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Nubya Garcia",
+        "Title": "Source + We Move",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Concord Music Group"
+            }
+        ],
+        "Tracklist": [
+            "La Cumbia Me Está Llamando feat. La Perla (Kaidi Tatham Remix) ",
+            "Together Is a Beautiful Place to Be (Nala Sinephro Remix)",
+            "The Message Continues (DJ Harrison Remix)",
+            "Inner Game (Blvck Spvde Remix)",
+            "Boundless Beings (Georgia Anne Muldrow Remix)",
+            "Stand With Each Other (KeiyaA Remix)",
+            "La Cumbia Me Está Llamando feat. La Perla (Suricata Remix) ",
+            "Source (Dengue Dengue Dengue Remix)",
+            "Pace (Moses Boyd Remix)"
+        ],
+        "Date": "2021-11-25",
+        "Blurb": "Producers like Kaidi Tatham and Georgia Anne Muldrow help bring Nubya Garcia's brilliant jazz into new sound worlds.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Wayne Snow",
+        "Title": "Figurine",
+        "Genre": [
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Roche Musique"
+            }
+        ],
+        "Tracklist": [
+            "Figurine",
+            "Silly Games",
+            "Faceless",
+            "Nina",
+            "FOM",
+            "Seventy",
+            "Number One",
+            "The Thrill",
+            "Relativity",
+            "Magnetic feat. Oscar Jerome"
+        ],
+        "Date": "2021-11-02",
+        "Blurb": "Switching samples for synths—and house for neo-soul—Wayne Snow levels up on his second album.",
+        "Recommended": false,
+        "Author": "Richard Akingbehin"
+    },
+    {
+        "Artist": null,
+        "Title": "Fire-Toolz - Eternal Home",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hausu Mountain Records"
+            }
+        ],
+        "Tracklist": [
+            "In The Pinewaves ≈",
+            "guardian angel bear",
+            "Odd Cat Sanctuary",
+            "Yearning = Alchemical Fire",
+            "Shenpa Indicator Light!!!",
+            "rogressive --> ¶ath -->",
+            "Umbilical Cord Blood",
+            "Lellow< \"Birbs<",
+            "softly*chewing*quiet*stars",
+            "ubber Band ￦rist",
+            "Maternal ♥ Havening ]",
+            "e)y(e)s w/o a %brain%",
+            "To Make Home, Be Home",
+            "Thick_flowy_glowy_sparkly_stingy_pain.mpeg",
+            "Where On EARTH Is My Sacchidānanda?",
+            "Advaita §huffling",
+            "Window 2 Window 2 Window 2 Window",
+            "Awakening™ Fantasy II",
+            "Window 2 Window 2 Window 2 Window 2 WIndow",
+            "I Am A Cloud",
+            "This Particular Universe Is Friendly ;)",
+            "Outside =^..^= Bears",
+            "FF| 2 Łos† Vagus",
+            "To Make Whole, Be Whole",
+            "World Of Objects, Minus Fluids"
+        ],
+        "Date": "2021-10-20",
+        "Blurb": "A rumination on existence through the lens of jazz fusion, ambient and black metal.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Nala Sinephro",
+        "Title": "Space 1.8",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Space 1",
+            "Space 2",
+            "Space 3",
+            "Space 4",
+            "Space 5",
+            "Space 6",
+            "Space 7",
+            "Space 8"
+        ],
+        "Date": "2021-09-28",
+        "Blurb": "The new Warp Records artist delivers a calming, restorative and mind-expanding blend of jazz and ambient.",
+        "Recommended": true,
+        "Author": "Connor Duffey"
+    },
+    {
+        "Artist": null,
+        "Title": "Moritz von Oswald Trio - Dissent: Chapter 1 - 10",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Modern Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Preface",
+            "Chapter 1",
+            "Chapter 2",
+            "Chapter 3",
+            "Chapter 4",
+            "Chapter 5",
+            "Chapter 6",
+            "Chapter 7",
+            "Chapter 8",
+            "Chapter 9",
+            "Chapter 10",
+            "Epilogue"
+        ],
+        "Date": "2021-08-13",
+        "Blurb": "Moritz and his trio—now including Laurel Halo and Heinrich Köbberling—continue a journey into unclassifiable, electroacoustic territory.",
+        "Recommended": false,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "Floating Points, Pharoah Sanders & The London Symphony Orchestra",
+        "Title": "Promises",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Luaka Bop"
+            }
+        ],
+        "Tracklist": [
+            "Movement 1",
+            "Movement 2",
+            "Movement 3",
+            "Movement 4",
+            "Movement 5",
+            "Movement 6",
+            "Movement 7",
+            "Movement 8",
+            "Movement 9"
+        ],
+        "Date": "2021-03-25",
+        "Blurb": "An epic, intergenerational meeting results in one of the greatest modern jazz albums.",
+        "Recommended": true,
+        "Author": "Tajh Morris"
+    },
+    {
+        "Artist": "Khruangbin",
+        "Title": "LateNiteTales",
+        "Genre": [
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Late Night Tales"
+            }
+        ],
+        "Tracklist": [
+            "Carlos Santana - Illuminations",
+            "Brilliantes Del Vuelo - I Know That",
+            "Nazia Hassan - Khushi",
+            "Kelly Doyle - DRM",
+            "Sanulim - Dont Go",
+            "Maxwell Udoh - I Like It",
+            "David Marez - Enseñame",
+            "Gerald Lee - Can You Feel The Love",
+            "Justine & The Victorian Punks - Still You",
+            "George Yanagi -「祭ばやしが聞こえる」のテ ーマ",
+            "11. Песняры - Зачарованная моя",
+            "Khruangbin - Summer Madness (Exclusive Track)",
+            "Paloma San Basilio - Contigo",
+            "Roha Band - Yetikimt Abeba",
+            "Tierney Malone & Geoffrey Muller - Trans- mission for Jehn: Gnossienne No 1 (Exclusive Spoken Word Track)"
+        ],
+        "Date": "2021-01-21",
+        "Blurb": "International beat influence by way of Houston.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Duval Timothy",
+        "Title": "Help",
+        "Genre": [
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Carrying Colour"
+            }
+        ],
+        "Tracklist": [
+            "Next Tomorrow ",
+            "Slave ft. Twin Shadow ",
+            "Tdagb ",
+            "Fall Again ft. Lil Silva and Melanie Faye",
+            "05. 9 \t",
+            "Groundnut ft. Twin Shadow ",
+            "Like ft. Vegyn ",
+            "Radish ",
+            "Something ft. Mr Mitch \t",
+            "Alone ",
+            "Still Happened \t",
+            "Look \t",
+            "Same ",
+            "Ice",
+            "C \t",
+            "U \t",
+            "Morning ",
+            "Pink "
+        ],
+        "Date": "2020-08-24",
+        "Blurb": "The jazz minimalist finds new ways to sculpt stories with repetition.\n",
+        "Recommended": true,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Rewind: George Russell ‎",
+        "Title": "Electronic Sonata For Souls Loved By Nature",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Flying Dutchman"
+            }
+        ],
+        "Tracklist": [
+            "Part One",
+            "Part Two"
+        ],
+        "Date": "2020-08-07",
+        "Blurb": "An understated avant-garde jazz album from the polymath theorist that predicted modal jazz. \n",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": null,
+        "Title": "Mr. Scruff - DJ-Kicks",
+        "Genre": [
+            {
+                "name": "Breakbeat"
+            },
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "!K7"
+            }
+        ],
+        "Tracklist": [
+            "Iona Fortune - Da You",
+            "Equiknoxx - The Link",
+            "Black Pocket - Thank You And Credits",
+            "Vernon Maytone - Old Pan Sound",
+            "Tiger - When",
+            "DJ Nervoso - Kuia",
+            "Andreya Triana - Gold (Max Graef Remix)",
+            "Sudan Archives - Wake Up",
+            "Emilio Santiago - Bananeira",
+            "Rosa Maria - Samba Minerio",
+            "Laurel Aitken - Sexy Boogie",
+            "Antibalas - Si Se Puede (Battle Of The Species)",
+            "Natural Self - The Sound",
+            "Tony Allen - Gbedu B",
+            "Dobie - Magenta",
+            "Errorsmith - My Party",
+            "Mr Scruff vs CyberPunkJazz - 3001: A Space Disco Remix (DJ-Kicks)",
+            "Fats Comet - Dub Storm",
+            "Ding Dong - Badman Forward Badman Pull Up",
+            "Paddy Steer - Loufoque",
+            "Andy Ash - Ease Yourself",
+            "Mr. Scruff - Where Am I?",
+            "Max Graef - No 5",
+            "Alexander Robotnick - Love Supreme (Extended) feat. Stefano Cocco Cantini",
+            "Hashim - We're Rocking The Planet",
+            "Zongamin - Nonstop",
+            "Bumcello - Frbom",
+            "Archie Pelago - Brown Oxford",
+            "Seiji - Loose Lips feat. Lyric L",
+            "Snowboy And The Latin Section - Carga Tu Bateria",
+            "Drymbago - Chupacabra"
+        ],
+        "Date": "2020-05-05",
+        "Blurb": "The Manchester DJ's mix features global music garnished with humour.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Speaker Music",
+        "Title": "of desire, longing",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "With Empathy",
+            "Without Excess"
+        ],
+        "Date": "2020-02-22",
+        "Blurb": "An uneasy alliance between philosophy and experimental electronics.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    }
+]

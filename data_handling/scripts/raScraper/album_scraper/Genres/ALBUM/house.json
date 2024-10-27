@@ -1,0 +1,765 @@
+[
+    {
+        "Artist": "Eris Drew",
+        "Title": "Raving Disco Breaks Vol. II: Rock The House",
+        "Genre": [
+            {
+                "name": "Breakbeat"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "T4T LUV NRG"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2024-04-30",
+        "Blurb": "On this second mixtape, five years in the making, Eris Drew mixes vintage house and breakbeat with Led Zeppelin and Janis Joplin.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Justice",
+        "Title": "Hyperdrama",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Virgin Records"
+            },
+            {
+                "name": "Genesis"
+            }
+        ],
+        "Tracklist": [
+            "Neverender",
+            "Generator",
+            "Afterimage",
+            "One Night/All Night",
+            "Dear Alan",
+            "Incognito",
+            "Mannequin Love",
+            "Moonlight Rendez-vous",
+            "Explorer",
+            "Muscle Memory",
+            "Harpy Dream",
+            "Saturnine",
+            "The End"
+        ],
+        "Date": "2024-04-29",
+        "Blurb": "A star-studded comeback that almost touches on the French duo's past greatness.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Leonce",
+        "Title": "System Of Objects",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Morph Tracks"
+            }
+        ],
+        "Tracklist": [
+            "Not Here For It",
+            "Amyl Nitrate",
+            "Kundle Dub",
+            "Tuff Talk",
+            "Eurorack Tears",
+            "Closing In",
+            "Third Time's The Charm"
+        ],
+        "Date": "2024-04-11",
+        "Blurb": "Big-room techno, Leonce style.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Frank & Tony",
+        "Title": "Ethos",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Scissor & Thread"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2024-04-03",
+        "Blurb": "Ambient deep house of the highest order.",
+        "Recommended": false,
+        "Author": "Dash Lewis"
+    },
+    {
+        "Artist": "Logic1000",
+        "Title": "Mother",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Because Music"
+            },
+            {
+                "name": "Therapy"
+            }
+        ],
+        "Tracklist": [
+            "From Within",
+            "Promises (feat. Rochelle Jordan)",
+            "Can't Let Go",
+            "Side By Side",
+            "Self To Blame feat. Kayla Blackmon",
+            "Cartier",
+            "Heartbeat",
+            "Saint Rex",
+            "All U Like",
+            "Every Lil' feat. DJ Plead & MJ Nebreda",
+            "Oceanic",
+            "Grown On Me",
+            ""
+        ],
+        "Date": "2024-03-28",
+        "Blurb": "Soaring pop aspirations meet slinky club rollers on the Australian producer's debut LP.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Four Tet",
+        "Title": "Three",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Text Records"
+            }
+        ],
+        "Tracklist": [
+            "Loved",
+            "Gliding Through Everything",
+            "Storm Crystals",
+            "Daydream Repeat",
+            "Skater",
+            "Bloom",
+            "So Blue",
+            "Three Drums"
+        ],
+        "Date": "2024-03-22",
+        "Blurb": "The UK artist's most downtempo album in a while looks backwards and forwards at the same time.",
+        "Recommended": false,
+        "Author": "Reid BG"
+    },
+    {
+        "Artist": "Bolis Pupul",
+        "Title": "Letter To Yu",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Because Music"
+            },
+            {
+                "name": "DEEWEE"
+            }
+        ],
+        "Tracklist": [
+            "A1 Letter To Yu",
+            "A2 Completely Half",
+            "A3 Goodnight Mr Yi",
+            "A4 Doctor Says",
+            "A5 Spicy Crab",
+            "B1 Ma Tau Wai Road feat. Salah Pupul",
+            "B2 Causeway Bae",
+            "B3 Cantonese",
+            "B4 Kowloon",
+            "B5 Cosmic Rendez-Vous"
+        ],
+        "Date": "2024-03-14",
+        "Blurb": "Exploring his mother's Hong Kong roots, the Belgian musician's debut solo album is a powerful blend of folk music, field recordings and catchy synth pop.\n",
+        "Recommended": true,
+        "Author": "Marshall Gu"
+    },
+    {
+        "Artist": "serpentwithfeet",
+        "Title": "GRIP",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Secretly Canadian"
+            }
+        ],
+        "Tracklist": [
+            "Damn Gloves feat. Ty Dolla $ign & Yanga YaYa",
+            "Safe Word",
+            "Spades",
+            "Deep End",
+            "Rum / Throwback",
+            "Black Air Force",
+            "Hummin'",
+            "Ellipsis",
+            "Lucky Me",
+            "to 10"
+        ],
+        "Date": "2024-03-01",
+        "Blurb": "Josiah Wise shoots for the stars on his third album, taking a bold step toward the mainstream with a clubbier sound and guest features from Ty Dolla $ign and Mick Jenkins.",
+        "Recommended": false,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "AceMo",
+        "Title": "Save The World",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "An Epic",
+            "Chords",
+            "My Mind",
+            "Dub Wave",
+            "Amazing",
+            "Dreaming In The Studio",
+            "Fun Forward",
+            "Save The World",
+            "Water In The Sky",
+            "A Million Trys, You Got Somethin'",
+            "Arp Dreams",
+            "Save The Day (Big Limit Mix)",
+            "Raver1",
+            "New Cosmo"
+        ],
+        "Date": "2024-02-28",
+        "Blurb": "Virtuosic techno with a healthy dose of uplift and optimism.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Lost Souls Of Saturn",
+        "Title": "Reality",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Holoverse Research Labs"
+            }
+        ],
+        "Tracklist": [
+            "Zorg Arrival",
+            "Scram City",
+            "Realization",
+            "This Foo",
+            "Click feat. Lvv Gvn",
+            "Metro Cafe",
+            "Mirage feat. Adam Ohr",
+            "Lilac Chaser feat. Protomartyr",
+            ""
+        ],
+        "Date": "2024-02-23",
+        "Blurb": "Seth Troxler and Phil Moffa embark on another tripped-out adventure with horn players and vocalists in tow.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Patrick Holland",
+        "Title": "Infra",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Verdicchio Music Publishing"
+            }
+        ],
+        "Tracklist": [
+            "Third Rail",
+            "Boot feat. CFCF",
+            "Fried",
+            "Hitherto",
+            "It's In The Wrapping",
+            "Walking On Ice",
+            "S Mobile",
+            "Blurry Trench",
+            "Chop",
+            "Recycled",
+            "Photon feat. Unknown Mobile",
+            "High Noon",
+            "Daytime Disturbance",
+            "Sitting On A Chair",
+            "Blue",
+            "Off The Oil"
+        ],
+        "Date": "2024-02-22",
+        "Blurb": "A dance music return to form that spans house, techno, garage and downtempo, all held together by a keen melodic sense.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Optimo 25",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Optimo Music"
+            }
+        ],
+        "Tracklist": [
+            "OPTIMO2501",
+            "A1 Brainticket – Places Of Light",
+            "A2 T.J. Lawrence – Fireplay",
+            "A3 Robert Rental – Double Heart",
+            "B1 African Head Charge – No, Don't Follow Fashion",
+            "B2 Keith Hudson – Nuh Skin Up Dub",
+            "C1 Smokin’ Cheeba – When I Was A Youth",
+            "C2 The Wad – 15 inches",
+            "D1 Idjut Boys & Laj – Foolin' (Beatin on Dave)",
+            "D2 JBB Et Soprann – Tibi Lap",
+            "",
+            "OPTIMO2502",
+            "A1 Chris & Cosey – Take Control",
+            "A2 Isolators – Concentrate On Us",
+            "B1 Mike Dunn – Life Goes On",
+            "B2 KC Flight – Voices (Original Dub Mix)",
+            "C1 Faze Action – Good Lovin' (Special Disco Mix)",
+            "C2 Hannah Holland – Ekotypic",
+            "D1 Divine – Shake It Up",
+            "D2 XS-5 – I Need More (Extended Dance Version)",
+            "D3 Liquid Liquid – Optimo"
+        ],
+        "Date": "2024-02-17",
+        "Blurb": "A tribute to (and recollection of) one of the greatest club nights in the history of dance music.",
+        "Recommended": true,
+        "Author": "Erin Margaret Day"
+    },
+    {
+        "Artist": "JEWELSSEA",
+        "Title": "Dwelling",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Destination Unknown",
+            "Heal Our Inner Child And Chill",
+            "Standby",
+            "Left To None",
+            "If You Change Your Mind",
+            "I Could Get To Know You ",
+            "Reassurance"
+        ],
+        "Date": "2024-02-05",
+        "Blurb": "An introspective yet empathetic LP that uses modern, crossover-friendly dance music as a vehicle for overcoming heartbreak.",
+        "Recommended": false,
+        "Author": "Arielle Lana LeJarde"
+    },
+    {
+        "Artist": "Regal86",
+        "Title": "Unearthed Vol. II *100 Trax*",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Hip-Hop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2024-02-02",
+        "Blurb": "2023's most prolific breakout star shares 100 tracks, from G-funk to hardgroove.\n",
+        "Recommended": true,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Andrés",
+        "Title": "Andrés V",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mahogani Music"
+            }
+        ],
+        "Tracklist": [
+            "Praises",
+            "Cybermate",
+            "Listen To The Sound",
+            "Autumn Getaway",
+            "Funky 2Step",
+            "Detoxfromtheworld",
+            "I Need It",
+            "Jungle Stroll"
+        ],
+        "Date": "2024-01-24",
+        "Blurb": "From roller rink funk to scratch-happy hip-hop, the Detroit artist's latest marks 20 years of albums on Mahogani Music.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Tiga & Hudson Mohawke",
+        "Title": "L'Ecstasy",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Love Minus Communications"
+            }
+        ],
+        "Tracklist": [
+            "Exit Warehouse At Dawn",
+            "TR Smooth",
+            "Night Is Not",
+            "VSOD",
+            "Feel The Rush feat. Channel Tres",
+            "BUYBUYSELL",
+            "Love Minus Zero",
+            "Natural Spirit",
+            "Silence Of Love feat. Jesse Boykins III",
+            "Theme From Borneo Function",
+            "Duro",
+            "Polyvoxx",
+            "Ascending Into The Clouds feat. Elisabeth Troy",
+            "LMZNIN",
+            "winter crush",
+            "IN ORDER 2",
+            ""
+        ],
+        "Date": "2024-01-19",
+        "Blurb": "A Herculean dance music tête-à-tête from Montreal by way of Glasgow.\n",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Voice Actor",
+        "Title": "Fake Sleep",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "STROOM 〰"
+            }
+        ],
+        "Tracklist": [
+            "HHBYTL feat. Yarrow.co",
+            "SLUSH 77",
+            "U Projected 2",
+            "Daydream",
+            "Let U Go",
+            "Camden",
+            "What It's Worth",
+            "Stand Tall",
+            "Freefall",
+            "False Glistening",
+            "Minefields",
+            "Exposed",
+            "Closer",
+            "Myself 2 Myself",
+            "Shoulder Length",
+            "Pelli"
+        ],
+        "Date": "2024-01-17",
+        "Blurb": "An excellently uncanny follow-up from the elusive ambient duo—this time, it's not four hours long.",
+        "Recommended": true,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Dance Maniacs",
+        "Title": "Built Like That",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "JUKE BOUNCE WERK"
+            }
+        ],
+        "Tracklist": [
+            "Motion",
+            "Drop That Bih",
+            "Bounce",
+            "Dance!",
+            "Built Like That",
+            "Keys To The Gate",
+            "Siren Drum",
+            "EverythingisBackwards"
+        ],
+        "Date": "2024-01-10",
+        "Blurb": "Dance Maniacs' grab-bag genre approach reflects the rave music renaissance underway in Los Angeles.",
+        "Recommended": true,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "Various",
+        "Title": "20 Years Of Phonica",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Phonica Records"
+            }
+        ],
+        "Tracklist": [
+            "Disc 1",
+            "Daniel Avery – Bell ",
+            "Paramida & E-Talking – Read My Lips ",
+            "Nyra – Broken Needs",
+            "Gene on Earth – Club Jacket ",
+            "Dam Swindle – Allright (Just A Tribute) ",
+            "Huerta – Hit The Bit ",
+            "Dauwd – Slam ",
+            "System Olympia – A Mezzonotte ",
+            "Tim Reaper & Comfort Zone – Subterranean ",
+            "Shy One – Uncle G ",
+            "Toby Tobias – On My Mind (Freak Mix) ",
+            "Willow – Willbush ",
+            "Dorisburg – Midi Trail ",
+            "Keisuke – Ride It Out",
+            "",
+            "Disc 2",
+            "Peggy Gou – Six O Six ",
+            "Midland – Before We Leave (Gerd Janson Remix) ",
+            "Felipe Gordon & Bob The Egoist – Get Your Body Movin' ",
+            "Harrison BDP – Easy Tiger ",
+            "Eli Escobar – FindAWay2Day ",
+            "Kassian – Faux Polynesia",
+            "Will Saul – For Joanie ",
+            "Austin Ato – Song for Mr Lewis (Edit) ",
+            "Secretsundaze – Still Hope (Waajeed's Detroit Hardcore Dub)",
+            "Ron Basejam – The Hurt Inside ",
+            "Harry Wolfman – SMBC ",
+            "Pional – XME ",
+            "Subb-an & Luther Vine – Sunday Roll Through ",
+            "Kieran Jandu – From My Soul",
+            "",
+            "Disc 3",
+            "Roman Flugel – Black Acid ",
+            "Yak – Zip ",
+            "Niños Indigo – Luna (Shanti Celeste Remix)",
+            "Escape Artist – Energy Breakthrough (Adam Pits' Lightspeed Mix) ",
+            "Nuage – Pink Television",
+            "Justin Cudmore – Train Dance ",
+            "Al Zanders – Song About A Dream ",
+            "Earth Trax – Truth (Main Street Mix) ",
+            "Voodoos & Taboos – Witch House ",
+            "Lea Lisa – Love To The End (Sunset Short Edit)",
+            "Art Crime – Obsession",
+            "Asyncronous – Shinkansen ",
+            "Sad City – Baixa Saxophone"
+        ],
+        "Date": "2024-01-05",
+        "Blurb": "The London institution celebrates two decades by showcasing its past and future. \n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various (Music From Memory)",
+        "Title": "10",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Music From Memory"
+            }
+        ],
+        "Tracklist": [
+            "A1 Joan Bibiloni - Nits De La Sultana",
+            "A2 The Zenmenn - The Legend Of Haziz",
+            "A3 Ströer - When You Stopped Sleeping",
+            "A4 Androo - W.I.O. (micmac mix)",
+            "A5 Joel Graham - Cool Blue Pool",
+            "B1 Jonny Nash - Dream It Right",
+            "B2 Terekke - Just Ducking Around",
+            "B3 Mei Honeycomb - Squeaky Eye Syndrome",
+            "B4 Tombolo - Continental Drift",
+            "C1 Kuniyuki Takahashi - Forest Dust",
+            "C2 Yu Su & J. Wilson - Mitti Attar",
+            "C3 Gigi Masin - Panama Girl",
+            "D1 Ocean Moon - The Ecstatic Alarm",
+            "D2 Michal Turtle - Borrowed Times",
+            "D3 RAMZi - baci",
+            "D4 Suso Sáiz - Kailas",
+            "D5 Dea - Undecenial"
+        ],
+        "Date": "2023-12-22",
+        "Blurb": "A bittersweet celebration of one of the past decade's defining electronic music labels.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    }
+]

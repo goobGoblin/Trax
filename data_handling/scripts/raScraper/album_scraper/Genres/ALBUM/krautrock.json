@@ -1,0 +1,730 @@
+[
+    {
+        "Artist": "Mount Kimbie",
+        "Title": "The Sunset Violent",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "The Trail",
+            "Dumb Guitar",
+            "Shipwreck",
+            "Boxing feat. King Krule",
+            "Got Me",
+            "A Figure In The Surf",
+            "Fishbrain",
+            "Yukka Tree",
+            "Empty And Silent feat. King Krule"
+        ],
+        "Date": "2024-04-05",
+        "Blurb": "The UK duo grows into a full four-piece band on this album of classy, exploratory Krautrock.",
+        "Recommended": false,
+        "Author": "Marshall Gu"
+    },
+    {
+        "Artist": "Biosphere",
+        "Title": "Inland Delta",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Biophon Records"
+            }
+        ],
+        "Tracklist": [
+            "Surface Tension",
+            "Delta Function",
+            "Franklin's Dream",
+            "Wolfgang's Wave",
+            "Brownian Motion",
+            "Random Walk",
+            "The String Thing",
+            "Florian's Flute",
+            "Jane's Lament"
+        ],
+        "Date": "2023-12-29",
+        "Blurb": "The revered ambient composer shifts gears to '70s style synth work on a relatively simple, yet wonderfully executed album.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Fridge",
+        "Title": "Happiness –​ ​Anniversary Edition",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Text Records"
+            },
+            {
+                "name": "Temporary Residence Limited"
+            }
+        ],
+        "Tracklist": [
+            "Melodica & Trombone",
+            "Drum Machines & Glockenspiel",
+            "Cut Up Piano & Xylophone",
+            "Tone Guitar & Drum Noise",
+            "Five Four Child Voice",
+            "Sample & Clicks",
+            "Drums Bass Sonics & Edits",
+            "Harmonics",
+            "Long Singing",
+            "Five Combs (Bonus Track) "
+        ],
+        "Date": "2023-06-06",
+        "Blurb": "A welcome reissue of Four Tet's old post-rock band that highlights the comfort they felt together, effortlessly making experimental and often beautiful compositions.",
+        "Recommended": false,
+        "Author": "Joshua Minsoo Kim"
+    },
+    {
+        "Artist": "Caterina Barbieri",
+        "Title": "Spirit Exit",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "light-years"
+            }
+        ],
+        "Tracklist": [
+            "At Your Gamut",
+            "Transfixed",
+            "Canticle of Cryo",
+            "Knot Of Spirit (Synth Version)",
+            "Broken Melody",
+            "Life At Altitude",
+            "Terminal Clock",
+            "The Landscape Listens",
+            ""
+        ],
+        "Date": "2022-08-16",
+        "Blurb": "Incorporating vocals and more traditional song structures, Spirit Exit takes the Italian artist's epic synth odysseys and pulls them down a little closer to Earth.",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Tangerine Dream",
+        "Title": "Raum",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kscope"
+            }
+        ],
+        "Tracklist": [
+            "Continuum",
+            "Portico",
+            "In 256 Zeichen",
+            "You're Always On Time",
+            "Along The Canal",
+            "What You Should Know About Endings",
+            "Raum"
+        ],
+        "Date": "2022-03-11",
+        "Blurb": "Don't call it a comeback, but this LP—carrying the spirit of Edgar Froese's musical genius—is the best Tangerine Dream record in decades.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Nous, Laraaji & Arji OceAnanda",
+        "Title": "Circle Of Celebration",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Our Silent Canvas"
+            }
+        ],
+        "Tracklist": [
+            "Into Nousness",
+            "Of Common Origin",
+            "Connecting",
+            "In This Light",
+            "Ceremonial",
+            "Hari Ram",
+            "Through the Veil",
+            "Floating",
+            "Ascending",
+            "Giving Praise"
+        ],
+        "Date": "2022-01-12",
+        "Blurb": "A tantric jam session that touches on everything from prog rock to sonic healing to ambient music.",
+        "Recommended": false,
+        "Author": "Tajh Morris"
+    },
+    {
+        "Artist": "DARKSIDE",
+        "Title": "Spiral",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Matador Records"
+            }
+        ],
+        "Tracklist": [
+            "Narrow Road",
+            "The Limit",
+            "The Question Is To See It All",
+            "Lawmaker",
+            "I'm The Echo",
+            "Spiral",
+            "Liberty Bell",
+            "Inside Is Out There",
+            "Only Young"
+        ],
+        "Date": "2021-08-05",
+        "Blurb": "Jaar and Harrington make a good, not great second album.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Papiro",
+        "Title": "La Finestra Dentata",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Marionette"
+            }
+        ],
+        "Tracklist": [
+            "Odilon",
+            "La Finestra Dentata",
+            "Anelli",
+            "Barbadura",
+            "Romeo On The Beach",
+            "Il Grande Anatroccolo",
+            "Bodulator",
+            "Geisterstube",
+            "Il Triciclo Nascosto",
+            "After Hour (Bonus Track)"
+        ],
+        "Date": "2021-06-14",
+        "Blurb": "Whimsical electronics to whisk you to another world.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Rewind: Tangerine Dream",
+        "Title": "Phaedra",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Virgin Records"
+            }
+        ],
+        "Tracklist": [
+            "A1 Phaedra",
+            "B1 Mysterious Semblance At The Strand Of Nightmares",
+            "B2 Movements Of A Visionary",
+            "B3 Sequent C'"
+        ],
+        "Date": "2020-05-16",
+        "Blurb": "We revisit an album that remains a creative high watermark for Edgar Froese's band.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Prins Thomas",
+        "Title": "Ambitions",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Jazz"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Smalltown Supersound"
+            }
+        ],
+        "Tracklist": [
+            "Foreplay",
+            "XSB",
+            "Feel The Love",
+            "Ambitions ",
+            "Fra Miami Til Chicago",
+            "Urmannen ",
+            "Sakral"
+        ],
+        "Date": "2019-05-04",
+        "Blurb": "The Norwegian artist pushes further past his formative space disco sound.",
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Woo",
+        "Title": "Awaawaa",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Palto Flats"
+            }
+        ],
+        "Tracklist": [
+            "A1 Odd Spiral",
+            "A2 Green Blob",
+            "A3 Mobile Phone",
+            "A4 The Goodies",
+            "A5 Homage to Matta",
+            "A6 Sympti",
+            "A7 Tick Tock",
+            "B1 Awaawaa",
+            "B2 Back on Track",
+            "B3 Ruby Past Lives",
+            "B4 Wobbly",
+            "B5 Robots Dancing",
+            "B6 Babalonia",
+            "B7 Sailing",
+            "B8 Fun, The Final Frontier",
+            "B9 Fanfare"
+        ],
+        "Date": "2016-02-09",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Fort Romeau",
+        "Title": "Insides",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ghostly International"
+            }
+        ],
+        "Tracklist": [
+            "New Wave ",
+            "Folie ",
+            "All I Want ",
+            "Insides ",
+            "Not A Word ",
+            "IKB ",
+            "Lately ",
+            "Cloche"
+        ],
+        "Date": "2015-04-13",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Prins Thomas",
+        "Title": "III",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Full Pupp"
+            }
+        ],
+        "Tracklist": [
+            "Hans Majestet",
+            "Arabisk Natt (Dub)",
+            "Kameloen",
+            "Lysar Fra Morellveien",
+            "Enmannsrock",
+            "Kavalar",
+            "Luftspeiling",
+            "Oase",
+            "Trans",
+            "Labyrint",
+            "Apne Slusa"
+        ],
+        "Date": "2014-06-13",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    },
+    {
+        "Artist": "Vermont",
+        "Title": "Vermont",
+        "Genre": [
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kompakt"
+            }
+        ],
+        "Tracklist": [
+            "Yaiza ",
+            "Rückzug ",
+            "bersprung ",
+            "Sharav ",
+            "Dynamik ",
+            "Majestät ",
+            "Cocos ",
+            "Elektron ",
+            "Katzenjammer ",
+            "Droixhe ",
+            "Macchina (Side A On Bonus 7-inch) ",
+            "Ebbe ",
+            "Lithium (Side B On Bonus 7-inch) ",
+            "Montag ",
+            ""
+        ],
+        "Date": "2014-04-08",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    },
+    {
+        "Artist": "Sensations' Fix",
+        "Title": "Music Is Painting in the Air",
+        "Genre": [
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rvng Intl."
+            }
+        ],
+        "Tracklist": [
+            "CD1",
+            "Barnhause Effect\t",
+            "Cold Nose Part 3, 4th Movement ",
+            "Leave My Chemistry \t\t",
+            "Acudreaming \t\t",
+            "Grow On You \t\t",
+            "Scraping Delay \t\t",
+            "Warped Notions of a Practical Joke (Instrumental) \t\t",
+            "Dark Side of Religion \t\t",
+            "Cosmic Saudade \t",
+            "Cold Nose Part 3, Movement 2 \t\t",
+            "Fragments of Light \t",
+            "Into the Memory",
+            "Cold Nose Part 3, Movement 5 \t",
+            "C'e Nessuno \t",
+            "Map",
+            "Moving Particles \t\t",
+            "",
+            "CD2",
+            "Cold Nose Part 3, Movement 3 \t",
+            "Music Is Painting \t\t",
+            "Left Side of Green",
+            "Chelsea Hotel (Room 625)\t",
+            "Fix a Water Fountain (Instrumental) \t\t",
+            "Overflowing Ashtrays \t\t",
+            "Strangelands\t",
+            "Cold Nose Story \t",
+            "Slow Motion Movie \t\t",
+            "Fortune Teller \t",
+            "Fortune Teller Coda \t\t",
+            "Crossing Berlin",
+            "Darkside 1 & 3 \t",
+            "Darkside 2"
+        ],
+        "Date": "2012-10-04",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "stephen kerr"
+    },
+    {
+        "Artist": "Ursprung",
+        "Title": "Ursprung",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dial Records"
+            }
+        ],
+        "Tracklist": [
+            "Mummenschanz ",
+            "Ohne Worte ",
+            "Seiland ",
+            "Exodus Now ",
+            "Chruezegg ",
+            "Lizzy ",
+            "In Aufruhr ",
+            "Nightbirds",
+            "Kalte Eiche",
+            "Am Buachaille "
+        ],
+        "Date": "2012-06-12",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    },
+    {
+        "Artist": "Bjorn Torske",
+        "Title": "Kokning",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Smalltown Supersound"
+            }
+        ],
+        "Tracklist": [
+            "Kokning",
+            "Bryggesjau",
+            "Gullfjellet",
+            "Langt Fra Afrika",
+            "Bergensere",
+            "Slitte Sko",
+            "Nitten Nitti",
+            "Versjon Wolfenstein",
+            "Furu"
+        ],
+        "Date": "2011-01-06",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    },
+    {
+        "Artist": "Bot'Ox",
+        "Title": "Babylon by Car",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "I'm A Cliché"
+            }
+        ],
+        "Tracklist": [
+            "Motor City",
+            "Bearded lady Motorcycle Club",
+            "Blue Steel feat. Anna Jean",
+            "Crashed Cadillac",
+            "Tout Passe, Tout Lasse, Tout Casse feat. Judy Nylon",
+            "Babylon By Car",
+            "Rue de lâ€™Arsenal",
+            "Car Jacked",
+            "Tragedy Symphony feat. Mark \"Bogus\" Kerr",
+            "Slow Burn feat. Mark \"Bogus\" Kerr"
+        ],
+        "Date": "2010-12-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "M Matos"
+    },
+    {
+        "Artist": "Luke Abbott",
+        "Title": "Holkham Drones",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Border Community"
+            }
+        ],
+        "Tracklist": [
+            "nd 5th Heavy \t",
+            "Swansong\t",
+            "Whitebox ",
+            "More Room \t",
+            "Holkham Drones \t",
+            "Trans Forest Alignment \t",
+            "Sirens For The Colour \t",
+            "Hello Tazelaar \t\t",
+            "Baalnk \t",
+            "Brazil \t",
+            "Soft Attacks \t",
+            "Dumb "
+        ],
+        "Date": "2010-08-26",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Deutsche Elektronische Musik",
+        "Genre": [
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Soul Jazz Records"
+            }
+        ],
+        "Tracklist": [
+            "CD 1",
+            "Can - Aspectacle",
+            "Between - Devotion",
+            "Harmonia - Dino",
+            "Gila - This Morning",
+            "Kollectiv - Rambo Zambo",
+            "Michael Bundt - La Chasse Aux Microbes",
+            "EMAK - Filmmuzik",
+            "Popol Vuh - Morgengruss",
+            "Conrad Schnitzler - Auf Dem Schwarzen Kanal",
+            "La Dusseldorf - Rheinita",
+            "Harmonia - Veterano",
+            "Faust - It's A Rainy Day, Sunshine Girl",
+            "Neu! - Hallogallo",
+            "",
+            "CD 2",
+            "Cluster - Heisse Lippen",
+            "Ibliss - High Life",
+            "Moebius - Hasenheide",
+            "Amon Duul II - Fly United",
+            "Popol Vuh - Aguirre 1",
+            "Ash Ra Tempel - Daydream",
+            "Tangerine Dream - No Man's Land",
+            "Amon Duul II - Wie Der Wind Am Ende Einer Strasse",
+            "Roedelius - Geradewohl",
+            "Can - I Want More",
+            "Deuter - Soham"
+        ],
+        "Date": "2010-06-09",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Chris Mann"
+    }
+]

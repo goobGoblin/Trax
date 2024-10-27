@@ -1,0 +1,64 @@
+.easter-egg {
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+.label-page-container {
+	margin: 50px;
+	margin-top: 0;
+	max-height: 100vh;  /* Set the maximum height to 90% of the viewport height */
+	overflow-y: auto;   /* Enable vertical scrolling */
+	padding: 20px;      /* Optional: Add padding for better layout */
+	box-sizing: border-box; /* Include padding in height calculation */
+	scrollbar-width: none; /* For Firefox */
+}
+
+.label-page-container h1 {
+  	text-align: left;
+	margin-bottom: 0;
+	margin-top: 10vh;
+	padding: 0;
+}
+
+.main-label-container {
+	background-color: #ffffff;
+	padding: 10px;
+	/* width: 100%; */
+	margin-bottom: 40px;
+	border: none;
+	border-radius: 20px;
+}
+
+/* Hide scrollbar for webkit (Chrome, Safari, Edge) */
+.label-page-container::-webkit-scrollbar {
+    display: none;
+}
+
+.label-container {
+    background-color: rgba(192, 192, 192, 0.4); /* Silver background with 50% opacity */
+    padding: 1px; /* Padding inside the box for spacing */
+    margin: 10px auto; /* Centers the box and provides space from other elements */
+    max-width: 100%; /* Maximum width of the container */
+    border-radius: 10px; /* Rounds the corners of the box */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Adds a subtle shadow for depth */
+    color: #333; /* Sets the text color to a dark gray for contrast */
+    font-size: 18px; /* Sets the size of the text inside the box */
+    /* text-align: center; /* Aligns text to the center of the box */
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+
+
+}
+.label-container h1 {
+    margin-left: 20px; /* 10 pixel gap from the left edge */
+    margin-bottom: 15px; /* Adds bottom margin for spacing between the name and description */
+    font-size: 60px; /* Makes the album name larger than the description text */
+}
+
+.label-container p {
+    text-align: left; /* Ensures the description text is left-aligned */
+    margin-left: 20px; /* Aligns text with the h1 tag, remove if not necessary */
+    margin-right: 20px;
+    font-weight: 500;
+}
+

@@ -1,0 +1,734 @@
+[
+    {
+        "Artist": "Korea Town Acid",
+        "Title": "In Motion",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "dis·co·theque feat. Delic'amarr & Midas P",
+            "No Hard Feelings",
+            "Everyday",
+            "dejavu",
+            "Malibu",
+            "Closed doors",
+            "Heads up feat. Hood Joplin",
+            "uggy feat. Moist Briefs",
+            "Ur trauma feat. Delic'amarr & Midas P"
+        ],
+        "Date": "2024-04-13",
+        "Blurb": "A jam-packed album of footwork, electro, jungle and jazz that marks a production milestone for the genre-fluid Toronto artist.",
+        "Recommended": false,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "Jlin",
+        "Title": "Akoma",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Borealis feat. Björk",
+            "Speed Of Darkness",
+            "Summon",
+            "Iris",
+            "Open Canvas",
+            "Challenge (To Be Continued II)",
+            "Eye Am",
+            "Auset",
+            "Sodalite feat. Kronos Quartet",
+            "Grannie's Cherry Pie",
+            "The Precision Of Infinity feat. Philip Glass"
+        ],
+        "Date": "2024-04-01",
+        "Blurb": "A thrilling fusion of classical and electronic music from the reigning champ.\n",
+        "Recommended": true,
+        "Author": "Miguel Otárola"
+    },
+    {
+        "Artist": "Heavee",
+        "Title": "Unleash",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "StarSeeker",
+            "Unlock!",
+            "Search N'4 feat. BABii",
+            "BangBang",
+            "CanUFeelit",
+            "Bounce Dat feat. DJ Paypal & Dan TOG",
+            "Unleash",
+            "SeeTheSun",
+            "Whiplash",
+            "Sumthin' Different",
+            "Heart Fragments",
+            "WorkMe",
+            "Make It Work",
+            "Smoke Break feat. HomeSick & Takuya Nakamar"
+        ],
+        "Date": "2024-03-20",
+        "Blurb": "Heavee fleshes out his vibrant style of footwork with an RPG-style narrative of self-discovery.",
+        "Recommended": true,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Dance Maniacs",
+        "Title": "Built Like That",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "JUKE BOUNCE WERK"
+            }
+        ],
+        "Tracklist": [
+            "Motion",
+            "Drop That Bih",
+            "Bounce",
+            "Dance!",
+            "Built Like That",
+            "Keys To The Gate",
+            "Siren Drum",
+            "EverythingisBackwards"
+        ],
+        "Date": "2024-01-10",
+        "Blurb": "Dance Maniacs' grab-bag genre approach reflects the rave music renaissance underway in Los Angeles.",
+        "Recommended": true,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "DJ Manny",
+        "Title": "Hypnotized",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Hard Drive feat. SUCIA!",
+            "WTF Goin On",
+            "Hypnotized",
+            "Ooh Baby feat. DJ Rashad",
+            "I Can Luv U",
+            "You N You feat. DJ Phil",
+            "Overnight Flight",
+            "Want U Bad",
+            "Turn Me Up",
+            "Opera",
+            "Lost In Da Jungle",
+            "Deep In My Mind"
+        ],
+        "Date": "2023-12-11",
+        "Blurb": "DJ Manny's second album for Planet Mu broadens footwork's future by blending it with a dizzying array genres and moods.",
+        "Recommended": false,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "DJ SWISHA",
+        "Title": "Assorted Flavors Vol. 6",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Paradise Loop",
+            "Pop n Shake feat. Kanyon",
+            "Henndawg",
+            "WABBLEDEEDABBLEDEE",
+            "Fugue State",
+            "Juke-A-Later (DJ Tool)",
+            "Tweaked Out feat. Kush Jones",
+            "Tweaked Out feat. Kush Jones (Instrumental)",
+            "New Luv",
+            "Stardawg"
+        ],
+        "Date": "2023-09-20",
+        "Blurb": "A grab bag of recent tracks that showcases DJ SWISHA's impressively wide-ranging talent.",
+        "Recommended": false,
+        "Author": "Doug Markowitz"
+    },
+    {
+        "Artist": "RP Boo",
+        "Title": "Legacy Volume 2",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Eraser",
+            "Heavy Heat",
+            "Total Darkness",
+            "Flo Control",
+            "Under D-Star",
+            "Say Grace",
+            "Knockout",
+            "Azzoutof Control",
+            "B.O.T.O.",
+            "Pop Machine",
+            "Porno",
+            "Off Da Hook",
+            "Last Night"
+        ],
+        "Date": "2023-06-23",
+        "Blurb": "A collection of tracks made between 2002 and 2007 that show the footwork pioneer at his rawest, darkest and most inventive.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Nondi_",
+        "Title": "Flood City Trax",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "FCD (Floaty Cloud Dream)",
+            "Orchid Juke",
+            "Sun Juke",
+            "Nondi Shadow",
+            "Euphonic Daydream",
+            "06. 01-25-2022",
+            "Healing Rain",
+            "Dusty",
+            "Nostalgic Vision",
+            "Long Ago",
+            "Sentimental Juke",
+            "Harmoyear"
+        ],
+        "Date": "2023-05-08",
+        "Blurb": "A moody, footwork-infused reflection of what it's like to live in a city with a history of disaster.\n",
+        "Recommended": true,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "DJ Girl",
+        "Title": "Hellworld",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Get Down",
+            "Opp Pack Hittin feat. Malick McFly",
+            "Technician",
+            "Lucky",
+            "Gallery feat. Malick McFly",
+            "So Hot",
+            "When U Touch Me feat. Lighght",
+            "Groover"
+        ],
+        "Date": "2023-04-06",
+        "Blurb": "The Detroit producer's debut album rekindles Planet Mu's '00s character with its hodgepodge of fast-paced styles and unruly energy.",
+        "Recommended": true,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Suzi Analogue",
+        "Title": "Infinite Zonez",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Disciples"
+            }
+        ],
+        "Tracklist": [
+            "DEEP feat. Junglepussy",
+            "BEST 16",
+            "She's Gonna  feat. RP Boo",
+            "NNO APOLOGY feat. Michael Millions",
+            "Stay Ready / Ur Dreamz",
+            "Deserve Betta  feat. DJ Taye & Opal Hoyt",
+            "FSN8",
+            "Wildflowrr",
+            "Shine Nn Any Weather feat. NappyNappa",
+            "Don't Clock Nn",
+            "Nnow Flexx",
+            "Jump Rope Reprise",
+            "Nrgnrg",
+            ""
+        ],
+        "Date": "2022-11-11",
+        "Blurb": "Shimmering club tracks that celebrate Black club music from both sides of the Atlantic.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": null,
+        "Title": "Jessy Lanza - DJ-Kicks",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "!K7"
+            }
+        ],
+        "Tracklist": [
+            "Jessy Lanza - Guess What",
+            "Jessy Lanza - Seven 55 feat. Loraine James",
+            "Jessy Lanza - Wet x3 feat. Taraval",
+            "DJ Spookie - Twilite",
+            "Michael J. Blood - Lip Biter",
+            "Mr Ho - Bail-E ",
+            "Crystal - Jungli - la [Joe Howe Club Mix]",
+            "Masarima - Freak Lke U [Club Mix]",
+            "Golden Donna - Foaming",
+            "Mafia Boyz - Teaspoon La Qoh",
+            "Markus Mann - I’m Losing",
+            "Jim C. Nedd - Maleka",
+            "Maarten Van Der Vleuten - Nightshift",
+            "Secret Werewolf - Yage",
+            "Grain - Untitled B2",
+            "Gant-Man - Distorted Sensory (Loefah's Southside Rmx)",
+            "G3 - Drum 2 [Peanut]",
+            "Lolina - A Path of Weeds and Flowers",
+            "Dee Jay Nehpets - Na Na Na",
+            "Oyubi - 140yaku",
+            "DJ SWISHA - If the Shoe Fits",
+            "Jessy Lanza - Heaving feat. Taraval",
+            "TAH - Beat It Up Like (These Drums)",
+            "Kanyon - IDFWS",
+            "CN - Anubis",
+            "The Raining Heart - Raining Heart"
+        ],
+        "Date": "2021-12-10",
+        "Blurb": "An adventurous and excitable mix that makes the case for the Canadian artist as skilled a DJ as she is a singer and producer.",
+        "Recommended": false,
+        "Author": "Katie Thomas"
+    },
+    {
+        "Artist": "RP Boo",
+        "Title": "Established!",
+        "Genre": [
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "All My Life ",
+            "How 2 Get It Done! ",
+            "Haters Increase The Heat! ",
+            "Oh! ",
+            "Finally Here feat. Afiya ",
+            "All Over ",
+            "Just Like That! ",
+            "Be Of It! ",
+            "Now U Know! ",
+            "Ivory Surface ",
+            "Beauty Speak Of Sounds ",
+            "Another Night To Party "
+        ],
+        "Date": "2021-09-17",
+        "Blurb": "Topping a triumphant year for footwork, RP Boo tells the story of his sprawling career with an ode to ghetto house, funk and, of course, the battle track.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Jana Rush",
+        "Title": "Painful Enlightenment",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Moanin'",
+            "Suicidal Ideation",
+            "Painful Enlightenment",
+            "G-Spot",
+            "Disturbed",
+            "Disorientation",
+            "Mynd Fuc ",
+            "Intergalactic Battle feat. DJ Paypal",
+            "Drivin' Me Insane feat. Nancy Fortune",
+            "10. 3",
+            "Just A Taste feat. DJ Paypal"
+        ],
+        "Date": "2021-08-24",
+        "Blurb": "A sometimes abrasive and dissonant exploration of loneliness through the ghosts of footwork. \n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "DJ Manny",
+        "Title": "Signals In My Head",
+        "Genre": [
+            {
+                "name": "Footwork"
+            },
+            {
+                "name": "Jungle"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Never Was Ah Hoe",
+            "U Want It",
+            "You All I Need",
+            "Club GTA",
+            "All I Need",
+            "Wants My Body feat. DJ Chap",
+            "Havin' Fun feat. DJ Phil",
+            "Good Love",
+            "Signals In My Head",
+            "That Thang",
+            "Smoke 'n' Fade Away",
+            "At First Site",
+            ""
+        ],
+        "Date": "2021-08-04",
+        "Blurb": "At a pivotal moment in footwork history, DJ Manny injects the genre with a healthy dose of romance and R&B.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Ripatti",
+        "Title": "Fun Is Not A Straight Line",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "filthyfresh",
+            "monolith",
+            "motherfuckyou",
+            "speedmemories",
+            "flowers",
+            "everyday",
+            "dreams",
+            "wants interlude",
+            "videophonekitty",
+            "movathat",
+            "girl is hip"
+        ],
+        "Date": "2021-07-02",
+        "Blurb": "Vladislav Delay looks to footwork, hip-hop and old-school house on his rowdiest record yet.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "808 State",
+        "Title": "Transmission Suite",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Tokyo Tokyo",
+            "Skylon",
+            "Cannonball Waltz",
+            "The Ludwig Question",
+            "Huronic",
+            "Landau",
+            "Westland",
+            "Trinity",
+            "Ujala",
+            "Carbonade",
+            "Pulcenta",
+            "Angol Argol",
+            "Bushy Bushy",
+            "14. 13 13",
+            "Crab Claw"
+        ],
+        "Date": "2019-11-15",
+        "Blurb": "The acid house group's first album in 17 years is a brave attempt at reinvention that too often falls short.",
+        "Recommended": false,
+        "Author": "Carlos Hawthorn"
+    },
+    {
+        "Artist": "Traxman",
+        "Title": "Tekvision Volume 2",
+        "Genre": [
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Teklife"
+            }
+        ],
+        "Tracklist": [
+            "It's Lasting Bass",
+            "Let Me See You Naked feat. DJ Juicy",
+            "Work Dat Mutha Fucka feat. Steve Poindexter (Footwork Remixx) ",
+            "To Da Hozzzz feat. DJ Deeon (Remixx)",
+            "Da Lyfe",
+            "Wildcard feat. Jana Rush",
+            "Osaka"
+        ],
+        "Date": "2019-09-09",
+        "Blurb": "Traxman's latest LP nods to Chicago's dance music heritage while maintaining footwork's frenzied pace.",
+        "Recommended": false,
+        "Author": "Hugh Taylor"
+    },
+    {
+        "Artist": "DJ Nate",
+        "Title": "Take Off",
+        "Genre": [
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Bring Your Best Crack",
+            "You Ain't Ready To Battle",
+            "Come Back",
+            "Oh Woooaaah",
+            "Get Rid Of Em",
+            "Fuck Dat",
+            "Wat U Wont 2 Do",
+            "Go Krazy",
+            "Get Back",
+            "Get It Right Hoe",
+            "Just Be Truu",
+            "Pack Em",
+            "Aww Baby What U Waitn",
+            "Talk 2 Me",
+            "Planet Mu",
+            "Get Off Me (Betta Get Back)",
+            "La Happy Day"
+        ],
+        "Date": "2019-04-30",
+        "Blurb": "The Chicago producer makes an unlikely comeback on Planet Mu.",
+        "Recommended": false,
+        "Author": "Layla Fassa"
+    },
+    {
+        "Artist": "foodman",
+        "Title": "Aru Otoko No Densetsu",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sun Ark"
+            }
+        ],
+        "Tracklist": [
+            "Kakon",
+            "Percussion",
+            "03. 337",
+            "Akarui",
+            "Fue",
+            "Body",
+            "Mizu Youkan",
+            "Clock",
+            "Tata",
+            "Tabij2",
+            "Sauna",
+            "Mozuku"
+        ],
+        "Date": "2018-11-10",
+        "Blurb": "A fun take on footwork.",
+        "Recommended": false,
+        "Author": "Sessi Blanchard"
+    },
+    {
+        "Artist": "Jlin",
+        "Title": "Autobiography",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "First Overture (Spiritual Atom)",
+            "Annotation",
+            "Carbon 12",
+            "Unorthodox Elements",
+            "Anamnesis (Part 1)",
+            "The Abyss Of Doubt",
+            "Mutation",
+            "First Interlude (Absence Of Measure)",
+            "Permutation",
+            "Kundalini",
+            "Anamnesis (Part 2)",
+            "Blue I",
+            "Second Interlude (The Choosing)"
+        ],
+        "Date": "2018-10-09",
+        "Blurb": "Jlin deftly expands her sound in this score for Wayne McGregor's ballet.",
+        "Recommended": false,
+        "Author": "Sessi Blanchard"
+    }
+]

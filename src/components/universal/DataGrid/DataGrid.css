@@ -1,0 +1,17 @@
+/* DataGrid.css */
+.data-grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 items per row */
+  gap: 5px; /* 5px gap between items */
+  padding: 5px; /* Padding around the grid */
+  width: 100%; /* Full width */
+}
+
+
+
+.data-item::before {
+  content: '';
+  display: block;
+  width: 100%;
+  padding-top: 50%; /* Aspect ratio 2:1 (width : height) */
+}

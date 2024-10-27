@@ -1,0 +1,744 @@
+[
+    {
+        "Artist": "Gaika",
+        "Title": "Drift",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Big Dada"
+            }
+        ],
+        "Tracklist": [
+            "DRIFT ON",
+            "PIÑATA",
+            "GUNZ",
+            "FIRST AMONG MISFITS feat. The Narrator",
+            "LA VACANZA feat. Kidä",
+            "SUBLIME",
+            "EXIT TO CISCO",
+            "LADY feat. BBYMUTHA",
+            "O VAMPIRO",
+            "BONEHEAD BEHAVIOR",
+            "VICIOUS CHAMBERS",
+            "ULTRA SCURO",
+            "AND THERE GOES THE CHALLENGER",
+            "LESS BURNERS BIGGER HEARTS feat. The Narrator, Azekel"
+        ],
+        "Date": "2023-09-26",
+        "Blurb": "Futuristic rap-rock-dancehall as seen through the lens of '80s and '90s nostalgia.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "The Bug",
+        "Title": "Fire",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ninja Tune"
+            }
+        ],
+        "Tracklist": [
+            "The Fourth Day feat. Roger Robinson",
+            "Pressure feat. Flowdan",
+            "Demon feat. Irah",
+            "Vexed feat. Moor Mother",
+            "Clash feat. feat. Logan",
+            "War feat. Nazamba",
+            "How bout dat feat. FFSYTHO",
+            "Bang feat. Manga Saint Hilare",
+            "Hammer feat. Flowdan",
+            "Ganja Baby feat. Daddy Freddy",
+            "Fuck Off feat. feat. Logan",
+            "Bomb feat. Flowdan",
+            "High Rise feat. Manga Saint Hilare",
+            "The Missing feat. Roger Robinson"
+        ],
+        "Date": "2021-09-08",
+        "Blurb": "The Bug crafts his hardest, meanest record after a year of hell.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Equiknoxx",
+        "Title": "Basic Tools",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Equiknoxx Music"
+            }
+        ],
+        "Tracklist": [
+            "MP Five",
+            "Urban Snare Cypher",
+            "Thingamajigama feat. RTKal & Rege SO$A",
+            "Basic Tools Live @ DJ Krush",
+            "Was Not Initially Called Make iT Stop feat. Storm Saulter & Doll Face Charmie ",
+            "A Very Pretty Red Light",
+            "This Song iS Not About Labelling Cables feat. Storm Saulter",
+            "UGGH Feat. Joey B (MCR)",
+            "MP Five (Instrumental)",
+            "Urban Snare Cypher (Instrumental)",
+            "Thingamajigama (Instrumental)",
+            "Basic Tools Live @ DJ Krush (Instrumental)",
+            "Was Not Initially Called Make iT Stop (Instrumental)",
+            "A Very Pretty Red Light (Instrumental)",
+            "This Song iS Not About Labelling Cables (Instrumental)",
+            "UGGH (Instrumental)"
+        ],
+        "Date": "2021-08-31",
+        "Blurb": "Wonderfully weird and funny dispatches from dancehall's new vanguard.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Now Thing 2",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Chrome"
+            }
+        ],
+        "Tracklist": [
+            "Gadaffi - Saddam Rhythm",
+            "Arif Cooper - Good Vybe",
+            "Richard Browne - Grass Cyaat Refix",
+            "Lion Face - Unleaded",
+            "Ward 21 - Volume",
+            "Lenky & Andrew Thomas - Bad Mongrell",
+            "Steely & Clevie - Bitter Blood",
+            "Andre Gray - Muddy",
+            "Bobby Konders - Lickshot Rewind",
+            "Dave Kelly - Heart Attack",
+            "Madd Spider - Hot Water",
+            "Kunley McCarthy - Cosa Nostra",
+            "Byron Murray - Free Up",
+            "Crown Star Productions - Fire Cracker",
+            "Teetimus & Sheldon Stewart - Sugar And Water",
+            "Donovan Germain - Are You That Somebody"
+        ],
+        "Date": "2021-07-16",
+        "Blurb": "The follow-up to a seminal 2001 compilation offers more essential turn-of-the-century dancehall.",
+        "Recommended": true,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Mr. Mitch",
+        "Title": "Lazy",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Gobstopper Records"
+            }
+        ],
+        "Tracklist": [
+            "Black Majik",
+            "Did We Say Goodbye?",
+            "Make Time feat. Duval Timothy",
+            "In The Hills",
+            "Lazy feat. Manga Saint Hilare",
+            "Proud feat. Miles",
+            "What They Want",
+            "Moving Up",
+            "Burn Down IDM",
+            "Sleep feat. Social State",
+            "Daydream of You"
+        ],
+        "Date": "2021-05-03",
+        "Blurb": "The London artist's third album is a compelling see-saw of energies and emotions.",
+        "Recommended": false,
+        "Author": "Carlos Hawthorn"
+    },
+    {
+        "Artist": "The Bug feat. Dis Fig",
+        "Title": "In Blue",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Around Me",
+            "Come",
+            "Destroy Me",
+            "Blood",
+            "In 2 U",
+            "Levitating",
+            "Forever",
+            "Blue To Black",
+            "Take",
+            "No Return",
+            "You ",
+            "End In Blue"
+        ],
+        "Date": "2021-01-12",
+        "Blurb": "Ambient dancehall and sensual trip-hop from Kevin Martin and Dis Fig.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Off The Meds",
+        "Title": "Off The Meds",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Studio Barnhus"
+            }
+        ],
+        "Tracklist": [
+            "Bheka Mina ",
+            "Fani Madida",
+            "Wena",
+            "Karlaplan",
+            "Factory Workers",
+            "Voice Of Meds",
+            "EKSE",
+            "Catch my Breath",
+            "Hiccups ",
+            "Vice Versa",
+            "Dr. Silencer",
+            "Wanting",
+            "Currency Low (bonus track) ",
+            "Belter (bonus track)"
+        ],
+        "Date": "2020-12-04",
+        "Blurb": "A breathtakingly zany debut album.\n",
+        "Recommended": false,
+        "Author": "Richard Akingbehin"
+    },
+    {
+        "Artist": "Fox",
+        "Title": "Juice Flow",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Swing Ting"
+            }
+        ],
+        "Tracklist": [
+            "Day Ones",
+            "Poseidon Ride feat. RTKal",
+            "Juice Flow",
+            "Unicorns And Uniforms",
+            "Somewhere In Poland",
+            "Hotzone",
+            "Rebel Souljah feat. Coco",
+            "Brighter Dayz",
+            "Walk Away feat. Shanique Marie",
+            "Lost & Found",
+            "Imagine",
+            "Norf) West",
+            "Live Life"
+        ],
+        "Date": "2019-12-15",
+        "Blurb": "The Swing Ting MC, backed by beatmakers like Equiknoxx, Finn and Sinjin Hawke, delivers an accomplished first album.",
+        "Recommended": false,
+        "Author": "Hugh Taylor"
+    },
+    {
+        "Artist": "WaqWaq Kingdom",
+        "Title": "Essaka Hoisa",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Phantom Limb"
+            }
+        ],
+        "Tracklist": [
+            "Mum Tells Me",
+            "Doggy Bag",
+            "Itadakimasu",
+            "Gift From God",
+            "rd Eye",
+            "GaGa",
+            "Hototogisu",
+            "Circle Of Life",
+            "Warg",
+            "Medicine Man"
+        ],
+        "Date": "2019-12-12",
+        "Blurb": "A philosophical album about loss and perseverence. It's also completely mad.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Equiknoxx",
+        "Title": "Eternal Children",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Equiknoxx Music"
+            }
+        ],
+        "Tracklist": [
+            "Solomon Is A Cup ",
+            "Brooklyn ",
+            "Corner ",
+            "Manchester feat. Brent Bird & Fox ",
+            "Good Sandra ",
+            "Move Along ",
+            "Grave feat. Alozade ",
+            "Rescue Me "
+        ],
+        "Date": "2019-07-06",
+        "Blurb": "The Jamaican group's third LP disappoints in its attempt to reach a wider audience.",
+        "Recommended": false,
+        "Author": "Max Pearl"
+    },
+    {
+        "Artist": "Miss Red",
+        "Title": "K.O.",
+        "Genre": [
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Pressure"
+            }
+        ],
+        "Tracklist": [
+            "Shock Out",
+            "One Shot Killer",
+            "Money Machine",
+            "Alarm",
+            "War",
+            "Come Again",
+            "Big",
+            "Clouds",
+            "Dust",
+            "Dagga",
+            "Slay",
+            "Memorial Day",
+            "K.O."
+        ],
+        "Date": "2018-07-16",
+        "Blurb": "This Kevin Martin-produced LP widens the scope of the duo's 2015 mixtape, <i>Murder</i>, with mostly impressive results.",
+        "Recommended": false,
+        "Author": "Max Pearl"
+    },
+    {
+        "Artist": "Equiknoxx",
+        "Title": "Colón Man",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "DDS"
+            }
+        ],
+        "Tracklist": [
+            "Kareece Put Some Thread In A Zip Lock ",
+            "Heathen Emissaries From The Dens Of Babylon ",
+            "Plantain Porridge ",
+            "Flank ",
+            "Your Ears Are Not Very Small ",
+            "Melodica Badness feat. Addis Pablo ",
+            "Ceremonial Eating Dog ",
+            "Sent For Ducklings, Got Ducks ",
+            "Enter A Raffle... Win A Falafel ",
+            "A World Of Welsh ",
+            "Definitely Not Something Offensive ",
+            "Waterfalls In Ocho Rios ",
+            "We Miss You Little Joe "
+        ],
+        "Date": "2017-11-30",
+        "Blurb": null,
+        "Recommended": true,
+        "Author": "Max Pearl"
+    },
+    {
+        "Artist": "STILL",
+        "Title": "I",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "PAN"
+            }
+        ],
+        "Tracklist": [
+            "Haile Selassie Is The Micro-Chip ",
+            "Bubbling Ambessa [Afrikan Messiah Riddim] ",
+            "Nazenèt [Wasp Riddim] ",
+            "Don't Stop [Wondo Riddim] ",
+            "Rough Rider ",
+            "BANZINA [Banzina Riddim] ",
+            "Gozpaal [Mustard Riddim] ",
+            "Still Sound Boy Test {Interlude} ",
+            "Mangrovia "
+        ],
+        "Date": "2017-10-04",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Lisa Blanning"
+    },
+    {
+        "Artist": "Equiknoxx",
+        "Title": "Bird Sound Power",
+        "Genre": [
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "DDS"
+            }
+        ],
+        "Tracklist": [
+            "Last Of The Mohicans ",
+            "Clunk",
+            "Peanut Porridge",
+            "Someone Flagged It Up!!",
+            "Porridge Should Be Brown Not Green",
+            "A Rabbit Spoke To Me When I Woke Up",
+            "The Link",
+            "Clink",
+            "Timebird",
+            "I Really Want To Write On Her Purple Wall",
+            "Lizard Of Oz",
+            "Congo Get Slap Like A Congo Get Slap"
+        ],
+        "Date": "2016-08-15",
+        "Blurb": null,
+        "Recommended": true,
+        "Author": "Angus Finlayson"
+    },
+    {
+        "Artist": "Palmistry",
+        "Title": "Pagan",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mixpak"
+            }
+        ],
+        "Tracklist": [
+            "Club Aso ",
+            "Sino ",
+            "Lifted ",
+            "Reekin ",
+            "L After L ",
+            "Beamer ",
+            "Paigon ",
+            "Comeragh Mountains ",
+            "Sip ",
+            "Ascent ",
+            "Great Shall Be Your Peace ",
+            "Adeus ",
+            "Sweetness "
+        ],
+        "Date": "2016-07-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Hugh Taylor"
+    },
+    {
+        "Artist": "Miss Red",
+        "Title": "Murder",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Mad ",
+            "Murder (Mark Pritchard riddim)",
+            "No Guns ",
+            "What Would You Like (Andy Stott riddim)",
+            "Rollercoaster ",
+            "Ganja Man",
+            "Sugar ",
+            "Lean Back (Stereotyp riddim) ",
+            "Trash It",
+            "Fever ",
+            "Pull It Up (Mumdance riddim) ",
+            "Leggo (Evian Christ riddim)",
+            "Dog Shot ",
+            "Come Down"
+        ],
+        "Date": "2016-01-12",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Paul Clarke"
+    },
+    {
+        "Artist": "Sam Binga",
+        "Title": "Wasted Days",
+        "Genre": [
+            {
+                "name": "Drum & Bass"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Critical Music"
+            }
+        ],
+        "Tracklist": [
+            "Believe feat. Redders, Rider Shafique",
+            "Wasted Days feat. Warrior Queen",
+            "Pound 4 Pound feat. Redders, Rider Shafique",
+            "Bad Bish feat. TT The Artist",
+            "Run The Dance feat. Slick Don",
+            "Dark Day feat. Hyroglifics",
+            "Stormy Weather feat. Rudey Lee",
+            "Mind & Spirit feat. Rider Shafique",
+            "Badman Skin feat. Redders",
+            "Necessary feat. Fox, Rider Shafique, Chimpo",
+            "I Tol U",
+            "Reclaim feat. Om Unit",
+            "Greatest Distance feat. Romaine",
+            "Steppin VIP feat. Chimpo, Fox, Redders, Deft",
+            "Digital Only: One6Nine",
+            "Digital Only: Boongooz",
+            "Digital Only: Dub & Spirit",
+            ""
+        ],
+        "Date": "2015-10-20",
+        "Blurb": null,
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Future Brown",
+        "Title": "Future Brown",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Room 302\t",
+            "Talkin Bandz\t",
+            "Big Homie\t",
+            "No Apology\t",
+            "Vernáculo\t",
+            "Dangerzone\t",
+            "Speng\t",
+            "Killing Time\t",
+            "MVP\t",
+            "Asbestos\t",
+            "Wanna Party",
+            ""
+        ],
+        "Date": "2015-03-05",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "The Bug",
+        "Title": "Angels & Devils",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ninja Tune"
+            }
+        ],
+        "Tracklist": [
+            "Void feat. Liz Harris ",
+            "Fall feat. copeland ",
+            "Ascension ",
+            "Mi Lost feat. Miss Red ",
+            "Pandi ",
+            "Save Me feat. Gonjasufi ",
+            "The One feat. Flowdan ",
+            "Function feat. Manga ",
+            "Fuck a Bitch feat. Death Grips ",
+            "Fat Mac feat. Flowdan ",
+            "Fuck You feat. Warrior Queen ",
+            "Dirty feat. Flowdan "
+        ],
+        "Date": "2014-08-25",
+        "Blurb": null,
+        "Recommended": true,
+        "Author": "Hugh Taylor"
+    },
+    {
+        "Artist": "Skrillex",
+        "Title": "Recess",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Big Beat"
+            }
+        ],
+        "Tracklist": [
+            "All Is Fair In Love And Brostep feat. Ragga Twins ",
+            "Recess feat. Kill The Noise, Fatman Scoop and Michael Angelakos ",
+            "Stranger feat. KillaGraham from Milo and Otis and Sam Dew ",
+            "Try It Out (Neon Mix) feat. Alvin Risk ",
+            "Coast Is Clear feat. Chance The Rapper and The Social Experiment ",
+            "Dirty Vibe feat. Diplo, G-Dragon from Big Bang and CL from 2NE1 ",
+            "Ragga Bomb feat. Ragga Twins ",
+            "Doompy Poomp ",
+            "Fuck That ",
+            "Ease My Mind with Niki & The Dove ",
+            "Fire Away with Kid Harpoon "
+        ],
+        "Date": "2014-03-18",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    }
+]

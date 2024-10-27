@@ -1,0 +1,766 @@
+[
+    {
+        "Artist": "bbymutha",
+        "Title": "sleep paralysis",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "True Panther Sounds"
+            }
+        ],
+        "Tracklist": [
+            "gun kontrol",
+            "piss!",
+            "head x shoulders",
+            "rich",
+            "tony hawk",
+            "lines",
+            "nice/nasty",
+            "ghostface",
+            "final girl",
+            "mutha massacre",
+            "go!"
+        ],
+        "Date": "2024-05-02",
+        "Blurb": "bbymutha pivots towards UK club music without losing her distinct Southern rap charm and bite.",
+        "Recommended": false,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "Justice",
+        "Title": "Hyperdrama",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Virgin Records"
+            },
+            {
+                "name": "Genesis"
+            }
+        ],
+        "Tracklist": [
+            "Neverender",
+            "Generator",
+            "Afterimage",
+            "One Night/All Night",
+            "Dear Alan",
+            "Incognito",
+            "Mannequin Love",
+            "Moonlight Rendez-vous",
+            "Explorer",
+            "Muscle Memory",
+            "Harpy Dream",
+            "Saturnine",
+            "The End"
+        ],
+        "Date": "2024-04-29",
+        "Blurb": "A star-studded comeback that almost touches on the French duo's past greatness.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "RamonPang",
+        "Title": "Life Cycle Waves",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Run Algae",
+            "Daze",
+            "A Vast Expanse",
+            "Held And Wanting To Be Held",
+            "Nothing To Figure Out",
+            "Waves Crashing",
+            "Be With Me",
+            "Smooth",
+            "Third Freeze",
+            "We Smiled Together"
+        ],
+        "Date": "2024-04-27",
+        "Blurb": "Vulnerable yet powerful IDM-influenced dance music.",
+        "Recommended": false,
+        "Author": "Arielle Lana LeJarde"
+    },
+    {
+        "Artist": "Low End Activist",
+        "Title": "Airdrop",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Peak Oil"
+            }
+        ],
+        "Tracklist": [
+            "Airdrop 01 (Waterstock)",
+            "Airdrop 02 (Yarnton Rd 2 Cassington) ",
+            "Airdrop 03 (Mayhem On Barton Hill) ",
+            "Airdrop 04 (Squeeze Yer Lemon) ",
+            "Airdrop 05 (White Horse Hill) ",
+            "Airdrop 06 (Praha Hardcore) ",
+            "Airdrop 07 (Tango Skit) ",
+            "Airdrop 08 (Hinksey Hardcore) ",
+            "Airdrop 09 (Cortina Outro)"
+        ],
+        "Date": "2024-04-23",
+        "Blurb": "An album of beatless rave music that highlights the power of space and silence—and sub-bass.",
+        "Recommended": false,
+        "Author": "Dash Lewis"
+    },
+    {
+        "Artist": "Korea Town Acid",
+        "Title": "In Motion",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "dis·co·theque feat. Delic'amarr & Midas P",
+            "No Hard Feelings",
+            "Everyday",
+            "dejavu",
+            "Malibu",
+            "Closed doors",
+            "Heads up feat. Hood Joplin",
+            "uggy feat. Moist Briefs",
+            "Ur trauma feat. Delic'amarr & Midas P"
+        ],
+        "Date": "2024-04-13",
+        "Blurb": "A jam-packed album of footwork, electro, jungle and jazz that marks a production milestone for the genre-fluid Toronto artist.",
+        "Recommended": false,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "Leonce",
+        "Title": "System Of Objects",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Morph Tracks"
+            }
+        ],
+        "Tracklist": [
+            "Not Here For It",
+            "Amyl Nitrate",
+            "Kundle Dub",
+            "Tuff Talk",
+            "Eurorack Tears",
+            "Closing In",
+            "Third Time's The Charm"
+        ],
+        "Date": "2024-04-11",
+        "Blurb": "Big-room techno, Leonce style.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Cakes Da Killa",
+        "Title": "Black Sheep",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Young Art Records"
+            }
+        ],
+        "Tracklist": [
+            "It's A Luv Thang feat. Wuhryn Dumas",
+            "Mind Reader feat. Stout",
+            "Make Me Ovah",
+            "FourPlay",
+            "Do Dat Baby feat. Dawn Richard",
+            "Global Entry",
+            "Downtown J",
+            "Cakewalk",
+            "Crushin In Da Club",
+            "Problem 4 Problems",
+            "Ain't Sh*t Sweet"
+        ],
+        "Date": "2024-04-09",
+        "Blurb": "The New York rapper lets loose with newfound conviction over a laidback offering of deep house and early '00s R&B.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Jlin",
+        "Title": "Akoma",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Borealis feat. Björk",
+            "Speed Of Darkness",
+            "Summon",
+            "Iris",
+            "Open Canvas",
+            "Challenge (To Be Continued II)",
+            "Eye Am",
+            "Auset",
+            "Sodalite feat. Kronos Quartet",
+            "Grannie's Cherry Pie",
+            "The Precision Of Infinity feat. Philip Glass"
+        ],
+        "Date": "2024-04-01",
+        "Blurb": "A thrilling fusion of classical and electronic music from the reigning champ.\n",
+        "Recommended": true,
+        "Author": "Miguel Otárola"
+    },
+    {
+        "Artist": "DJ Nigga Fox",
+        "Title": "Chá Preto",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Principe"
+            }
+        ],
+        "Tracklist": [
+            "Ondas da Terra",
+            "Má Rotina ",
+            "Mutadoree",
+            "Bom te Ver",
+            "Wanguila",
+            "Fantasias "
+        ],
+        "Date": "2024-03-26",
+        "Blurb": "The defining Príncipe artist returns with a transcendental shift in sound.",
+        "Recommended": true,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "LAVURN",
+        "Title": "LAVURN",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "SUMAC"
+            }
+        ],
+        "Tracklist": [
+            "CCC",
+            "Compact Disc",
+            "Hardcore",
+            "Steppin (Flipmode)",
+            "Little Mother",
+            "Mezzanine",
+            "Combat Language",
+            "Windchill",
+            "Tool (Medley)",
+            "Rear View Mirror",
+            "JK",
+            "Wicked",
+            "Bounce",
+            "Still",
+            ""
+        ],
+        "Date": "2024-03-21",
+        "Blurb": "Cassius Select morphs into an R&B singer-songwriter to paint a nuanced picture of a breakup.",
+        "Recommended": false,
+        "Author": "Sophie McNulty"
+    },
+    {
+        "Artist": "Heavee",
+        "Title": "Unleash",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "StarSeeker",
+            "Unlock!",
+            "Search N'4 feat. BABii",
+            "BangBang",
+            "CanUFeelit",
+            "Bounce Dat feat. DJ Paypal & Dan TOG",
+            "Unleash",
+            "SeeTheSun",
+            "Whiplash",
+            "Sumthin' Different",
+            "Heart Fragments",
+            "WorkMe",
+            "Make It Work",
+            "Smoke Break feat. HomeSick & Takuya Nakamar"
+        ],
+        "Date": "2024-03-20",
+        "Blurb": "Heavee fleshes out his vibrant style of footwork with an RPG-style narrative of self-discovery.",
+        "Recommended": true,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Various (Die Orakel)",
+        "Title": "Braindance",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Die Orakel"
+            }
+        ],
+        "Tracklist": [
+            "upsammy – Wumb (Ambient Version)",
+            "n9oc – Hyphae",
+            "Pépe – Cloudbusters",
+            "Gacha Bakradze – Inhumanity",
+            "Rali Pibs – Hooked & Strungout",
+            "Teatre – Daze",
+            "O-Wells – Deep Concentration",
+            "Oma Totem – Sobre Caderas feat. Juns",
+            "Dana Kuehr – Biota",
+            "Benjamin Milz – Cmos",
+            "Poly Chain – Turbulent",
+            "Katatonic Silentio – Grain Of Consumption",
+            "Koloah – The Highway",
+            "Reptant – Protectors Of The Moss",
+            "Edward – Blurry Trees And Peanuts"
+        ],
+        "Date": "2024-03-13",
+        "Blurb": "The Frankfurt label celebrates ten years with a record of cerebral IDM and bass-heavy contortions.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various (Wisdom Teeth)",
+        "Title": "Club Moss",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Wisdom Teeth"
+            }
+        ],
+        "Tracklist": [
+            "Purelink - Loon E",
+            "Cousin - tooth 4 tooth",
+            "K-LONE - Water Palace",
+            "Maya Q - Starburst",
+            "Yushh - 3URNRG",
+            "Sputnik One - Calvepen 666 ",
+            "Tammo Hesselink - Cupboard Cylinder Salon",
+            "Ehua - Gesso",
+            "LUXE - Diamond Dub",
+            "Jay Carder - Mekosha",
+            "Facta - Lip Texture",
+            "Airhead - New Feeling",
+            "Leif - Kallt",
+            "RAMZi - doomies"
+        ],
+        "Date": "2024-03-12",
+        "Blurb": "Wisdom Teeth celebrates ten years with a typically lush compilation from a stacked crew of contributors.\n",
+        "Recommended": true,
+        "Author": "Ted Davis"
+    },
+    {
+        "Artist": "Wrecked Lightship",
+        "Title": "Antiposition",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Dub Techno"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Peak Oil"
+            }
+        ],
+        "Tracklist": [
+            "Hex",
+            "Bizarre Servants",
+            "Antiposition",
+            "Sunken Skies",
+            "Diminished Ark",
+            "Sounding Bodies"
+        ],
+        "Date": "2024-03-10",
+        "Blurb": "Appleblim and Adam Wedge make dubby DIY dance music with brilliant sound design on Peak Oil.",
+        "Recommended": false,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Erika de Casier",
+        "Title": "Still",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "4AD"
+            }
+        ],
+        "Tracklist": [
+            "Right This Way",
+            "Home Alone",
+            "Lucky",
+            "The Princess",
+            "ice feat. They Hate Change",
+            "Test It",
+            "ooh",
+            "Believe It",
+            "Anxious",
+            "Ex-Girlfriend feat. Shygirl",
+            "Toxic",
+            "My Day Off",
+            "Twice feat. Blood Orange",
+            "Someone",
+            ""
+        ],
+        "Date": "2024-03-08",
+        "Blurb": "After massive songwriting success, Erika de Casier retreats into her world of bedroom R&B but opens up her sound to new ideas and collaborators.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "DJ Anderson do Paraíso",
+        "Title": "Queridão",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Baile Funk"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nyege Nyege Tapes"
+            }
+        ],
+        "Tracklist": [
+            "SADOMASOQUISTA feat. DJ DG DO RB & MC's PAULIN DO G, BRAIAN, PEPEU, DÃAN",
+            "VAI COMEÇAR PUTARIA feat. DJ JR",
+            "PATY TREM BARBIE feat. MC MAGRELLA",
+            "SE FAZ DE SANTINHA feat. MC MAYKIN DO BC",
+            "TODAS ELAS AO MESMO TEMPO feat. MC's PR & MR. BIM",
+            "JOGA LEITE feat. MC's LARANJINHA & LAURETA",
+            "BLOGUEIRA QUE VIROU PUTA feat. MC PAULIN DO G",
+            "PINCELADA DE ANGOLANO ",
+            "VAI FICA DE 4, VAI JOGA PRA MIM, ELA ME FAZ DE CAVALAO",
+            "QUARENTENA CHEIO DE ODIO ",
+            "MC PR DUVIDA NÃO LETICIA",
+            "VAI MOZÃO, FODE SEU GOSTOSO ",
+            "CONTOS DE UM MALCRIADO14. CHAMAS SUAS COLEGAS PRA BRINCAR feat. DJ's AG O GRINGO & ANDERSON DO PARAISO",
+            "UNIÃO DOS RLK feat. DJ's PH DA SERRA, VITIN DO PC & MC's FAHAH, PAULIN DO G, CODE",
+            "AULA DE PUTARIA #BRAAAABA ",
+            "ULTIMO MEDO DO ANO"
+        ],
+        "Date": "2024-03-06",
+        "Blurb": "A stunning album that showcases the ghostly, barebones funk of the Brazilian city of Belo Horizonte, with a cast of guest vocalists from across the country.",
+        "Recommended": true,
+        "Author": "Felipe Maia"
+    },
+    {
+        "Artist": "AceMo",
+        "Title": "Save The World",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "An Epic",
+            "Chords",
+            "My Mind",
+            "Dub Wave",
+            "Amazing",
+            "Dreaming In The Studio",
+            "Fun Forward",
+            "Save The World",
+            "Water In The Sky",
+            "A Million Trys, You Got Somethin'",
+            "Arp Dreams",
+            "Save The Day (Big Limit Mix)",
+            "Raver1",
+            "New Cosmo"
+        ],
+        "Date": "2024-02-28",
+        "Blurb": "Virtuosic techno with a healthy dose of uplift and optimism.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Lao",
+        "Title": "Chapultepec",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Naafi"
+            }
+        ],
+        "Tracklist": [
+            "Axolotl",
+            "Corriente de aire",
+            "Manantial",
+            "Alita",
+            "Umbral",
+            "Ha hypno",
+            "Chapultepec",
+            "Carcamo de dolores",
+            "Cincalco",
+            "Areana",
+            "Virreyes",
+            "Anahuac",
+            "Batalla en el cerro",
+            "Guasón",
+            "En dónde estamos",
+            "Equinoccio",
+            "Sepulcro",
+            "Lo pregunto",
+            "Lago menor"
+        ],
+        "Date": "2024-02-20",
+        "Blurb": "The N.A.A.F.I artist presents a sprawling debut album inspired by the natural beauty and precolonial history of Mexico City's largest park.",
+        "Recommended": true,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Optimo 25",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Optimo Music"
+            }
+        ],
+        "Tracklist": [
+            "OPTIMO2501",
+            "A1 Brainticket – Places Of Light",
+            "A2 T.J. Lawrence – Fireplay",
+            "A3 Robert Rental – Double Heart",
+            "B1 African Head Charge – No, Don't Follow Fashion",
+            "B2 Keith Hudson – Nuh Skin Up Dub",
+            "C1 Smokin’ Cheeba – When I Was A Youth",
+            "C2 The Wad – 15 inches",
+            "D1 Idjut Boys & Laj – Foolin' (Beatin on Dave)",
+            "D2 JBB Et Soprann – Tibi Lap",
+            "",
+            "OPTIMO2502",
+            "A1 Chris & Cosey – Take Control",
+            "A2 Isolators – Concentrate On Us",
+            "B1 Mike Dunn – Life Goes On",
+            "B2 KC Flight – Voices (Original Dub Mix)",
+            "C1 Faze Action – Good Lovin' (Special Disco Mix)",
+            "C2 Hannah Holland – Ekotypic",
+            "D1 Divine – Shake It Up",
+            "D2 XS-5 – I Need More (Extended Dance Version)",
+            "D3 Liquid Liquid – Optimo"
+        ],
+        "Date": "2024-02-17",
+        "Blurb": "A tribute to (and recollection of) one of the greatest club nights in the history of dance music.",
+        "Recommended": true,
+        "Author": "Erin Margaret Day"
+    },
+    {
+        "Artist": "Kelela",
+        "Title": "RAVE:N, The Remixes",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Raven (Agazero Remix feat. Bbymutha)",
+            "Contact (Karen Nyame KG Remix)",
+            "Closure (Flexulant x BAMBII Remix feat. Rahrah Gabor + Brazy)",
+            "Holier (JD. REID Remix feat. Shygirl)",
+            "Bruises (SUCIA! Remix)",
+            "Washed Away (Ethereal Remix feat. Liv.e)",
+            "Far Away (DJ Swisha Remix)",
+            "Raven (TYGAPAW Remix feat. Rochelle Jordan) ",
+            "Sorbet (LSDXOXO Remix) ",
+            "Divorce (DJ Manny Remix)",
+            "Fooley (LEECH Ambient Queen Remix)",
+            "Missed Call (KYRUH Remix)",
+            "Happy Ending (A.G Remix) ",
+            "Let It Go (NGUZUNGUZU x DJ GAY-Z Remix)",
+            "On The Run (River Moon Remix feat. ThugPop)",
+            "Enough For Love (TAYHANA Remix)",
+            "Enough For Love (Yaeji heart+beat Remix)",
+            "Divorce (Loraine James Remix)",
+            "Far Away (DJ LHC Remix)",
+            "Far Away (SUUTOO His Eye Is On the Raven Remix feat. Ms. Carrie Stacks)"
+        ],
+        "Date": "2024-02-12",
+        "Blurb": "A group of over 20 underground producers, rappers and vocalists go all out on a remix album that makes a good case for the format.",
+        "Recommended": true,
+        "Author": "Kiana Mickles"
+    }
+]

@@ -1,0 +1,40 @@
+/* NavigationBar.css */
+.navigation-bar {
+  display: flex;
+  justify-content: space-around;
+  min-height: 50px;
+  width: 100%;
+  opacity: 0.9;
+  backdrop-filter: blur(10px);
+}
+
+.nav-item {
+  flex-grow: 1;
+  text-align: center;
+  line-height: 50px;
+  background: radial-gradient(circle, white, silver);
+  text-decoration: none;
+  color: rgb(114, 114, 114);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-item:hover {
+  background: radial-gradient(circle, silver, white);
+  color: #505050; /* Adjust the color to better fit your design if needed */
+}
+
+.nav-item-account, .nav-item-search {
+  background: radial-gradient(circle, white, silver);
+  color: black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-item-account:hover, .nav-item-search:hover {
+  background: radial-gradient(circle, silver, white);
+  color: white;
+}
+
+.selected, .nav-item.selected:hover {
+  background: radial-gradient(circle, black, silver);
+  color: white;
+}

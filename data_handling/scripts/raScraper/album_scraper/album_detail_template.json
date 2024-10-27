@@ -1,0 +1,7 @@
+{
+    "operationName": "GET_REVIEW_ARTICLE",
+    "query": "query GET_REVIEW_ARTICLE($id: ID!) {\n  review(id: $id) {\n    id\n    title\n    blurb\n    content\n    tracklist\n    player\n    playerLinks {\n      id\n      sourceId\n      audioService {\n        id\n        name\n        __typename\n      }\n      __typename\n    }\n    imageUrl\n    date\n    type\n    language\n    contentUrl\n    author {\n      id\n      name\n      imageUrl\n      username\n      contributor\n      __typename\n    }\n    labels {\n      id\n      name\n      contentUrl\n      live\n      __typename\n    }\n    releaseDate\n    genres {\n      id\n      name\n      slug\n      __typename\n    }\n    recommended\n    catalogue\n    event {\n      id\n      isFestival\n      isTicketed\n      venue {\n        id\n        name\n        live\n        contentUrl\n        __typename\n      }\n      __typename\n    }\n    artists {\n      id\n      name\n      isFollowing\n      contentUrl\n      image\n      __typename\n    }\n    localised {\n      id\n      contentUrl\n      language\n      __typename\n    }\n    __typename\n  }\n}",
+    "variables": {
+        "id": "36052"
+    }
+}

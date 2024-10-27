@@ -1,0 +1,109 @@
+[
+    {
+        "Artist": null,
+        "Title": "Various - Pantsula! The Rise Of Electronic Dance Music In South Africa, 1988-1990",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Kwaito"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rush Hour Music"
+            }
+        ],
+        "Tracklist": [
+            "The Equals - New Lover",
+            "Jazino - Ushelakanjani",
+            "Jivaro - What Next (Dub Mix)",
+            "S.Y.B. - Jika Magogo",
+            "Scotch Band - Watsotasama",
+            "Kakappa - Sisonke",
+            "Spirro - Ma Hero (Dub Mix) ",
+            "The Hard Workers - Ayoba-yo",
+            "Ayobayo Band - Sorry Bra",
+            "Rush - Sobohla Manyosi",
+            "Chaka - Via Tembisa",
+            "La Viva - Go Siami"
+        ],
+        "Date": "2018-02-09",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Gabriel Szatan"
+    },
+    {
+        "Artist": "LV",
+        "Title": "Sebenza",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Kwaito"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "LV feat. Okmalumkoolkat - Sebenza",
+            "LV feat. Okmalumkoolkat - Animal Prints",
+            "LV feat. Okmalumkoolkat - DL",
+            "LV feat. Spoek Mathambo - Limb",
+            "LV feat. Okmalumkoolkat - Zulu Compura",
+            "LV feat. Ruffest - Hustla",
+            "LV feat. Ruffest - Nothing Like Us",
+            "LV feat. Ruffest - Thatha Lo",
+            "LV feat. Okmalumkoolkat - Safe n Sound",
+            "LV feat. Okmalumkoolkat - Primus Stove",
+            "LV feat. Okmalumkoolkat - International Panstula",
+            "LV feat. Okmalumkoolkat - Spitting Cobra",
+            "LV feat. Spoek Mathambo - Work",
+            "LV feat. Ruffest - Uthanda Lwakha"
+        ],
+        "Date": "2012-09-03",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "LV",
+        "Title": "Routes",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Kwaito"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Keysound Recordings"
+            }
+        ],
+        "Tracklist": [
+            "I Know",
+            "Tough",
+            "Northern Line",
+            "Lean Back",
+            "Never Tired",
+            "Talk Talk",
+            "Melt",
+            "Primary Colours",
+            "Deleted Scenes",
+            "Past Tense",
+            "Murkish Delights",
+            "Last Night"
+        ],
+        "Date": "2011-05-24",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    }
+]

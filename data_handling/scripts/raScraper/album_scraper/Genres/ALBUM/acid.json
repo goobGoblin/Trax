@@ -1,0 +1,737 @@
+[
+    {
+        "Artist": "Various (Chicago Bee)",
+        "Title": "Home Listening Acid And House",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Chicago Bee Records"
+            }
+        ],
+        "Tracklist": [
+            "Postelektrik - SW1",
+            "Derek Carr - No Surrender",
+            "Type 303 - Stairway To Jupiter",
+            "Monofonix - Omega",
+            "Ivan Golic - Floated",
+            "Iron Blu - Valtra",
+            "Fear-E - Haven't You Heard",
+            "Forgotten Corner - Maen Land",
+            "iNFO - Dreams Of Andromeda",
+            "A-Eno-Acid - Greek Town Casino"
+        ],
+        "Date": "2023-01-15",
+        "Blurb": "'90s style downtempo techno flecked with acid.",
+        "Recommended": false,
+        "Author": "Dash Lewis"
+    },
+    {
+        "Artist": "Adam X",
+        "Title": "Rüdersdorf Acid Tracks",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sonic Groove"
+            }
+        ],
+        "Tracklist": [
+            "Rüdersdorf Acid Tracks",
+            "Tram",
+            "Walk In The Woods",
+            "Dystopic Monolithic Structures",
+            "A Trip Into The Past",
+            "Dissociation In Desolation",
+            "Acid Flashbacks",
+            "Telepathy With Dead Friends",
+            "Meteors Galore",
+            "Perceived Alien Invasion"
+        ],
+        "Date": "2022-03-17",
+        "Blurb": "Brutal acid techno with attention to detail.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Ten Years Of Acid Test",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Acid Test"
+            }
+        ],
+        "Tracklist": [
+            "A1 Lerosa - Uneasy",
+            "A2 Tin Man - Afters Acid",
+            "A3 VC-118a - Silver",
+            "B1 Erika - Violet Fungus",
+            "B2 TM404 - Rysa",
+            "C1 Achterbahn D'Amour - 7_edit",
+            "C2 Marcellus Pittman - Unknown Species",
+            "D1 John Tejada - Squillo",
+            "D2 Sepehr - Persian Acid Prince",
+            "D3 Wata Igarashi - Ephemeral",
+            "E1 SW. - chalAnJAzzz",
+            "E2 Donato Dozzy - Morena",
+            "F1 Skudge - Bite",
+            "F2 Patricia - Higher Still",
+            "F3 AAAA - Extended Fantasy"
+        ],
+        "Date": "2021-10-25",
+        "Blurb": "15 wonky TB-303 trips to celebrate Acid Test's 10th orbit around the sun. ",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Rewind: Andrew Weatherall",
+        "Title": "Massive Mellow Mix",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Hole In One - Spiritual Ideas For Virtual Reality",
+            "The Primitive Painter - Levitation [Klang Elektronik - KLANG 1]",
+            "Dubtribe Sound System - Sunshine's Theme (Sunshine's Remix) [Organico - ORG 004]",
+            "State Of Flux - Mercury [Finiflex - FF1009]",
+            "The Primitive Painter - Cathedral [Klang Elektronik - KLANG 1]",
+            "Ebi - Chuu [Space Teddy - ST 007]",
+            "Some Other People - Astralise [Infinite Mass - MASS 018 T]",
+            "The Primitive Painter - Invisible Landscapes [Klang Elektronik - KLANG 1]",
+            "Squid - Emprisoning Sound On A Piece Of Wax [Apollo - APOLLO 16]",
+            "The Keyprocessor - Feary Tales [Eevo Lute Muzique - EEVO 008]",
+            "State Of Flux - The News [Bold! Stars - BR 2009-1]",
+            "Ian Pooley And Alec Empire - Untitled (Pulse Code E.P. Side A) [Mille Plateaux - MP 3]",
+            "Ebi - Sou [Space Teddy - ST 007]"
+        ],
+        "Date": "2021-05-23",
+        "Blurb": "Kirk Degiorgio looks back one of the most important, well-loved mixes by the Guv'nor.",
+        "Recommended": false,
+        "Author": "Kirk Degiorgio"
+    },
+    {
+        "Artist": null,
+        "Title": "Adam X - Acid Archives 92-94",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "L.I.E.S."
+            }
+        ],
+        "Tracklist": [
+            "X-Heart - Electropolis",
+            "X-Heart - Peaking Toms",
+            "Adam X - Faces Of Death",
+            "Adam X - Octane Propellant",
+            "Adam X - Unreleased Acid From 1994",
+            "Adam X - Chemical Spill",
+            "Adam X - What's That",
+            "Adam X - House Of Horror",
+            "Adam-X vs. ADSX - Acid Over Wiesbaden",
+            "X-Crash - Urban Bass",
+            "Trope vs. X-Crash - Morgue"
+        ],
+        "Date": "2020-05-21",
+        "Blurb": "A fresh look at original acidic techno. \n",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Ewa Justka",
+        "Title": "Upside Down Smile",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Editions Mego"
+            }
+        ],
+        "Tracklist": [
+            "Mindless Cycles ",
+            "Problems With Limits ",
+            "Scarlatti's Saw ",
+            "Something Alive But Unevolvable",
+            "Hello? Stella? Artois..? Artaud? ",
+            "The House Covered In Grape Leaves",
+            "We Tend To Underestimate The Forces That Distort Our Imagination ",
+            "Eeny, Meeny, Miny, Moe ",
+            "As Simple As This ",
+            "Slippery Slide "
+        ],
+        "Date": "2020-05-08",
+        "Blurb": "An often-exhilarating look at club music's primal energy.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Amelie Lens",
+        "Title": "fabric presents Amelie Lens",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "fabric Records"
+            }
+        ],
+        "Tracklist": [
+            "SLV & Z.I.P.P.O - Theory Of Relativity",
+            "Pär Grindvik - Isle Of Real (Colombia M.I.L.Y 2019)",
+            "Michael Klein - Boiling",
+            "Flug - ADSR",
+            "Nur Jaber - Rave With Me",
+            "Setaoc Mass - Thin Blue Line",
+            "MSKD - Savage Earth",
+            "Solitude Tool video",
+            "Anetha - Nikita",
+            "Irregular Synth - Mutation",
+            "Milo Spykers - Look Ahead",
+            "AIROD - Liquor",
+            "Blicz & Geerson - Eleven Roses",
+            "Ahl Iver - Cry For Redemption",
+            "Lukas Firtzer - Praise The Night",
+            "Farrago - Ensnare",
+            "Glaskin - Reaktor Rave",
+            "Regal & Alignment - Astro",
+            "Hadone - Courtship Unleashed"
+        ],
+        "Date": "2019-12-02",
+        "Blurb": "This mix shows the Belgian superstar can do more than drop techno bangers, but it sometimes shows other limits to her full-on style.",
+        "Recommended": false,
+        "Author": "Elissa Stolman"
+    },
+    {
+        "Artist": "808 State",
+        "Title": "Transmission Suite",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            },
+            {
+                "name": "Footwork"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Tokyo Tokyo",
+            "Skylon",
+            "Cannonball Waltz",
+            "The Ludwig Question",
+            "Huronic",
+            "Landau",
+            "Westland",
+            "Trinity",
+            "Ujala",
+            "Carbonade",
+            "Pulcenta",
+            "Angol Argol",
+            "Bushy Bushy",
+            "14. 13 13",
+            "Crab Claw"
+        ],
+        "Date": "2019-11-15",
+        "Blurb": "The acid house group's first album in 17 years is a brave attempt at reinvention that too often falls short.",
+        "Recommended": false,
+        "Author": "Carlos Hawthorn"
+    },
+    {
+        "Artist": "Paranoid London",
+        "Title": "PL",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Paranoid London Records"
+            }
+        ],
+        "Tracklist": [
+            "Starting Fights feat. Josh Caffe ",
+            "The Boombox Affair feat. Bubbles Bubblesynski",
+            "Nobody Watching feat. Mutado Pintado (Album Edit)",
+            "The Music",
+            "Angel Of Hell feat. Arthur Baker and Alan Vega (Album Edit)",
+            "Drum Machine (Album Edit)",
+            "Blue-Ish (Album Edit)",
+            "Cult Hero (Do You Wanna Touch Me) feat. Simon Topping (Album Edit)",
+            "Sly Is Watching (Album Edit)",
+            "Vi-Vi) Vicious Games feat. Josh Caffe (Album Edit)",
+            "Just My Size feat. Mutado Pintado (Album Version)"
+        ],
+        "Date": "2019-08-27",
+        "Blurb": "Grimy, no-nonsense tracks for the dance floor.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Rewind: Baby Ford",
+        "Title": "'Ooo' The World Of Baby Ford",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rhythm King Records"
+            }
+        ],
+        "Tracklist": [
+            "A1 A Place Of Dreams & Magic",
+            "A2 Children Of The Revolution",
+            "A3 Milky Tres / Chikki Chikki Ahh Ahh",
+            "A4 Poem For Wigan",
+            "A5 Wigan",
+            "B1 \"Hi, Mr Logan\"",
+            "B2 Beach Bump",
+            "B3 Let's Talk It Over",
+            "B4 The World Is In Love",
+            "B5 Change Your Ways"
+        ],
+        "Date": "2019-07-20",
+        "Blurb": "Finn Johannsen unpacks an acid house album that soundtracked the UK's Second Summer Of Love.",
+        "Recommended": false,
+        "Author": "Finn Johannsen"
+    },
+    {
+        "Artist": "PTU",
+        "Title": "Am I Who I Am",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Trip"
+            }
+        ],
+        "Tracklist": [
+            "Doc 22",
+            "The Pursuit Of A Shadow",
+            "Castor & Pollux",
+            "After Cities",
+            "Former Me",
+            "How Does It Feel",
+            "Over",
+            "Copper Mines, New Machines & The Future Conspiracy",
+            "Which Word Is The Coldest",
+            "Sirocco",
+            "Skyscript",
+            "I Heard You Breathe"
+        ],
+        "Date": "2019-07-10",
+        "Blurb": "Welcome to techno's strange sector.",
+        "Recommended": false,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "F.U.S.E.",
+        "Title": "Dimensions (25th Anniversary Edition)",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Plus 8 Records Ltd"
+            }
+        ],
+        "Tracklist": [
+            "Dimension Intrusion",
+            "A New Day ",
+            "F.U. ",
+            "Slac ",
+            "Dimension Intrusion ",
+            "Substance Abuse ",
+            "Downbeat (Unreleased) ",
+            "AnotherTime (Revisited) ",
+            "Theychx ",
+            "Time Stop (Unreleased) ",
+            "UVA ",
+            "Mantrax ",
+            "Nitedrive ",
+            "Into The Space ",
+            "Logikal Nonsense ",
+            "",
+            "Train-Tracs",
+            "Train-trac.1 ",
+            "Train-abuse ",
+            "Drum-trac.2 ",
+            "Kaboose ",
+            "Last-trac ",
+            "The Day After (MV's Mix) ",
+            "",
+            "Computer Space",
+            "Computer Space ",
+            "Runner ",
+            "Sanctuary ",
+            "Last Day ",
+            "Computer Space Album Mix "
+        ],
+        "Date": "2019-05-14",
+        "Blurb": "A three-album box set showcasing Richie Hawtin's extraordinary early talent.",
+        "Recommended": false,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "HVL",
+        "Title": "Rhythmic Sonatas",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Bassiani"
+            }
+        ],
+        "Tracklist": [
+            "Eyes In The Sky ",
+            "Baked In F12 (Korg Patch Mix) ",
+            "Alien Discotheque ",
+            "Badskit ",
+            "Satovlia ",
+            "Repeated Eye Contact ",
+            "Bilateral Symmetry ",
+            "Dabalsikhshiruli Rkheva ",
+            "Noboru's Arp ",
+            "Nabolara "
+        ],
+        "Date": "2019-04-29",
+        "Blurb": "Fresh twists on classic dance music ideas appear across the Bassiani resident's versatile second LP.",
+        "Recommended": true,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Minimal Violence",
+        "Title": "InDreams",
+        "Genre": [
+            {
+                "name": "Trance"
+            },
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Technicolour"
+            }
+        ],
+        "Tracklist": [
+            "Untitled Dream Sequence",
+            "L.A.P",
+            "June Anthem",
+            "New Hard Catch",
+            "Persuasive Behaviour",
+            "InDreams",
+            "Virus Prophecy",
+            "D.TRX",
+            "Last One at the Rave",
+            "InDreams (Cardopusher Remix) [Bonus]",
+            "InDreams x URO (MV Powermoves Megamix) [Bonus]"
+        ],
+        "Date": "2019-04-25",
+        "Blurb": "High-energy warehouse bombs. ",
+        "Recommended": false,
+        "Author": "Steph Lee"
+    },
+    {
+        "Artist": "Logos",
+        "Title": "Imperial Flood",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Different Circles"
+            }
+        ],
+        "Tracklist": [
+            "Arrival (T2 Mix) ",
+            "Marsh Lantern ",
+            "Flash Forward (Ambi Mix) ",
+            "Lighthouse Dub ",
+            "Omega Point ",
+            "Zoned In feat. Mumdance",
+            "Occitan Twilight Pyre ",
+            "Stentorian ",
+            "Weather System Over Plaistow "
+        ],
+        "Date": "2019-04-23",
+        "Blurb": "Logos's second LP is less than the sum of its often excellent parts.",
+        "Recommended": false,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Happy New Year! We Wish You Happiness!",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Trip"
+            }
+        ],
+        "Tracklist": [
+            "Buttechno - Rostokino Acid",
+            "Nina Kraviz vs Snazzy - U Ludei Est Pravo!",
+            "PTU - Mstera",
+            "Carlota - Your Destination",
+            "Carlota - Noise Psychosis",
+            "Vladimir Dubyshkin - Soviet Film",
+            "Buttechno - Dubstepping Progression Fast",
+            "The Mover - Track One"
+        ],
+        "Date": "2019-01-07",
+        "Blurb": "Inventive club sounds from Nina Kraviz's typically excellent label.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Susumu Yokota",
+        "Title": "Acid Mt. Fuji",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Midgar"
+            }
+        ],
+        "Tracklist": [
+            "Zenmai",
+            "Kinoko ",
+            "Meijijingu",
+            "Saboten ",
+            "Oh My God",
+            "Tambarin",
+            "Oponchi ",
+            "Ao-oni ",
+            "Akafuji ",
+            "Alphaville ",
+            "Tanuki"
+        ],
+        "Date": "2018-08-08",
+        "Blurb": "A supernatural acid pilgrimage, first released in 1994, from the late Japanese artist. ",
+        "Recommended": true,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Donato Dozzy",
+        "Title": "Filo Loves The Acid",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tresor"
+            }
+        ],
+        "Tracklist": [
+            "Filo",
+            "Vetta",
+            "Duetto",
+            "Nine O' Three",
+            "Back",
+            "Vetta Reprise",
+            "TB Square",
+            "REP"
+        ],
+        "Date": "2018-07-24",
+        "Blurb": "Expertly executed acid tools from a techno master.",
+        "Recommended": false,
+        "Author": "Sybil G"
+    },
+    {
+        "Artist": "Ceephax",
+        "Title": "Camelot Arcade",
+        "Genre": [
+            {
+                "name": "Acid"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "WéMè Records"
+            }
+        ],
+        "Tracklist": [
+            "Trusthouse Forte",
+            "Camelot Escalator",
+            "Life Started Tomorrow",
+            "Shadowphax Part I",
+            "Creon Happy",
+            "Path to the None",
+            "Phraxby",
+            "Hovagen",
+            "The Green Night",
+            "Wasteline 389",
+            "The Great Greatsby",
+            "Shadowphax Part II",
+            "Yodecahedron"
+        ],
+        "Date": "2018-05-09",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Lena Willikens",
+        "Title": "Selectors 005",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dekmantel"
+            }
+        ],
+        "Tracklist": [
+            "JASSS - Little Lines ",
+            "Garland - Sepses ",
+            "Sandoz - Morning Star (Dub Mix) ",
+            "Vromb - Amalgame ",
+            "Le Matin - Oil ",
+            "Anatolian Weapons - Disillusioned ",
+            "Parrish Smith - Minima ",
+            "Varoshi Fame - Voice Of Command (Chekov Re-Edit) ",
+            "towLie - Conan ",
+            "Sysex - Deep Space ",
+            "Borusiade - Night Dive (An Exercise In Indulgence)",
+            "DoseZero - Tribal Dose "
+        ],
+        "Date": "2018-04-23",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Ray Philp"
+    }
+]

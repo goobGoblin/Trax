@@ -1,0 +1,163 @@
+[
+    {
+        "Artist": "Tyla",
+        "Title": "TYLA",
+        "Genre": [
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "R&B"
+            },
+            {
+                "name": "Amapiano"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Epic Records"
+            }
+        ],
+        "Tracklist": [
+            "Intro feat. Kelvin Momo",
+            "Safer",
+            "Water",
+            "Truth or Dare",
+            "No.1 feat. Tems",
+            "Breathe Me",
+            "Butterflies",
+            "On and On",
+            "Jump feat. Gunna & Skillibeng",
+            "ART",
+            "On My Body feat. Becky G",
+            "Priorities",
+            "To Last",
+            "Water (Remix) feat. Travis Scott"
+        ],
+        "Date": "2024-03-27",
+        "Blurb": "The South African singer's debut album builds on the promise of her singles with sumptuous and tactile R&B touched by amapiano and gqom.",
+        "Recommended": true,
+        "Author": "Joshua Minsoo Kim"
+    },
+    {
+        "Artist": "Hagan",
+        "Title": "Textures",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "UK Funky"
+            },
+            {
+                "name": "Amapiano"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Python Syndicate"
+            }
+        ],
+        "Tracklist": [
+            "Kora Song (Sonix)",
+            "Pray For Me",
+            "Royal Jama",
+            "Welcome To Ghana",
+            "Pull Up",
+            "Sise Ntweni",
+            "Heart",
+            "My Love",
+            "Textures",
+            "Telha",
+            "Outro (Baffour's Son)"
+        ],
+        "Date": "2022-11-10",
+        "Blurb": "A personal journey through UK funky, soul and West African sounds.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "DJ Lag",
+        "Title": "Meeting With The King",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Gqom"
+            },
+            {
+                "name": "Amapiano"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ice Drop"
+            }
+        ],
+        "Tracklist": [
+            "Thongo Lami feat. Ndoni",
+            "DJ Lag & Amanda Black – Destiny ",
+            "DJ Lag & Sinjin Hawke - Raptor",
+            "DJ Lag & Lady Du - Lucifer",
+            "DJ Lag, Babes Wodumo & Mampintsha - iKhehla ",
+            "Into Ongayazi",
+            "DJ Lag & Mr JazziQ - Khavude feat. Mpura & Vic Typhoon",
+            "Shululu feat. Loki & K.C Driller",
+            "Skoro",
+            "Something Differrent ",
+            "DJ Lag & Dladla Mshunqisi - Yasho Leyonto ",
+            "Chaos feat. Omagoqa & General C'mamane",
+            "No Childs Play feat. Jackzin & General C'mamane",
+            "New Wave feat. Omagoqa",
+            "DJ Lag, Babes Wodumo & Mampintsha - DJ Lag"
+        ],
+        "Date": "2022-03-09",
+        "Blurb": "The king of gqom brings together different threads of South African dance music on his show-stopping debut album.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Kelvin Momo",
+        "Title": "Ivy League",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Amapiano"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Intro feat. Babalwa M & Sekiwe",
+            "Ivy League feat. Ch'cco, Yumbs, Ta Skipper & Tlholo",
+            "Song Cry feat. Mhaw Keys",
+            "Treasure feat. TribeSoul",
+            "Amukelani",
+            "Funa feat. TBO & JaySax",
+            "Dludlu feat. Steve, Mgiftos & Yumbs",
+            "Groove",
+            "Inyembezi feat. Babalwa M & Aymos",
+            "Joy feat. Sino Msolo & Dalsh",
+            "Teka",
+            "Heart & Soul",
+            "Kwaziyo feat. Ch'cco, Cooper SA & Babalwa M",
+            "As'phuze feat. Murumba Pitch",
+            "Let It Be feat. Mogomotsi Chosen",
+            "Mjolo feat. S.O.N. & Yumbs",
+            "Thomas feat. Cooper SA",
+            "Madlamini feat. Sino Msolo",
+            "Dopeness feat. Mick Man",
+            "Sharp feat. Ch'cco, Yumbs & TNK Musiq"
+        ],
+        "Date": "2022-01-18",
+        "Blurb": "The shape of amapiano to come.",
+        "Recommended": false,
+        "Author": "Shiba Melissa Mazaza"
+    }
+]

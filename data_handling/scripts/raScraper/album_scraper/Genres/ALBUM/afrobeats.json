@@ -1,0 +1,40 @@
+[
+    {
+        "Artist": "Aunty Rayzor",
+        "Title": "Viral Wreckage",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Afrobeats"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hakuna Kulala"
+            }
+        ],
+        "Tracklist": [
+            "Stuttrap",
+            "Doko feat. Slimcase",
+            "Nina",
+            "Bounce",
+            "Never",
+            "Fall Back feat. Titi Bakorta",
+            "Tobaya",
+            "Melodious Monk",
+            "You Not Worthy Of My Love",
+            "Tonedo",
+            "Murder",
+            "Sise feat. Titi Bakorta"
+        ],
+        "Date": "2023-09-14",
+        "Blurb": "A tour de force of rugged rap over pulsing Afrobeats and baile funk from one of Nigeria's most vivacious MCs.",
+        "Recommended": false,
+        "Author": "Nyshka Chandran"
+    }
+]

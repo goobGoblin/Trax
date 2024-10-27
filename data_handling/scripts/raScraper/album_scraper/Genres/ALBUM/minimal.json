@@ -1,0 +1,700 @@
+[
+    {
+        "Artist": "Isolée",
+        "Title": "Resort Island",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "resort island"
+            }
+        ],
+        "Tracklist": [
+            "coco's visa",
+            "canada balsam",
+            "Pardon My French",
+            "con o sin",
+            "let's dence",
+            "modernation",
+            "rumour",
+            "clap gently",
+            "tender date",
+            "eleven2"
+        ],
+        "Date": "2023-06-25",
+        "Blurb": "Rajko Müller's first album in over ten years is one of his best, perfect for adding a bit of blue to summer sunset DJ slots. ",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Melchior Productions Ltd.",
+        "Title": "Vulnerabilities",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perlon"
+            }
+        ],
+        "Tracklist": [
+            "A1 Catharsis",
+            "A2 Asceding To Our Solitude",
+            "B1 Depressed Fun Seekers",
+            "B2 2 Step King",
+            "C1 The Checker",
+            "C2 Wats It Mean 2 U",
+            "D1 Gimme (Timeless Worlds Of Space)",
+            "D2 Mind Diving",
+            "E1 Adriana's Anxieties",
+            "F1 Closer",
+            "F2 Jingle All The Way"
+        ],
+        "Date": "2022-04-01",
+        "Blurb": "The master of micro still makes stripped-back house more soulful than almost anyone else, 15 years on from his last album.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Rewind: Robert Hood",
+        "Title": "Minimal Nation",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "M-Plant"
+            }
+        ],
+        "Tracklist": [
+            "One Touch",
+            "Museum",
+            "Ride",
+            "Acrylic",
+            "Unix",
+            "Rhythm",
+            "Station Rider E",
+            "The Pace"
+        ],
+        "Date": "2020-07-26",
+        "Blurb": "Ground zero for minimal techno.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Fumiya Tanaka",
+        "Title": "Right Moment",
+        "Genre": [
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perlon"
+            }
+        ],
+        "Tracklist": [
+            "Right Moment",
+            "Live Like Music",
+            "Forever Friends",
+            "Breakthrough",
+            "I Want To Be A Human Being",
+            "Welcome To Chaos",
+            "The Reason Is Always Different",
+            "Birth Of The Perfect Club"
+        ],
+        "Date": "2020-01-06",
+        "Blurb": "Bold and colourful, this album may be the Japanese minimal artist's best record.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Vilod",
+        "Title": "The Clouds Know",
+        "Genre": [
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mana"
+            }
+        ],
+        "Tracklist": [
+            "Ohnesarg ",
+            "Jazzversuch ",
+            "Flump",
+            "Clop ",
+            "Wassernova ",
+            "Scheiss On Your Diamond ",
+            "Schalen Geschmack",
+            "Rahmstar",
+            "Mosaic ",
+            "Jungsstück",
+            "Pfaul"
+        ],
+        "Date": "2019-12-05",
+        "Blurb": "Perlon meets ECM on this enigmatic, detailed LP by Ricardo Villalobos and Max Loderbauer.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Rewind: Losoul ‎",
+        "Title": "Belong",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Playhouse"
+            }
+        ],
+        "Tracklist": [
+            "A1 Taste Not Waste",
+            "A2 Late Play",
+            "B1 Resisting Curare",
+            "B2 Overland",
+            "C1 Sunbeams And The Rain",
+            "C2 Position",
+            "D1 Depth Control",
+            "D2 You Can Do",
+            "D3 Trust"
+        ],
+        "Date": "2019-09-28",
+        "Blurb": "Finn Johannsen revisits a pioneering album from the early days of minimal house.",
+        "Recommended": false,
+        "Author": "Finn Johannsen"
+    },
+    {
+        "Artist": "Chris Korda",
+        "Title": "Akoko Ajeji",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perlon"
+            }
+        ],
+        "Tracklist": [
+            "Vizyon ",
+            "Asiri ",
+            "Iyika ",
+            "Ala Aye ",
+            "Awose ",
+            "Ra Bayi ",
+            "Ra Mi ",
+            "Egungun ",
+            "Dek Sep Bluso ",
+            "Fazo Kanto "
+        ],
+        "Date": "2019-09-25",
+        "Blurb": "A unique Perlon record that is both extraordinarily complex and genuinely fun.",
+        "Recommended": false,
+        "Author": "Max Graef Lakin"
+    },
+    {
+        "Artist": "Robag Wruhme",
+        "Title": "Venq Tolep",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Pampa"
+            }
+        ],
+        "Tracklist": [
+            "Advent feat. Lysann Zander ",
+            "Westfal feat. Lysann Zander ",
+            "Iklahx ",
+            "Ak-Do 5",
+            "Volta Copy (Ambient Version) ",
+            "Komalh ",
+            "Ago Lades ",
+            "Venq Topel ",
+            "Bézique Atout feat. Oxia ",
+            "Nata Alma feat. Sidsel Endresen & Bugge Wesseltoft (You Might Say) ",
+            "Ende #2 "
+        ],
+        "Date": "2019-06-07",
+        "Blurb": "Sweet minimal house from a master of the style.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Etienne",
+        "Title": "Currently Idle",
+        "Genre": [
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "reductive"
+            }
+        ],
+        "Tracklist": [
+            "Signé Furax ",
+            "All About ",
+            "rd Nuke ",
+            "Forget Me Not ",
+            "Lies.Inc ",
+            "The Doubtful Guest ",
+            "Information Society",
+            "Squall"
+        ],
+        "Date": "2019-05-23",
+        "Blurb": "Minimal bombs made for maximum dance floor impact.",
+        "Recommended": false,
+        "Author": "Elissa Stolman"
+    },
+    {
+        "Artist": "Gramm",
+        "Title": "(Personal Rock)",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Faitiche"
+            }
+        ],
+        "Tracklist": [
+            "Legends / Nugroove™",
+            "St. Moritz",
+            "Type Zwei",
+            "Non-Relations",
+            "Ment",
+            "gr",
+            "Type Eins",
+            "Siemens.Bioport"
+        ],
+        "Date": "2019-04-16",
+        "Blurb": "An overlooked clicks and cuts gem from Jan Jelinek.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Maayan Nidam",
+        "Title": "Sea Of Thee",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perlon"
+            }
+        ],
+        "Tracklist": [
+            "Dust And Dirt ",
+            "Die Sonne Innere ",
+            "Acid Kiss ",
+            "In A Lair Of My Other ",
+            "Octaface ",
+            "Königin Von Saba ",
+            "Forever Present ",
+            "News From East "
+        ],
+        "Date": "2019-02-26",
+        "Blurb": "The Perlon artist returns with a revitalised sound on her third LP.",
+        "Recommended": false,
+        "Author": "Mark Smith"
+    },
+    {
+        "Artist": "SIT",
+        "Title": "Invisibility",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sushitech"
+            }
+        ],
+        "Tracklist": [
+            "Elevation ",
+            "Layers ",
+            "Exhibit ",
+            "Block ",
+            "Waiting ",
+            "Diatonic ",
+            "Concealed ",
+            "Drytime ",
+            "Dimming ",
+            "Webspace "
+        ],
+        "Date": "2018-02-08",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Matt Unicomb"
+    },
+    {
+        "Artist": "John Dimas",
+        "Title": "One Against Time",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Elephant Moon"
+            }
+        ],
+        "Tracklist": [
+            "Into My Mind",
+            "Digital Moon",
+            "Riko's Trip",
+            "Delusions",
+            "Legoland",
+            "One Against Time",
+            "Stardance",
+            "Flying Asteroids",
+            "Lost & Found",
+            "Space Tastes Lonely",
+            "Dreamweaver",
+            "Cosmic Epiphany",
+            "SikRet Universe",
+            "Out Of My Mind"
+        ],
+        "Date": "2018-02-06",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Thomas Brinkmann",
+        "Title": "Retrospektiv",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Third Ear Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Crazy Remix_Sheets Blankets ",
+            "Sur Ace ",
+            "Souls ",
+            "suns ",
+            "Olga ",
+            "What You're Doin ",
+            "Sweetback ",
+            "Ba ",
+            "That's Wild ",
+            "Hal 2010 ",
+            "Isch ",
+            "Mexico ",
+            "Tina ",
+            "Ulla ",
+            "On Edge ",
+            "Loplop",
+            "Dyr Bul Scyl ",
+            "Drops ",
+            "Walk With Me ",
+            "Lovesong ",
+            "Blackhill",
+            "Tilt",
+            "Don't Fake The Cake ",
+            "The More You Ignore Me ",
+            "Margins ",
+            "Odecca ",
+            "Cheap ",
+            "Zeichenkette"
+        ],
+        "Date": "2017-12-08",
+        "Blurb": "",
+        "Recommended": false,
+        "Author": "Mark Smith"
+    },
+    {
+        "Artist": "Midori Takada & Masahiko Satoh",
+        "Title": "Lunar Cruise",
+        "Genre": [
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "We Release Whatever The Fuck We Want Records"
+            }
+        ],
+        "Tracklist": [
+            "Iron Paradise",
+            "Nahm",
+            "Ancient Palace",
+            "A Vanished Illusion",
+            "Jyomuran",
+            "Monody",
+            "In \"D\"",
+            "Madorone",
+            "Chang-Dra",
+            "Lunar Cruise"
+        ],
+        "Date": "2017-09-20",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Superlongevity 6",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perlon"
+            }
+        ],
+        "Tracklist": [
+            "The Stowaway - A Suspicious Passenger",
+            "International Anything - When It's Dark (Moonlight Medley)",
+            "Bodycode - Synchronized Sleep",
+            "Kalabrese - Düdingen",
+            "Pile - Noshow",
+            "Dimbiman - Turtle Gone",
+            "Margaret Dygas - Saasafras",
+            "Fumiya Tanaka - Standing North 6",
+            "Baby Ford - Dognosematic",
+            "Narcotic Syntax - Agents With Fatty Acids",
+            "Ricardo Villalobos - Gono Fuznk",
+            "Binh - Wochenbett",
+            "Darren - 1999 / 2017 (Extended Version)",
+            "Spacetravel - No More",
+            "Soul Capsule - Them Yeah",
+            "Sammy Dee - Marvon Goes Savage Deep",
+            "Maayan Nidam - Trail Of Glitter",
+            "Melchior Productions Ltd - The Hope"
+        ],
+        "Date": "2017-08-28",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Mark Smith"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Alien Family",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Cabaret Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Binh - Wova",
+            "U-More - Lost Up There",
+            "Evan Baggs - AZS",
+            "S-Audio - Remote Circuit",
+            "Ekbox - Watair",
+            "TC80 - Flake",
+            "So Inagawa - Solitary Affair",
+            "Evideon - Game Over"
+        ],
+        "Date": "2017-08-23",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "Cédric Dekowski & Felix Reifenberg ‎",
+        "Title": "L'Albüm",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Minimal"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "HardWorkSoftDrink"
+            }
+        ],
+        "Tracklist": [
+            "Ansiska",
+            "Hotzefotze",
+            "Track34",
+            "Fingatoes",
+            "Katushka",
+            "The North",
+            "Piersin",
+            "Onson",
+            "Macright",
+            "Rondiana",
+            "Tictactoe"
+        ],
+        "Date": "2017-06-20",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Matt Unicomb"
+    },
+    {
+        "Artist": "Bruno Pronsato",
+        "Title": "US Drag",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Foom Music"
+            }
+        ],
+        "Tracklist": [
+            "These Brides",
+            "Before What Happened, Happened",
+            "She's Moved",
+            "Bang",
+            "Brighter Than Her Daughter feat. Angus Andrew",
+            "The Wait",
+            "Hands Reach Up",
+            "Mine's Nineteen",
+            "Neighbors In The Movies"
+        ],
+        "Date": "2017-06-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Midori Takada",
+        "Title": "Through The Looking Glass",
+        "Genre": [
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Ambient"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Palto Flats"
+            }
+        ],
+        "Tracklist": [
+            "Mr. Henri Rousseau's Dream",
+            "Crossing\t",
+            "Trompe-L'oeil\t",
+            "Catastrophe Σ"
+        ],
+        "Date": "2017-04-05",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Aaron Coultate"
+    }
+]

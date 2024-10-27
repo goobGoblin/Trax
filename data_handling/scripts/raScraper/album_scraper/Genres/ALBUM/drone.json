@@ -1,0 +1,695 @@
+[
+    {
+        "Artist": "Kali Malone",
+        "Title": "All Life Long",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ideologic Organ"
+            }
+        ],
+        "Tracklist": [
+            "Passage Through the Spheres",
+            "All Life Long (for organ)",
+            "No Sun to Burn (for brass)",
+            "Prisoned on Watery Shore",
+            "Retrograde Canon",
+            "Slow of Faith",
+            "Fastened Maze",
+            "No Sun To Burn (for organ)",
+            "All Life Long (for voice)",
+            "Moving Forward",
+            "Formation Flight",
+            "The Unification of Inner & Outer Life"
+        ],
+        "Date": "2024-03-03",
+        "Blurb": "Minimalist in the biggest sense of the word, stretched across organ, brass and voice.",
+        "Recommended": true,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Lou Reed",
+        "Title": "Hudson River Wind Meditations",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Light In The Attic"
+            }
+        ],
+        "Tracklist": [
+            "Move Your Heart",
+            "Find Your Note",
+            "Hudson River Wind (Blend The Ambiance)",
+            "Wind Coda"
+        ],
+        "Date": "2024-01-12",
+        "Blurb": "This newly reissued, and often beautiful, 2007 drone album shows the late New York firebrand's keen grasp of experimental music.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Vince Clarke",
+        "Title": "Songs Of Silence",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mute Records"
+            }
+        ],
+        "Tracklist": [
+            "Cathedral",
+            "White Rabbit",
+            "Passage",
+            "Imminent",
+            "Red Planet",
+            "The Lamentations Of Jeremiah",
+            "Mitosis",
+            "Blackleg",
+            "Scarper",
+            "Last Transmission"
+        ],
+        "Date": "2023-12-07",
+        "Blurb": "On his debut solo album, the British synth pop legend (and Depeche Mode cofounder) turns his hand to gloomy ambient.\n",
+        "Recommended": false,
+        "Author": "Alastair Shuttleworth"
+    },
+    {
+        "Artist": "Tim Hecker",
+        "Title": "No Highs",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kranky"
+            }
+        ],
+        "Tracklist": [
+            "Monotony",
+            "Glissalia",
+            "Total Garbage",
+            "Lotus Light",
+            "Winter Cop",
+            "In Your Mind",
+            "Monotony II",
+            "Pulse Depression",
+            "Anxiety",
+            "Sense Suppression",
+            "Living Spa Water"
+        ],
+        "Date": "2023-04-11",
+        "Blurb": "Tim Hecker goes back-to-basics for an uncomfortable ambient album that rails against a positive-vibes-only ideology and focuses on the mundanity and chaos of everyday life.",
+        "Recommended": false,
+        "Author": "Merilyn Chang"
+    },
+    {
+        "Artist": "John Frusciante",
+        "Title": ": I I .",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Avenue 66"
+            }
+        ],
+        "Tracklist": [
+            "Golpin",
+            "MK 2.1",
+            "Pyn",
+            "Blesdob Dot",
+            "Unitiled",
+            "Clank",
+            "Frantay",
+            "Galvation",
+            "Sluice",
+            "Firpln"
+        ],
+        "Date": "2023-03-05",
+        "Blurb": "The Red Hot Chili Peppers guitarist goes modular on an extended LP of ultra-deep, trippy and occasionally relaxing synth jams.",
+        "Recommended": false,
+        "Author": "Reid BG"
+    },
+    {
+        "Artist": "Kali Malone",
+        "Title": "Does Spring Hide Its Joy feat. Stephen O'Malley & Lucy Railton",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ideologic Organ"
+            }
+        ],
+        "Tracklist": [
+            "Does Spring Hide Its Joy v1.1",
+            "Does Spring Hide Its Joy v1.2",
+            "Does Spring Hide Its Joy v1.3",
+            "Does Spring Hide Its Joy v2.1",
+            "Does Spring Hide Its Joy v2.2",
+            "Does Spring Hide Its Joy v2.3",
+            "Does Spring Hide Its Joy v1",
+            "Does Spring Hide Its Joy v2",
+            "Does Spring Hide Its Joy v3",
+            ""
+        ],
+        "Date": "2023-01-27",
+        "Blurb": "The celebrated composer forms a power trio—and moves from the organ to a synthesizer—for her grandest work yet.",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Kali Malone",
+        "Title": "Living Torch",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Portraits GRM"
+            }
+        ],
+        "Tracklist": [
+            "Living Torch I",
+            "Living Torch II"
+        ],
+        "Date": "2022-07-27",
+        "Blurb": "The Swedish experimentalist ditches the organ for orchestral instruments and a vintage synth, and makes two of her most overwhelming compositions yet.\n",
+        "Recommended": false,
+        "Author": "Ted Davis"
+    },
+    {
+        "Artist": "Elaine Cheng",
+        "Title": "Instead Of Dreams",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "NX Records"
+            }
+        ],
+        "Tracklist": [
+            "The Drawing Room",
+            "Seeking",
+            "Somewhere Beyond",
+            "Wasp",
+            "Resume"
+        ],
+        "Date": "2021-07-05",
+        "Blurb": "On her latest album, the composer and sound artist builds an immersive world through mesmerising drones.",
+        "Recommended": false,
+        "Author": "Michelle Ulor"
+    },
+    {
+        "Artist": "Kevin Richard Martin",
+        "Title": "Red Light",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2021-03-15",
+        "Blurb": "Kevin Richard Martin collaborates with his past self, the saxophone player.\n",
+        "Recommended": false,
+        "Author": "Richard Akingbehin"
+    },
+    {
+        "Artist": "deli girls",
+        "Title": "BOSS",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "gatekeeper",
+            "it's all in my head",
+            "no such thing as good and evil",
+            "motherless fuck",
+            "dick hurt",
+            "bad batman",
+            "loaded gun feat. LEECH",
+            "feedback/failure",
+            "barriers to love feat. LEYA",
+            "faget",
+            "all the things i've done"
+        ],
+        "Date": "2020-10-16",
+        "Blurb": "Pockets of despair counter blistering confrontation in deli girls's most vulnerable release yet. \n",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Deathprod",
+        "Title": "Occulting Disk",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Smalltown Supersound"
+            }
+        ],
+        "Tracklist": [
+            "Disappearance / Reappearance",
+            "Occultation 1 ",
+            "Occultation 2",
+            "Occultation 3",
+            "Occultation 4 ",
+            "Occultation 5",
+            "Occultation 6",
+            "Occultation 7",
+            "Black Transit Of Jupiter's Third Satellite",
+            "Occultation 8"
+        ],
+        "Date": "2019-11-10",
+        "Blurb": "Immersive drone ambient pieces, made to inspire moral reflection.",
+        "Recommended": false,
+        "Author": "April Clare Welsh"
+    },
+    {
+        "Artist": "Kali Malone",
+        "Title": "The Sacrificial Code",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "iDEAL Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Spectacle Of Ritual",
+            "Sacrificial Code",
+            "Rose Wreath Crown (For CW)",
+            "Sacer Profanare",
+            "Litanic Cloth Wrung",
+            "Fifth Worship II",
+            "Hagakyrka Bells (Live In Hagakyrka)",
+            "Prelude (Live In Hagakyrka)",
+            "Sacrificial Code (Live In Hagakyrka)",
+            "Glory Canon III (Live In Hagakyrka)"
+        ],
+        "Date": "2019-08-23",
+        "Blurb": "Intensely meditative organ pieces.",
+        "Recommended": false,
+        "Author": "Lewis Gordon"
+    },
+    {
+        "Artist": "Fennesz",
+        "Title": "Agora",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Touch"
+            }
+        ],
+        "Tracklist": [
+            "In My Room",
+            "Rainfall",
+            "Agora",
+            "We Trigger The Sun"
+        ],
+        "Date": "2019-04-04",
+        "Blurb": "A moving leap into the abyss.",
+        "Recommended": false,
+        "Author": "Jonathan Williger"
+    },
+    {
+        "Artist": "Various",
+        "Title": "The Black Book",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "iDEAL Recordings"
+            }
+        ],
+        "Tracklist": [
+            "JASSS - Parental Youth",
+            "Pact Infernal - The Eternal Return",
+            "Ramleh - Entropy II 0",
+            "Vanity Productions - Ideal Life",
+            "Jim O'Rourke - In Regards",
+            "Mokira - Cats In The Cradle",
+            "Jonathan Uliel Saldanha - Siren Frontier",
+            "Robert Aiki Aubrey Lowe - Ehh??? (For Folke Rabe)",
+            "Dungeon Acid - Afro Acid",
+            "Carlos Giffoni & Prurient - Returning Rains",
+            "Ectoplasm Girls - Neuropean",
+            "JS Aurelius - All In Sync With All, And Me",
+            "John Duncan - Shortwave6",
+            "JH1.FS3 - At The Bottom Of The Night",
+            "Stephen O'Malley - LOUP",
+            "E3 Trepaneringsritualen Manifest As Tyr x Reid x Vend - Ond Pau Ne Atto, Od Pau Ne Hofdo",
+            "Coppice - Flywheel (Flood Blowing)",
+            "Autumns - Lose It",
+            "Drew St Ivany - A Mixer And A Delay Unit "
+        ],
+        "Date": "2018-12-06",
+        "Blurb": "A tastemaking experimental label celebrates 20 years.",
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": null,
+        "Title": "IL-P-ON - ÄÄNET ",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            },
+            {
+                "name": "Noise"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Editions Mego"
+            }
+        ],
+        "Tracklist": [
+            "Syrjäytyvä",
+            "Raavittua Krokodiliä",
+            "Turun Sattuma",
+            "Muistoissa 1, 2, 3",
+            "Poble Dub",
+            "Alussa",
+            "Seattle 1",
+            "San Francisco Keskustelu",
+            "Pimeyden Vasara",
+            "Jyvät",
+            "Seattle 2, Asema",
+            "Melankolia",
+            "Lopussa",
+            "Manat"
+        ],
+        "Date": "2018-11-22",
+        "Blurb": "Ilpo Väisänen pays tribute to Mika Vainio and \"the life of Pan Sonic.\"",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Puce Mary",
+        "Title": "The Drought",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "PAN"
+            }
+        ],
+        "Tracklist": [
+            "Dissolve",
+            "A Feast Before The Drought",
+            "To Possess Is To Be In Control",
+            "Fragments Of A Lily",
+            "Red Desert",
+            "Coagulate",
+            "The Size Of Our Desires",
+            "The Transformation",
+            "Slouching Uphill"
+        ],
+        "Date": "2018-10-24",
+        "Blurb": "The Danish experimental artist is at her sinister best on this PAN debut.",
+        "Recommended": false,
+        "Author": "Marc Masters"
+    },
+    {
+        "Artist": "Tim Hecker",
+        "Title": "Konoyo",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kranky"
+            }
+        ],
+        "Tracklist": [
+            "This Life ",
+            "In Death Valley",
+            "Is A Rose Petal Of The Dying Crimson Light",
+            "Keyed Out ",
+            "In Mother Earth Phase",
+            "A Sodium Codec Haze",
+            "Across To Anoyo"
+        ],
+        "Date": "2018-09-26",
+        "Blurb": "The sounds of a traditional Japanese gagaku ensemble mutated into rich drones. ",
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Sarah Davachi",
+        "Title": "Gave In Rest",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ba Da Bing!"
+            }
+        ],
+        "Tracklist": [
+            "Auster ",
+            "Third Hour ",
+            "Evensong ",
+            "Matins ",
+            "Gloaming ",
+            "Gilded ",
+            "Waking "
+        ],
+        "Date": "2018-09-25",
+        "Blurb": "The Canadian minimalist channels solitude and reverence on her latest LP.",
+        "Recommended": false,
+        "Author": "Claire Sawers"
+    },
+    {
+        "Artist": "Tim Hecker",
+        "Title": "Haunt Me, Haunt Me Do It Again / Radio Amor",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kranky"
+            }
+        ],
+        "Tracklist": [
+            "Haunt Me, Haunt Me Do It Again",
+            "Music For Tundra Part 1",
+            "Music For Tundra Part 2",
+            "Music For Tundra Part 3",
+            "Arctic Lover's Rock Part 1",
+            "Arctic Lover's Rock Part 2",
+            "The Work Of Art In The Age Of Cultural Overproduction",
+            "October Part 1",
+            "October Part 2",
+            "Ghost Writing Part 1",
+            "Ghost Writing Part 2",
+            "City In Flames (In 3 Parts) Part 1",
+            "City In Flames (In 3 Parts) Part 2",
+            "City In Flames (In 3 Parts) Part 3",
+            "Borderlines Part 1",
+            "Borderlines Part 2",
+            "Boreal Kiss Part 1",
+            "Boreal Kiss Part 2",
+            "Boreal Kiss Part 3",
+            "Night Flight To Your Heart Part 1",
+            "Night Flight To Your Heart Part 2",
+            "",
+            "Radio Amor",
+            "Song Of The Highwire Shrimper",
+            "They Call Me) Jimmy",
+            "Spectral",
+            "I'm Transmitting Tonight",
+            "Miles",
+            "Shipyards Of La Ceiba",
+            "Careless Whispers",
+            "The Star Compass",
+            "Azure Azure",
+            "Trade Winds, White Heat "
+        ],
+        "Date": "2018-08-07",
+        "Blurb": "Two reissues that underline Hecker's formidable talent.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Sarah Davachi",
+        "Title": "Let Night Come On Bells End The Day",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Recital"
+            }
+        ],
+        "Tracklist": [
+            "Garlands",
+            "Mordents",
+            "At Hand",
+            "Buhrstone",
+            "Hours In The Evening"
+        ],
+        "Date": "2018-04-28",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Angus Finlayson"
+    }
+]

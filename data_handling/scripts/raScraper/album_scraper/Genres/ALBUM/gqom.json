@@ -1,0 +1,211 @@
+[
+    {
+        "Artist": "DJ Lag",
+        "Title": "Meeting With The King",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Gqom"
+            },
+            {
+                "name": "Amapiano"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ice Drop"
+            }
+        ],
+        "Tracklist": [
+            "Thongo Lami feat. Ndoni",
+            "DJ Lag & Amanda Black – Destiny ",
+            "DJ Lag & Sinjin Hawke - Raptor",
+            "DJ Lag & Lady Du - Lucifer",
+            "DJ Lag, Babes Wodumo & Mampintsha - iKhehla ",
+            "Into Ongayazi",
+            "DJ Lag & Mr JazziQ - Khavude feat. Mpura & Vic Typhoon",
+            "Shululu feat. Loki & K.C Driller",
+            "Skoro",
+            "Something Differrent ",
+            "DJ Lag & Dladla Mshunqisi - Yasho Leyonto ",
+            "Chaos feat. Omagoqa & General C'mamane",
+            "No Childs Play feat. Jackzin & General C'mamane",
+            "New Wave feat. Omagoqa",
+            "DJ Lag, Babes Wodumo & Mampintsha - DJ Lag"
+        ],
+        "Date": "2022-03-09",
+        "Blurb": "The king of gqom brings together different threads of South African dance music on his show-stopping debut album.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Citizen Boy & Mafia Boyz",
+        "Title": "From Avoca Hills To The World",
+        "Genre": [
+            {
+                "name": "Gqom"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "GQOM OH"
+            }
+        ],
+        "Tracklist": [
+            "Citizen Boy - Hlasela feat. Thalerh",
+            "Citizen Boy - Dark City",
+            "Citizen Boy - Mzansi feat. ANT The Artist & Simore",
+            "Mafia Boyz - Seasons\t",
+            "Citizen Boy - Night Cries",
+            "Mafia Boyz - WOZA\t",
+            "Mafia Boyz - Ugugu\t",
+            "Uhuru",
+            "A Night In Durban",
+            "Citizen Boy - Bhengi Yabathakathi\t",
+            "Citizen Boy - Ndanda\t",
+            "Mafia Boyz - Teaspoon La Qoh"
+        ],
+        "Date": "2020-02-20",
+        "Blurb": "A killer gqom retrospective that highlights the uncompromising sound's appeal and commercial potential.",
+        "Recommended": false,
+        "Author": "Chal Ravens"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Nervous Horizon Vol. 3",
+        "Genre": [
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Gqom"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nervous Horizon"
+            }
+        ],
+        "Tracklist": [
+            "TSVI - Labyrinth",
+            "Chevel & Wallwork - Carbon 12",
+            "TSVI & DJ Plead - Force Field",
+            "object blue - Neo Noir",
+            "Tzusing & TSVI - 24hr",
+            "Wallwork - Hacienda ",
+            "DJ Plead - Ambush",
+            "DJ JM - Peak",
+            "Ehua - Meteora ",
+            "Wallwork - Detonate"
+        ],
+        "Date": "2019-12-03",
+        "Blurb": "Hear how the sounds of Durban, Taipei and Beirut are intensifying UK club music on this excellent compilation.",
+        "Recommended": false,
+        "Author": "Chal Ravens"
+    },
+    {
+        "Artist": "Santa Muerte",
+        "Title": "Diluvio",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Gqom"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Majia"
+            }
+        ],
+        "Tracklist": [
+            "Sin Lagrimas (Intro) ",
+            "Exus ",
+            "Ritmo De Selva feat. TenTwentySeven ",
+            "Diluvio w/ Zutzut ",
+            "Aerial Rhythm feat. Lao & NNOA ",
+            "Noah's Pain (Interlude) ",
+            "No Drip ",
+            "Cuz Of U (Instrumental) ",
+            "Laceration ",
+            "Prayer (Outro) "
+        ],
+        "Date": "2019-09-13",
+        "Blurb": "Contemporary club music from Texas with an eerie touch and a persuasive melodrama.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Gqom Oh! x Crudo Volta Mixtape",
+        "Genre": [
+            {
+                "name": "Gqom"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "GQOM OH"
+            }
+        ],
+        "Tracklist": [
+            "Dominowe - Darbuka Tribe (Core Tribe) ",
+            "Mafia Boyz - Toyizi Ley'ngane ",
+            "Julz Da Deejay - Quantums And Qo ",
+            "Formation Boyz - Dlala AmaBenuBenu ",
+            "Citizen Boy - Indaba Ka Bani Besibenuza ",
+            "Emo Kid - Hennessy feat. WorstHood ",
+            "Cruel Boyz - Cruel Drumz ",
+            "TLC Fam - No 2 BeeF (Slima) ",
+            "Mafia Boyz - Bhengi YoKhalipha ",
+            "DJ Mabheko - Izinyosi (Core Tribe) ",
+            "Julz Da Deejay - Broken Souls ",
+            "Dominowe - Dark Valley (Core Tribe) ",
+            "TLC Fam - Umgcwabo WeNdanda (Da 4th Term Mix) ",
+            "Forgotten Souls - Blow My Mind (DJ Nerd Vocalist) "
+        ],
+        "Date": "2016-07-22",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Lisa Blanning"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Gqom Oh! The Sound Of Durban Vol. 1",
+        "Genre": [
+            {
+                "name": "Gqom"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "GQOM OH"
+            }
+        ],
+        "Tracklist": [
+            "Dominowe - Africa's Cry ",
+            "Forgotten Souls feat. Formation Boyz - Hhaibo (Remix) ",
+            "DJ Mabheko - Syagwaba (704 Gqomu) ",
+            "Emo Kid feat. DJ Bradolz - IYona ",
+            "Citizen Boy - Tribute To DSB ",
+            "Cruel Boyz - Umeqo Emagqomini (Dub Mix) ",
+            "Citizen Boy - Ghetto Mafia (Club Mix) ",
+            "Formation Boyz - Zulu War ",
+            "TLC Fam - June Bani Bani (Dbn Dance) ",
+            "Julz Da DeeJay - Gunz & Soulz ",
+            "Forgotten Souls - Sgubhu 6 (Gqom Edit) ",
+            "Emo Kid - Table Funk ",
+            "Gqom Outro"
+        ],
+        "Date": "2016-02-25",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    }
+]

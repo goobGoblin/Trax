@@ -1,0 +1,695 @@
+[
+    {
+        "Artist": "NUG",
+        "Title": "Bong Boat",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "West Mineral Ltd."
+            }
+        ],
+        "Tracklist": [
+            "Row",
+            "Kneippen",
+            "Tide",
+            "Mud",
+            "Sky",
+            "Hull",
+            "Heat",
+            "Drift",
+            "Night"
+        ],
+        "Date": "2024-05-06",
+        "Blurb": "PVAS and Florian T M Zeisig make impressively murky ambient music on their second album as NUG.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Nexcyia",
+        "Title": "Endless Path of Memory",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Pensaments Sònics"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2024-05-05",
+        "Blurb": "Haunted elegies from a rising figure in the ambient underground.   \n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Arushi Jain",
+        "Title": "Delight",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Leaving Records"
+            }
+        ],
+        "Tracklist": [
+            "Still Dreaming",
+            "Exquisite Portraiture",
+            "I Surrender",
+            "Imagine An Orchestra",
+            "Play In The Void",
+            "Our Touching Tongues",
+            "Portal To Silver Linings",
+            "Infinite Delight",
+            "You Are Irresistible"
+        ],
+        "Date": "2024-04-25",
+        "Blurb": "A luscious sound bath of modular synthesis and tranquil vocals that charts the Indian artist's inner quest for pleasure.",
+        "Recommended": false,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "Low End Activist",
+        "Title": "Airdrop",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Peak Oil"
+            }
+        ],
+        "Tracklist": [
+            "Airdrop 01 (Waterstock)",
+            "Airdrop 02 (Yarnton Rd 2 Cassington) ",
+            "Airdrop 03 (Mayhem On Barton Hill) ",
+            "Airdrop 04 (Squeeze Yer Lemon) ",
+            "Airdrop 05 (White Horse Hill) ",
+            "Airdrop 06 (Praha Hardcore) ",
+            "Airdrop 07 (Tango Skit) ",
+            "Airdrop 08 (Hinksey Hardcore) ",
+            "Airdrop 09 (Cortina Outro)"
+        ],
+        "Date": "2024-04-23",
+        "Blurb": "An album of beatless rave music that highlights the power of space and silence—and sub-bass.",
+        "Recommended": false,
+        "Author": "Dash Lewis"
+    },
+    {
+        "Artist": "Kevin",
+        "Title": "Laundry",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Motion Ward"
+            }
+        ],
+        "Tracklist": [
+            "cloud cover",
+            "staying",
+            "selfish replacement feat. foamy sax",
+            "slow",
+            "frog valley",
+            "capsule curve feat. foamy sax",
+            "sum things (heal)",
+            "u know me feat. shaun n don",
+            "for the ones we love"
+        ],
+        "Date": "2024-04-21",
+        "Blurb": "Motion Ward continues to grow with an earthy folk record from Ben Bondy and Mister Water Wet.\n",
+        "Recommended": false,
+        "Author": "Ted Davis"
+    },
+    {
+        "Artist": "claire rousay",
+        "Title": "sentiment",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Thrill Jockey"
+            }
+        ],
+        "Tracklist": [
+            "pm",
+            "head",
+            "it could be anything ",
+            "asking for it",
+            "iii",
+            "lover's spit plays in the background ",
+            "sycamore skylight",
+            "please 5 more minutes feat. Lala Lala",
+            "w sunset blvd",
+            "ily2 feat. Hand Habits"
+        ],
+        "Date": "2024-04-19",
+        "Blurb": "The Canadian-American sound collagist pairs idyllic soundscapes with sincere, emo-influenced Autotuned vocal performances.",
+        "Recommended": false,
+        "Author": "Rae-Aila Crumble"
+    },
+    {
+        "Artist": "Bianca Scout",
+        "Title": "Pattern Damage",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sferic"
+            }
+        ],
+        "Tracklist": [
+            "Intro",
+            "Forest Spirit feat. Darkmarik",
+            "Midnight feat. Mun Sing",
+            "Interlude",
+            "Chances",
+            "Desert feat. Marina Zispin",
+            "Lead Us",
+            "When My Heart Is Lonely (Monks Orchard)",
+            "Passage // Reversal // Fortune feat NWAKKE",
+            "Almost Nothing feat. Darkmarik",
+            "I Don't Sleep",
+            "Anon's Song"
+        ],
+        "Date": "2024-04-18",
+        "Blurb": "A bewitching mixture of sound collage, post-punk and avant-garde music with incisive lyrics.",
+        "Recommended": true,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Vanessa Bedoret",
+        "Title": "Eyes",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Scenic Route"
+            }
+        ],
+        "Tracklist": [
+            "Choice",
+            "Ballad",
+            "03. 1/2",
+            "Transition",
+            "Eyes",
+            "Pas",
+            "Eternal"
+        ],
+        "Date": "2024-04-07",
+        "Blurb": "Blending spoken word, ambient and lowercase pop, the French artist shows why less is more.",
+        "Recommended": false,
+        "Author": "Joshua Minsoo Kim"
+    },
+    {
+        "Artist": "Steve Roach",
+        "Title": "Structures From Silence (40th Anniversary Edition)",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Projekt"
+            }
+        ],
+        "Tracklist": [
+            "Reflections In Suspension",
+            "Quiet Friend",
+            "Structures From Silence",
+            "Suspension",
+            "Reflection",
+            "Beyond",
+            "Below"
+        ],
+        "Date": "2024-03-16",
+        "Blurb": "A keystone in the history of ambient music still sounds unique 40 years later.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Kali Malone",
+        "Title": "All Life Long",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ideologic Organ"
+            }
+        ],
+        "Tracklist": [
+            "Passage Through the Spheres",
+            "All Life Long (for organ)",
+            "No Sun to Burn (for brass)",
+            "Prisoned on Watery Shore",
+            "Retrograde Canon",
+            "Slow of Faith",
+            "Fastened Maze",
+            "No Sun To Burn (for organ)",
+            "All Life Long (for voice)",
+            "Moving Forward",
+            "Formation Flight",
+            "The Unification of Inner & Outer Life"
+        ],
+        "Date": "2024-03-03",
+        "Blurb": "Minimalist in the biggest sense of the word, stretched across organ, brass and voice.",
+        "Recommended": true,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Jonny From Space",
+        "Title": "back then I didn't but now I do",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Incienso"
+            }
+        ],
+        "Tracklist": [
+            "Crystal Eyes",
+            "Luna Dance",
+            "Float",
+            "Level Skip",
+            "Live",
+            "Dream Reality",
+            "Hold & Release",
+            "Slip",
+            "Run It",
+            "Hearing Colors"
+        ],
+        "Date": "2024-02-26",
+        "Blurb": "Downtempo deepness for early in the night or late in the morning.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Bookworms",
+        "Title": "depth perceptions",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "rusto",
+            "slice of life",
+            "exit at middle of platform",
+            "gliss",
+            "gleek",
+            "selected",
+            "ofiveb",
+            "vidual",
+            "viz",
+            "pairsbox",
+            "trigonometry",
+            "phonie",
+            "nex",
+            "ccents",
+            "ability"
+        ],
+        "Date": "2024-02-07",
+        "Blurb": "Rough-and-ready techno from a core American underground dance music artist.\n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Nailah Hunter",
+        "Title": "Lovegaze",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Fat Possum"
+            }
+        ],
+        "Tracklist": [
+            "Strange Delights",
+            "Through The Din",
+            "Finding Mirrors",
+            "04. 000",
+            "Lovegaze",
+            "Bleed",
+            "Adorned",
+            "Cloudbreath",
+            "Garden",
+            "Into The Sun"
+        ],
+        "Date": "2024-01-29",
+        "Blurb": "The harpist sublimates her signature instrument into an atmospheric canvas for gauzy, candlelit love songs and spirituals.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Donato Dozzy",
+        "Title": "Magda",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Spazio Disponibile"
+            }
+        ],
+        "Tracklist": [
+            "Velluto",
+            "Magda",
+            "Le Chaser",
+            "Franca",
+            "Santa Cunegonda",
+            "Lucrezia ",
+            ""
+        ],
+        "Date": "2024-01-26",
+        "Blurb": "The Rome maestro's first full-length since 2019 presents six cuts of soothing techno at its most human.",
+        "Recommended": true,
+        "Author": "Will Lynch"
+    },
+    {
+        "Artist": "Lou Reed",
+        "Title": "Hudson River Wind Meditations",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Light In The Attic"
+            }
+        ],
+        "Tracklist": [
+            "Move Your Heart",
+            "Find Your Note",
+            "Hudson River Wind (Blend The Ambiance)",
+            "Wind Coda"
+        ],
+        "Date": "2024-01-12",
+        "Blurb": "This newly reissued, and often beautiful, 2007 drone album shows the late New York firebrand's keen grasp of experimental music.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Biosphere",
+        "Title": "Inland Delta",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Krautrock"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Biophon Records"
+            }
+        ],
+        "Tracklist": [
+            "Surface Tension",
+            "Delta Function",
+            "Franklin's Dream",
+            "Wolfgang's Wave",
+            "Brownian Motion",
+            "Random Walk",
+            "The String Thing",
+            "Florian's Flute",
+            "Jane's Lament"
+        ],
+        "Date": "2023-12-29",
+        "Blurb": "The revered ambient composer shifts gears to '70s style synth work on a relatively simple, yet wonderfully executed album.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Various (Music From Memory)",
+        "Title": "10",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Music From Memory"
+            }
+        ],
+        "Tracklist": [
+            "A1 Joan Bibiloni - Nits De La Sultana",
+            "A2 The Zenmenn - The Legend Of Haziz",
+            "A3 Ströer - When You Stopped Sleeping",
+            "A4 Androo - W.I.O. (micmac mix)",
+            "A5 Joel Graham - Cool Blue Pool",
+            "B1 Jonny Nash - Dream It Right",
+            "B2 Terekke - Just Ducking Around",
+            "B3 Mei Honeycomb - Squeaky Eye Syndrome",
+            "B4 Tombolo - Continental Drift",
+            "C1 Kuniyuki Takahashi - Forest Dust",
+            "C2 Yu Su & J. Wilson - Mitti Attar",
+            "C3 Gigi Masin - Panama Girl",
+            "D1 Ocean Moon - The Ecstatic Alarm",
+            "D2 Michal Turtle - Borrowed Times",
+            "D3 RAMZi - baci",
+            "D4 Suso Sáiz - Kailas",
+            "D5 Dea - Undecenial"
+        ],
+        "Date": "2023-12-22",
+        "Blurb": "A bittersweet celebration of one of the past decade's defining electronic music labels.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "André 3000",
+        "Title": "New Blue Sun",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Epic Records"
+            }
+        ],
+        "Tracklist": [
+            "I Swear, I Really Wanted to Make a \"Rap\" Album but This Is Literally the Way the Wind Blew Me This Time",
+            "The Slang Word P(*)ssy Rolls Off the Tongue With Far Better Ease Than the Proper Word Vagina. Do You Agree?",
+            "That Night in Hawaii When I Turned Into a Panther and Started Making These Low Register Purring Tones That I Couldn't Control... Sh¥t Was Wild",
+            "BuyPoloDisorder's Daughter Wears a 3000® Button Down Embroidered",
+            "Ninety Three 'Til Infinity And Beyoncé",
+            "Ghandi, Dalai Lama, Your Lord & Savior J.C. / Bundy, Jeffrey Dahmer, and John Wayne Gacy",
+            "Ants to You, Gods to Who?",
+            "Dreams Once Buried Beneath the Dungeon Floor Slowly Sprout Into Undying Gardens"
+        ],
+        "Date": "2023-12-08",
+        "Blurb": "John-Paul Shiver investigates the star rapper's turn to ambient music.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Vince Clarke",
+        "Title": "Songs Of Silence",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Drone"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mute Records"
+            }
+        ],
+        "Tracklist": [
+            "Cathedral",
+            "White Rabbit",
+            "Passage",
+            "Imminent",
+            "Red Planet",
+            "The Lamentations Of Jeremiah",
+            "Mitosis",
+            "Blackleg",
+            "Scarper",
+            "Last Transmission"
+        ],
+        "Date": "2023-12-07",
+        "Blurb": "On his debut solo album, the British synth pop legend (and Depeche Mode cofounder) turns his hand to gloomy ambient.\n",
+        "Recommended": false,
+        "Author": "Alastair Shuttleworth"
+    },
+    {
+        "Artist": "Niecy Blues",
+        "Title": "Exit Simulation",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kranky"
+            }
+        ],
+        "Tracklist": [
+            "01. 1111",
+            "The Nite B4",
+            "U Care",
+            "Violently Rooted",
+            "Exit Simulation",
+            "Exits",
+            "Soma",
+            "Messages From Above",
+            "Lament",
+            "Violently Rooted Reprise",
+            "The Architect",
+            "Analysis Paralysis",
+            "Cascade"
+        ],
+        "Date": "2023-11-30",
+        "Blurb": "Ghostly ambient R&B and experimental soundscapes from an exciting new voice on Kranky.",
+        "Recommended": false,
+        "Author": "Dash Lewis"
+    }
+]

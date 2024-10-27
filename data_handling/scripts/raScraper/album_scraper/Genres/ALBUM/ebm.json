@@ -1,0 +1,700 @@
+[
+    {
+        "Artist": null,
+        "Title": "Maedon-X - The Lion & The Ram",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tresor"
+            }
+        ],
+        "Tracklist": [
+            "Breathe It In",
+            "Subterranean Caverns",
+            "Psychic Vulture",
+            "Caged Animal",
+            "Buckle Up",
+            "Corrupt Pigs",
+            "Human Replacements",
+            "Subliminal Messages",
+            "When It All Ends"
+        ],
+        "Date": "2022-10-13",
+        "Blurb": "Walloping industrial techno at refreshingly mid-paced tempos that really let it sink in.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Schacke",
+        "Title": "Apocalyptic Decadence",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Instruments Of Discipline"
+            }
+        ],
+        "Tracklist": [
+            "Dysphoria",
+            "Tasteless Passion",
+            "Miasma Of Filth",
+            "Motorsports",
+            "Creeping Up The Tempo",
+            "The Mood (Interlude)",
+            "Dungeon Crawler",
+            "Body Type",
+            "Hypersensitivity",
+            "NY-X",
+            ""
+        ],
+        "Date": "2022-08-10",
+        "Blurb": "Big-room techno with subtlety, nuance and more than a few hooks.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": null,
+        "Title": "System 01 - 1990-1994",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mannequin"
+            }
+        ],
+        "Tracklist": [
+            "Drugs Work ",
+            "Any Reality Is An Opinion ",
+            "From Psychedelics To Cybernetics (Instrumental)",
+            "Know Time ",
+            "Paralysed Force ",
+            "Deadly And Addictive ",
+            "The Pleasure Principle ",
+            "Mind Sensations (Voov / System 01 Mix) ",
+            "Victim 34 ",
+            "Take My Soul ",
+            "The Confession ",
+            "You're Like Me"
+        ],
+        "Date": "2022-02-03",
+        "Blurb": "An outstanding compilation from two forgotten pioneers of Berlin techno. ",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Boy Harsher",
+        "Title": "The Runner",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nude Club"
+            }
+        ],
+        "Tracklist": [
+            "Tower",
+            "Give Me a Reason",
+            "Autonomy feat. Lucy - Cooper B. Handy",
+            "The Ride Home",
+            "Escape ",
+            "Machina feat. Ms. BOAN - Mariana Saldaña",
+            "Untitled (Piano)",
+            "I Understand",
+            ""
+        ],
+        "Date": "2022-02-02",
+        "Blurb": "More immaculate synth pop from the American group, with a new hint of horror.",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Back Up: Mexican Tecno Pop 1980​",
+        "Title": "​1989",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dark Entries"
+            }
+        ],
+        "Tracklist": [
+            "Avant Garde - Pesadillas",
+            "Vandana - Cambios En El Tiempo",
+            "Syntoma - No Me Puedo Controlar",
+            "Artefacto - Mundo Sin Viento",
+            "Cou Cou Bazar - Cou Cou Bazar",
+            "Volti - Corazón",
+            "Nahtabisk - La Dama De Probeta",
+            "Escuadrón Del Ritmo - Las Cucarachas",
+            "Década 2 - Alfabeto (Cold Version)",
+            "Silueta Pálida - El Paso Del Tiempo (Versión Remezclada)"
+        ],
+        "Date": "2021-10-22",
+        "Blurb": "\"It had elements of disco, but it also wasn't rock\"—a new Dark Entries anthology captures the chaos and creativity of '80s synth music in Mexico. \n",
+        "Recommended": true,
+        "Author": "Max Pearl"
+    },
+    {
+        "Artist": "Louisahhh",
+        "Title": "The Practice Of Freedom",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "HE.SHE.THEY. RECORDS"
+            }
+        ],
+        "Tracklist": [
+            "Love Is A Punk",
+            "Like A Shot",
+            "Chaos",
+            "Ferocious (Contained)",
+            "Master",
+            "No Pressure",
+            "Not Dead",
+            "Numb, Undone",
+            "Corrupter",
+            "A Hard No",
+            "Hunter Wolf"
+        ],
+        "Date": "2021-03-18",
+        "Blurb": "A deeply personal and occasionally confrontational techno album.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "ADULT.",
+        "Title": "Perception is/as/of Deception",
+        "Genre": [
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dais Records"
+            }
+        ],
+        "Tracklist": [
+            "We Look Between Each Other",
+            "Second Nature\t",
+            "Don't Reduce Me\t",
+            "Why Always Why",
+            "Total Total Damage\t",
+            "Have I Started at the End",
+            "Controlled By\t",
+            "Reconstruct The Construct\t",
+            "Untroubled Mind"
+        ],
+        "Date": "2020-05-13",
+        "Blurb": "The EBM churn of the group's eighth album doesn't always land. \n",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Phase Fatale",
+        "Title": "Scanning Backwards",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ostgut Ton"
+            }
+        ],
+        "Tracklist": [
+            "Velvet Imprints ",
+            "Binding By Oath ",
+            "Polystyrene ",
+            "During The Freezing Process ",
+            "Mass Deception ",
+            "Proxy Contact ",
+            "De-patterning ",
+            "Splintered Heels "
+        ],
+        "Date": "2020-01-23",
+        "Blurb": "If you can't make it to Berghain this weekend, this techno/EBM album might be the next best thing. ",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Kris Baha",
+        "Title": "Palais",
+        "Genre": [
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Cocktail D'Amore"
+            }
+        ],
+        "Tracklist": [
+            "Palais",
+            "Living Nothingness",
+            "Brink Reality (Part 2)",
+            "Steel Sands",
+            "You Told Yourself This Would Get Worse",
+            "Defied",
+            "Take Away My Greed",
+            "Repenting",
+            "Safeword",
+            "Non For The Sane",
+            "Dead To Romance",
+            "Life, Lust + Death"
+        ],
+        "Date": "2019-10-20",
+        "Blurb": "If you love danceable industrial music, Kris Baha's love letter to the '80s is essential.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Silent Servant",
+        "Title": "Shadows Of Death And Desire",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hospital Productions"
+            }
+        ],
+        "Tracklist": [
+            "Illusion ",
+            "Harm In Hand ",
+            "Damage ",
+            "Loss Response ",
+            "Hours ",
+            "Glass Veil ",
+            "Optimistic Decay "
+        ],
+        "Date": "2019-01-15",
+        "Blurb": "The influential techno artist looks to EBM, industrial and post-punk on his second LP.",
+        "Recommended": false,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "Terence Fixmer",
+        "Title": "Through The Cortex",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ostgut Ton"
+            }
+        ],
+        "Tracklist": [
+            "Something Invisible",
+            "Shout In A Black Hole",
+            "Event Horizon",
+            "Fury",
+            "Accelerate",
+            "Expedition",
+            "A Halo Somewhere",
+            "Phase Shift "
+        ],
+        "Date": "2018-11-17",
+        "Blurb": "EBM and techno hybrids that sometimes fall short of Fixmer's best work.",
+        "Recommended": false,
+        "Author": "Steph Lee"
+    },
+    {
+        "Artist": "Vanligt Folk",
+        "Title": "Hambo",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kontra-Musik"
+            }
+        ],
+        "Tracklist": [
+            "Hemma Med Familjen \t",
+            "O)Hambo \t",
+            "Hitlers Dreamboy/Och Flickor \t",
+            "Dina Drömmar Lever \t",
+            "TKO \t",
+            "Grisebassen \t",
+            "Dåli Vajb \t",
+            "O "
+        ],
+        "Date": "2018-10-11",
+        "Blurb": "Body music with a Swedish folk twist.",
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "ADULT.",
+        "Title": "This Behavior",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dais Records"
+            }
+        ],
+        "Tracklist": [
+            "This Behavior",
+            "Violent Shakes",
+            "Silent Exchange",
+            "Perversions Of Humankind",
+            "Irregular Pleasure",
+            "Does The Body Know?",
+            "On The Edge (You Put Me...)",
+            "Lick Out The Content",
+            "Everything & Nothing",
+            "In All The Debris "
+        ],
+        "Date": "2018-09-06",
+        "Blurb": "A forceful techno LP that sometimes lacks a magic touch.",
+        "Recommended": false,
+        "Author": "Paul Clarke"
+    },
+    {
+        "Artist": "Pink Elln",
+        "Title": "The Beginning",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Non Standard Productions"
+            }
+        ],
+        "Tracklist": [
+            "Darling ",
+            "Don't Put Your Pants Ov ",
+            "Running ",
+            "After Love ",
+            "The Losing Girl ",
+            "Ceest ",
+            "I And You ",
+            "The Space Is Open ",
+            "Claudia The Wonga ",
+            "Clean ",
+            "Punk Splat ",
+            "Mörder ",
+            "Be Near Me ",
+            "Pre-Human Perc ",
+            "Madness ",
+            "Human Perc ",
+            "Darling Reprise "
+        ],
+        "Date": "2018-08-31",
+        "Blurb": "The techno artist Tobias Freund digs into his '80s archives for a fun, wide-ranging compilation.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "DJ Richard",
+        "Title": "Dies Iræ Xerox",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dial Records"
+            }
+        ],
+        "Tracklist": [
+            "Dies Iræ Xerox",
+            "Pitfall",
+            "Vanguard",
+            "Crimson Curve",
+            "Tunnel Stalker",
+            "Dissolving World",
+            "In Broad Daylight",
+            "Ancestral Helm",
+            "Final Mercy",
+            "Ex Aere",
+            "Old Winter's Way",
+            "Gate Of Roses"
+        ],
+        "Date": "2018-07-18",
+        "Blurb": "DJ Richard channels grim medieval moods on an apocalyptic yet beautiful 55 minutes.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Blush Response ‎",
+        "Title": "Infinite Density",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sonic Groove"
+            }
+        ],
+        "Tracklist": [
+            "Infinite Density",
+            "Panic Stricken",
+            "No Solace",
+            "Aum Shinrikyo",
+            "Survivor Guilt",
+            "Painkiller",
+            "Serpentine",
+            "Infinite Dread",
+            "Tryptamine",
+            "Tesselate ",
+            "Dead Still Air"
+        ],
+        "Date": "2018-01-05",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Dave Clarke",
+        "Title": "The Desecration Of Desire",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Skint"
+            }
+        ],
+        "Tracklist": [
+            "Exquisite",
+            "Is Vic There? feat. Louisahhh",
+            "Frisson feat. Mt. Sims",
+            "Plasmatic",
+            "Dot Forty One (Mute)",
+            "Charcoal Eyes (Glass Tears) feat. Mark Lanegan",
+            "Monochrome Sun feat. Mark Lanegan",
+            "Cover Up My Eyes feat. Gazelle Twin",
+            "I'm Not Afraid feat. Anika",
+            "Death Of Pythagoras"
+        ],
+        "Date": "2017-11-18",
+        "Blurb": "",
+        "Recommended": false,
+        "Author": "Paul Clarke"
+    },
+    {
+        "Artist": "Marcel Dettmann",
+        "Title": "Selectors 003",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dekmantel"
+            }
+        ],
+        "Tracklist": [
+            "Front 242 - Don't Crash",
+            "The Force Dimension - Algorythm (Manipulating Mix)",
+            "Executive Slacks - So Mote It Be",
+            "Martin Dupont - The Light Goes Through My Mouth",
+            "A Thunder Orchestra - Diabolical Gesture (Marcel Dettmann Edit)",
+            "Twice A Man - Happy Life",
+            "Cabaret Voltaire - Low Cool (Marcel Dettmann Edit)",
+            "Kaa Antilope - Rise Up Helicopter, Like A Bird",
+            "Clan Of Xymox - A Day",
+            "Ministry - Same Old Madness",
+            "Fad Gadget - Back To Nature"
+        ],
+        "Date": "2017-06-22",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Marie Davidson",
+        "Title": "Adieux Au Dancefloor",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Cititrax"
+            }
+        ],
+        "Tracklist": [
+            "I Dedicate My Life ",
+            "Interfaces ",
+            "Naïve To The Bone",
+            "Denial ",
+            "La Femme Écarlate",
+            "Good Vibes (Mocking Birds) ",
+            "Inferno ",
+            "Planète Ego ",
+            "Adieux Au Dancefloor "
+        ],
+        "Date": "2016-10-29",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Steph Lee"
+    },
+    {
+        "Artist": "Not Waving",
+        "Title": "Animals",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "EBM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Diagonal"
+            }
+        ],
+        "Tracklist": [
+            "Believe ",
+            "Head Body ",
+            "03. 24 ",
+            "Tomorrow We Will Kill You ",
+            "I Know I Know I Know ",
+            "Punch ",
+            "Gutsy ",
+            "Face Attack ",
+            "Presenza Immobile ",
+            "Work Talk ",
+            "They Cannot Be Replaced "
+        ],
+        "Date": "2016-03-13",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    }
+]

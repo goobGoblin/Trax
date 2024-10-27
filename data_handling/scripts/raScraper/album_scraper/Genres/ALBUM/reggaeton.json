@@ -1,0 +1,44 @@
+[
+    {
+        "Artist": "Various (TraTraTrax)",
+        "Title": "no pare, sigue sigue",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Reggaeton"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "TraTraTrax"
+            }
+        ],
+        "Tracklist": [
+            "Verraco - Ronaldinho hace la elástica",
+            "Nick León x Luca Durán - Joga Bola",
+            "Nicola Cruz - Acelera",
+            "Bitter Babe - Nadie lo puede parar",
+            "DJ Babatr - Cabo E",
+            "Doctor Jeep - Prisma De Luz",
+            "Loris - Azud",
+            "Lila Tirando a Violeta x Sin Maldita - Consonante Rótica",
+            "Mari Herzer - Solta o Grave Alucinado",
+            "DNGDNGDNG x Prisma - Distal RKT",
+            "OCTUBRXLIBRV - Kalunga",
+            "PVSSY x Entrañas - Insidia",
+            "Tomás Urquieta - K9999",
+            "Safety Trance - Indiferencia ",
+            "DJ Pai - Aleteo 1",
+            "DJ Sosa RD - Mami QTQ"
+        ],
+        "Date": "2022-12-19",
+        "Blurb": "The label of the year finishes 2022 with a bang.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    }
+]

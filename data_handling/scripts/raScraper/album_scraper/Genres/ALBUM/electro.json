@@ -1,0 +1,815 @@
+[
+    {
+        "Artist": "Jensen Interceptor",
+        "Title": "Jensen & Friends",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "International Chrome"
+            }
+        ],
+        "Tracklist": [
+            "Werk iT feat. AMX",
+            "Direct Drive feat. Assembler Code",
+            "LA PLATA feat. CRRDR",
+            "Teach Me feat. Dagga",
+            "Bludgeon feat. estoc",
+            "SARRA HA HA feat. Kenya20hz",
+            "NÃO SE ASSUSTE feat. Kue",
+            "Sending My Love feat. Lawrence Lee",
+            "que corte feat. MALO2K",
+            "Skembbe feat. Nene H",
+            "Cheetara feat. Prequel Tapes",
+            "Alien Patience feat. Sinistarr"
+        ],
+        "Date": "2024-03-18",
+        "Blurb": "Jensen Interceptor teams up with 12 collaborators for a record of industrial strength, globetrotting electro and techno.\n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various (Die Orakel)",
+        "Title": "Braindance",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Die Orakel"
+            }
+        ],
+        "Tracklist": [
+            "upsammy – Wumb (Ambient Version)",
+            "n9oc – Hyphae",
+            "Pépe – Cloudbusters",
+            "Gacha Bakradze – Inhumanity",
+            "Rali Pibs – Hooked & Strungout",
+            "Teatre – Daze",
+            "O-Wells – Deep Concentration",
+            "Oma Totem – Sobre Caderas feat. Juns",
+            "Dana Kuehr – Biota",
+            "Benjamin Milz – Cmos",
+            "Poly Chain – Turbulent",
+            "Katatonic Silentio – Grain Of Consumption",
+            "Koloah – The Highway",
+            "Reptant – Protectors Of The Moss",
+            "Edward – Blurry Trees And Peanuts"
+        ],
+        "Date": "2024-03-13",
+        "Blurb": "The Frankfurt label celebrates ten years with a record of cerebral IDM and bass-heavy contortions.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Andrés",
+        "Title": "Andrés V",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mahogani Music"
+            }
+        ],
+        "Tracklist": [
+            "Praises",
+            "Cybermate",
+            "Listen To The Sound",
+            "Autumn Getaway",
+            "Funky 2Step",
+            "Detoxfromtheworld",
+            "I Need It",
+            "Jungle Stroll"
+        ],
+        "Date": "2024-01-24",
+        "Blurb": "From roller rink funk to scratch-happy hip-hop, the Detroit artist's latest marks 20 years of albums on Mahogani Music.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Danny Daze",
+        "Title": "::BLUE::",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Omnidisc"
+            }
+        ],
+        "Tracklist": [
+            "Tone Ring",
+            "Exosphere",
+            "Lass Los",
+            "04. 1234",
+            "Fukushima)",
+            "Drowning Again feat. December",
+            "Smack",
+            "Communication",
+            "Fizmo",
+            "I'm Fallin'",
+            "Silver Box feat. Nick León & Jonny From Space",
+            "Antigravity Machine",
+            "Vaz2009",
+            "Room 115",
+            "Entity feat. Push Button Objects",
+            "Blue Orbit",
+            "Nobot Nobot",
+            "Time Lapse",
+            "Void"
+        ],
+        "Date": "2023-12-19",
+        "Blurb": "A 90-minute opus many years in the making.",
+        "Recommended": true,
+        "Author": "Sophie McNulty"
+    },
+    {
+        "Artist": null,
+        "Title": "VC-118A - Waves Of Change",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Delsin"
+            }
+        ],
+        "Tracklist": [
+            "Heat",
+            "The Deep",
+            "Stream",
+            "Glub",
+            "Motherboard",
+            "You",
+            "Replace Image",
+            "Echo Drop",
+            "Elektri",
+            "Ufonic"
+        ],
+        "Date": "2023-10-26",
+        "Blurb": "Samuel van Dijk brings his heavenly electro and techno a little closer to earth on this more emotive record.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Josh Caffé",
+        "Title": "Poppa Zesque",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Phantasy Sound"
+            }
+        ],
+        "Tracklist": [
+            "Justify My Sex feat. Al White",
+            "Meine Lederjeans feat. Al White",
+            "Do You Want To Take Me Home",
+            "The Rent Boys Want Their Money Back feat. Al White",
+            "Poppa Zesque feat. Al White",
+            "Nitalude",
+            "Bunny Grinder feat. Al White",
+            "According to Jacqueline",
+            "Mania",
+            "Sermon",
+            "Outro/Dotty Side Effects"
+        ],
+        "Date": "2023-10-04",
+        "Blurb": "On his second album, Josh Caffé embraces a hedonistic alter ego, making for some perfectly executed, pleasure-filled house.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Helena Hauff",
+        "Title": "fabric presents Helena Hauff",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "fabric Records"
+            }
+        ],
+        "Tracklist": [
+            "Helena Hauff - Turn Your Sights Inward ",
+            "dynArec - Sunken Park ",
+            "Clarence G - Data Transfer",
+            "Slam & Optic Nerve - Machine Conflict ",
+            "The Exaltics feat. Paris The Black Fu - 10 Oseco Ndstill Lmidnight (Lorenz.Orx RMX)",
+            "YTP - WHAT U WANT ",
+            "Turk Turkelton - Rock It ",
+            "Yarn Init - Tripcon II ",
+            "Signal Type - In Abyss ",
+            "Illektrolab - Overdrive ",
+            "Ement - Despite of time ",
+            "Raavel - Wakalaka ",
+            "IMOGEN - Granular Tears ",
+            "Radioactive Man - Night Bus To Nowhere ",
+            "FJAAK & Tobi Neumann - F-Zero ",
+            "Nite Fleit - Naïve ",
+            "Magda Rot - Alter Simus ",
+            "MicroControlUnit - Save The World (MCU's Apocalypse Mix) ",
+            "D-Breeze - Crazy For Love (Autechre Remix) "
+        ],
+        "Date": "2023-10-02",
+        "Blurb": "Raw, industrial electro and techno delivered with punk panache. What else would you expect from Helena Hauff? \n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Arthur Baker",
+        "Title": "Dance Masters: The Classic Dance Remixes",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Demon Music Group"
+            }
+        ],
+        "Tracklist": [
+            "Disc 1",
+            "Fleetwood Mac - Big Love (Extended Remix)",
+            "New Order - Confusion (12-inch Version)",
+            "Cyndi Lauper - Girls Just Want to Have (Fun Extended Version)",
+            "Daryl Hall - Dreamtime (Extended Remix Version)",
+            "Pet Shop Boys - Suburbia (Club Vocal Mix)",
+            "Fine Young Cannibals - Ever Fallen in Love? (Club Senseless)",
+            "General Public - Never You Done That Special Dance Mix",
+            "The Colourfield - Running Away (Long Version)",
+            "The Cars - Hello Again (Remix)",
+            "Carly Simon - My New Boyfriend (Remix)",
+            "Bob Dylan - When the Night Comes Falling from the Sky (Full Length Version)",
+            "",
+            "Disc 2",
+            "Daryl Hall & John Oates - Out of Touch (Club Version)",
+            "Jennifer Holliday - No Frills Love (Extended Dance Remix)",
+            "Robbie Nevil - C'est la Vie (Extended Version)",
+            "Living in a Box - Living in a Box (Dance Mix)",
+            "Neneh Cherry - Buffalo Stance (1/2 Way 2 House Mix)",
+            "Will Downing - A Love Supreme (Jazz in the House Remix)",
+            "Jeffrey Osborne - Soweto (Remixed Version)",
+            "Jermaine Stewart - Jody (Dance Version)",
+            "Roberta Flack - Uh Uh Ooh Ooh Look Out (Here It Comes) (Arthur Baker's Dance Mix)",
+            "Al Jarreau - I Must Have Been a Fool (Remix)",
+            "Arthur Baker & the Backbeat Disciples Featuring Al Green - the Message Is Love (Cupid Mix)",
+            "",
+            "Disc 3",
+            "Artists United Against Apartheid - Sun City (Last Remix)",
+            "Freeez - I.O.U. (Mega Mix)",
+            "Talking Heads - Blind (Extended Mix)",
+            "Wally Jump Jr. & the Criminal Element - Turn Me Loose (12-inch Version)",
+            "Tina B - Honey to a Bee (Vocal/Extended Version)",
+            "Arthur Baker - Breaker's Revenge (Extended Vocal Version)",
+            "Cindy Mizelle - This Could Be the Night (Vocal/Extended)",
+            "Atlantic Starr - One Lover at a Time (Extended Version)",
+            "Boxcar - Freemason (You Broke the Promise) (Shakedown Mix)",
+            "Gypsy Kings - Bamboleo Latin (Extended Version)",
+            "",
+            "Disc 4",
+            "Afrika Bambaataa & Soulsonic Force - Planet Rock (12-inch Vocal Version)",
+            "Rockers Revenge Featuring Donnie Calvin - Walking on Sunshine (12-inch Version)",
+            "Touchdown - Ease Your Mind (U.S. Remix)",
+            "Second Image - Star (U.S. Remix)",
+            "Junie Morrison - Tease Me (Long Version)",
+            "Central Line - Surprise, Surprise (12-inch Version)",
+            "Glory - Can You Guess What Groove This Is (Short Version)",
+            "Afrika Bambaataa & the Jazzy 5 with the Kryptic Krew - Jazzy Sensation (12-inch Bronx Version)",
+            "Ritz - I Wanna Get with You (12-inch Version)",
+            "Larry Wedgeworth and Clique - No More Games (Short Version)",
+            "North End - Can't Put No Price on Love (Long Version)",
+            "",
+            "",
+            ""
+        ],
+        "Date": "2023-08-13",
+        "Blurb": "A sprawling retrospective of one of the most important figures in dance music history, who helped define the sound of the '80s.",
+        "Recommended": true,
+        "Author": "Zach Schlein"
+    },
+    {
+        "Artist": "DJ MELL G",
+        "Title": "ISSUES",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "JUICY GANG RECORDS"
+            }
+        ],
+        "Tracklist": [
+            "ISSUES (INTRO) ",
+            "DISTURBED MIND",
+            "WHAT I FEAR",
+            "GREATEST DESIRE (2AM HOPE MIX)",
+            "BORDERLINE",
+            "BEYOND 70"
+        ],
+        "Date": "2023-08-04",
+        "Blurb": "The JUICY GANG boss channels her mental health troubles into razor-sharp electro.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Florian Kupfer",
+        "Title": "Lifetrax II",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Discos Capablanca"
+            },
+            {
+                "name": "Ediciones Capablanca"
+            }
+        ],
+        "Tracklist": [
+            "Postsynaptic",
+            "Valiant",
+            "CS II",
+            "Proxima",
+            "Disintegration",
+            "Black Cat",
+            "CRS",
+            "Dereliction",
+            "Nabemba",
+            "Stress Test",
+            "Raphe Nuclei",
+            "Oxytocin"
+        ],
+        "Date": "2023-08-03",
+        "Blurb": "Longstanding lo-fi house producer Florian Kupfer returns with an album of eerie electro and off-kilter techno.",
+        "Recommended": false,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "DJ Bone",
+        "Title": "FURTHER",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Subject Detroit"
+            }
+        ],
+        "Tracklist": [
+            "Generations",
+            "The Will To Overcome",
+            "Poppa D's Basement",
+            "Predestination Paradox",
+            "The Standard",
+            "Our Cosmic BBQ",
+            "Without A Sound",
+            "Dreamers 6.1",
+            "Mission Accomplished",
+            "Exorcising Ghosts From The Past",
+            "Celestial Circuits",
+            "Now I See "
+        ],
+        "Date": "2023-07-17",
+        "Blurb": "A titan of Detroit returns with aerodynamic techno that shows off his controlled abandon and technical mastery.",
+        "Recommended": true,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "Erika",
+        "Title": "Anevite Void",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Interdimensional Transmissions"
+            }
+        ],
+        "Tracklist": [
+            "Emergency Shutdown",
+            "Opal Haze",
+            "Obsidian Sunset",
+            "Star Line Down",
+            "Anion",
+            "Desert Red",
+            "Crystal Circuits",
+            "Tomorrow's Fires",
+            "Dirt Breather",
+            "Wandering Mountain"
+        ],
+        "Date": "2023-03-09",
+        "Blurb": "Erika's first solo LP in a decade is Detroit techno and electro at its most elemental.",
+        "Recommended": true,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": null,
+        "Title": "Various – fabric SELECTS I ",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "fabric Originals"
+            }
+        ],
+        "Tracklist": [
+            "Verraco - casi siempre hay mañana",
+            "Bambounou - In Depth Beauty Routine",
+            "Adiel - Outer Space",
+            "Elli Acula - Pleasure",
+            "Quelza - Proteins Chords",
+            "Tommy Four Seven - Disrupt",
+            "Manni Dee - Heartbreaker",
+            "Air Max '97 - Testrip",
+            "DJ MELL G - Nothing But Filth",
+            "Deena Abdelwahed - Dirisha",
+            "Marcel Fengler - Katana",
+            "VRIL - Moon Tax"
+        ],
+        "Date": "2023-01-12",
+        "Blurb": "A compilation that reflects the London club's long-running, sonically diverse legacy.",
+        "Recommended": false,
+        "Author": "Niamh O'Connor"
+    },
+    {
+        "Artist": null,
+        "Title": "Various - Homecore! Miami All-Stars",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Omnidisc"
+            }
+        ],
+        "Tracklist": [
+            "Otto Von Schirach - Miami All-Stars (Tremendo Intro)",
+            "Low End Resorts - Night Asylum",
+            "Tre Oh Fie - 4AM ",
+            "Jesse Perez - Pocket Full Of Ones",
+            "Bitter Babe - Gimme",
+            "TIDUR. - You And I",
+            "MJ Nebreda - Arquitecto",
+            "Miles Amillion - Heavy Heads",
+            "Roiju - Sin Gravedad",
+            "Nick León - Sapo",
+            "La Goony Chonga - Phonkay (prod. by Danny Daze & Nick León)",
+            "Danny Daze - 110 Dudes",
+            "DJ Craze - Sureshot",
+            "SEL.6 - Drop In2 The Pain",
+            "Feph - Resolve",
+            "INVT - Dassit",
+            "Glue Boy, El Gusano - Beak Dub",
+            "Ctrl+Opt - Buzo",
+            "Exzakt BFX - Let Go",
+            "Nicholas G. Padilla - Zone",
+            "Push Button Objects, Danny Daze - I.E. ft. Tushna",
+            "Deroboter - Cid",
+            "Fwea-Go Jit - Touch It Turn It",
+            "Lazaro Casanova - Nieve",
+            "Greg Beato - Kaboosh",
+            "Sohn Jamal - TQ Visa",
+            "Elias Garcia - Radiant",
+            "Murk - Filth",
+            "Coffintexts - Muy Bien",
+            "Jan Anthony - Trees Whispers Leave",
+            "Max Buzone - Epoch",
+            "Jonny From Space - Refresh",
+            "Sister System - Feel It In The Heat",
+            "Bunni - Colirio",
+            "Dino Felipe - In Order To Ground The Listener",
+            "K - Always Down",
+            "Troy Kurtz - Hey Angel, Whatever",
+            "Black Ant - Bellfast3",
+            "Near Dark - Light Bounce",
+            "Emma - Light Bounce",
+            "Alpha 606 - Cacique"
+        ],
+        "Date": "2022-12-29",
+        "Blurb": "A sprawling tribute to Miami's many musical lineages and its exciting new innovators.",
+        "Recommended": false,
+        "Author": "Reid BG"
+    },
+    {
+        "Artist": "Steffi",
+        "Title": "The Red Hunter",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Candy Mountain"
+            }
+        ],
+        "Tracklist": [
+            "Irreversible Cessation",
+            "Alternation Of High And Low ",
+            "Primary Chaos",
+            "North Facing Shade",
+            "The Red Hunter",
+            "Tragedy Turns To Comedy ",
+            "Agent Of Change",
+            "Individuals From All Walks ",
+            "South Facing Brightness ",
+            "Lasting Lovers"
+        ],
+        "Date": "2022-11-03",
+        "Blurb": "Steffi balances fierce electro with fragile melodies and contemporary club rhythms. \n",
+        "Recommended": true,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Nite Fleit",
+        "Title": "Day Fleit / Nite Fleit",
+        "Genre": [
+            {
+                "name": "Electro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Steel City Dance Discs"
+            }
+        ],
+        "Tracklist": [
+            "Overload",
+            "Like I Used To Be feat. Mesmé",
+            "Desensitisation",
+            "The Flower Dance feat. Partiboi69",
+            "Dark End Of The Street",
+            "A Morning Song",
+            "Double Digits",
+            "Nah",
+            "Airs & Graces",
+            "Paranoid Energy",
+            "Bold Poke",
+            "Serious Effect"
+        ],
+        "Date": "2022-09-14",
+        "Blurb": "Nite Fleit's debut album features electro at its sweetest and most sour, split across two halves that emphasize the extremes of the genre.",
+        "Recommended": true,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Animistic Beliefs",
+        "Title": "MERDEKA",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Naafi"
+            }
+        ],
+        "Tracklist": [
+            "Thúc Tinh [Rebirth]",
+            "Call Of The Tahuri",
+            "To Dream About Water",
+            "It's Called A Dip",
+            "Unspoken Truths",
+            "Goblins Caught On Camera",
+            "Childhood Memories (Totobuang)",
+            "Poetry In Earthly Whispers",
+            "Kurang Tidor -幻觉",
+            "Untitled [Khi Minh Gâp Lai]"
+        ],
+        "Date": "2022-09-06",
+        "Blurb": "Skilled, sometimes astounding fusions of IDM, drum & bass and club music with Southeast Asian influences.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "D. Tiffany & Roza Terenzi",
+        "Title": "Edge Of Innocence",
+        "Genre": [
+            {
+                "name": "Trance"
+            },
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Delicate Records"
+            }
+        ],
+        "Tracklist": [
+            "Spiritual Delusion",
+            "Gravity Bongo",
+            "Liquorice Skritch",
+            "Lil' Drummer Boi feat. Nap & Sleek Bitumen",
+            "Grains Of Sand",
+            "Paparazzi",
+            "Redemption Arc",
+            "Possession",
+            ""
+        ],
+        "Date": "2022-06-10",
+        "Blurb": "Rushing through trance, drum & bass and downtempo rhythms, the reunited duo's Trans-Europe Express of high-energy dance music styles is captivating from beginning-to-end.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Dopplereffekt",
+        "Title": "Neurotelepathy",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Leisure System"
+            }
+        ],
+        "Tracklist": [
+            "Epigenetic Modulation",
+            "Neural Impulse Actuator - Mirror Neuron",
+            "Visual Cortex",
+            "Neuroplasticity ",
+            "Cerebral data download 2100 A.D.",
+            "Cerebral to Cerebral Interface",
+            "Cerebral - AI entanglement",
+            "Optogenetics",
+            "Transcranial Magnetic Stimulation",
+            "EEG"
+        ],
+        "Date": "2022-04-27",
+        "Blurb": "Ice cold electro from one of the greatest acts to ever do it.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Passarani",
+        "Title": "The Wildlife Of The Quieter Ones",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Aus Music"
+            }
+        ],
+        "Tracklist": [
+            "Alberquereue Arcade Retreat",
+            "Theme from FFOM ",
+            "Sacramento Balls",
+            "Dial 101",
+            "Revelation",
+            "Gravitational Lane",
+            "Serenity Alley",
+            "Equation",
+            "Storm 90",
+            "Requiem I",
+            "Complex Beta",
+            "Moon Stone",
+            "Rays of Thunder",
+            "Red Flying Kites",
+            "Never Ending Scrolling",
+            "The 6th Day",
+            "Strawberry Strings"
+        ],
+        "Date": "2022-03-23",
+        "Blurb": "Wonderfully melodramatic Italo nostalgia by a master of the form (and Tiger & Woods cofounder).",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    }
+]

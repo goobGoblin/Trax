@@ -1,0 +1,17 @@
+{
+    "operationName": "GET_REVIEWS_LISTING",
+    "variables": {
+        "indices": ["__INDICES__"],
+        "pageSize": 20,
+        "page": 1,
+        "aggregations": ["__AGGREGATIONS__"],
+        "filters": [
+            {"type": "LANGUAGE", "value": "__LANGUAGE__"},
+            {"type": "REVIEWTYPE", "value": "__REVIEWTYPE__"},
+            {"type": "GENRE", "value": "__GENRE__"}
+        ],
+        "sortOrder": "DESCENDING",
+        "sortField": "REVIEWDATE"
+    },
+    "query": "query GET_REVIEWS_LISTING($indices: [IndexType!], $aggregations: [ListingAggregationType!], $filters: [FilterInput], $pageSize: Int, $page: Int, $sortField: FilterSortFieldType, $sortOrder: FilterSortOrderType) {\n  listing(indices: $indices, aggregations: $aggregations, filters: $filters, pageSize: $pageSize, page: $page, sortField: $sortField, sortOrder: $sortOrder) {\n    aggregations {\n      type\n      values {\n        value\n        name\n        __typename\n      }\n      __typename\n    }\n    data {\n      ...reviewFragment\n      __typename\n    }\n    totalResults\n    __typename\n  }\n}\n\nfragment reviewFragment on IListingItem {\n  ... on Review {\n    id\n    index\n    title\n    date\n    imageUrl\n    contentUrl\n    recommended\n    blurb\n    labels {\n      id\n      name\n      contentUrl\n      live\n      __typename\n    }\n    author {\n      id\n      name\n      imageUrl\n      username\n      contributor\n      __typename\n    }\n    __typename\n  }\n  __typename\n}\n"
+}

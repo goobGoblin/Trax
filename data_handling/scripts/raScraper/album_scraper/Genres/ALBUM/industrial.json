@@ -1,0 +1,786 @@
+[
+    {
+        "Artist": "Ricardo Laine",
+        "Title": "Asleep In Their Myst",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Pinkman"
+            }
+        ],
+        "Tracklist": [
+            "The High Tide",
+            "Temple Of Hera",
+            "Asleep In Their Myst",
+            "Red And Salt",
+            "Ozone Empire",
+            "Ashes In The Sand",
+            "No Shadow Unturned",
+            "Sins",
+            "Stain Of Time",
+            "Bifrost"
+        ],
+        "Date": "2023-08-10",
+        "Blurb": "Riveting, industrial strength new beat and EBM techno from Andre E-R.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Brutalismus 3000",
+        "Title": "ULTRAKUNST",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Live From Earth Klub"
+            },
+            {
+                "name": "W/"
+            }
+        ],
+        "Tracklist": [
+            "ALL DIE LIEBEN MENSCHEN",
+            "GR3Y",
+            "CRY B3B3",
+            "SAFE SPACE",
+            "PONTIAC PARISIENNE (SKIT)",
+            "JE N'EXISTE PAS",
+            "DIE LIEBE KOMMT NICHT AUS BERLIN",
+            "NUR MEIN KÖRPER UND DIE ANGST",
+            "IS U CHEMICAL",
+            "SUKA SUKA",
+            "GEWALT GEWALT"
+        ],
+        "Date": "2023-04-13",
+        "Blurb": "With a serrated blend of techno, post-punk and gabber, Victoria Vassiliki Daldas and Theo Zeitner are on a mission to make everyone a little scared and excited at the same time.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "FULL EFX",
+        "Title": "HEADRUSH",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "L.I.E.S."
+            }
+        ],
+        "Tracklist": [
+            "Head Rush",
+            "Colorforms",
+            "For A Second",
+            "No Love",
+            "Light Bright",
+            "Friends",
+            "Skytel Pager",
+            "Take Flight",
+            "Steel Sharpens Iron",
+            "Scared To Death"
+        ],
+        "Date": "2022-12-21",
+        "Blurb": "Living, breathing techno with a twist of industrial from Anthony Parasole.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": null,
+        "Title": "Maedon-X - The Lion & The Ram",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tresor"
+            }
+        ],
+        "Tracklist": [
+            "Breathe It In",
+            "Subterranean Caverns",
+            "Psychic Vulture",
+            "Caged Animal",
+            "Buckle Up",
+            "Corrupt Pigs",
+            "Human Replacements",
+            "Subliminal Messages",
+            "When It All Ends"
+        ],
+        "Date": "2022-10-13",
+        "Blurb": "Walloping industrial techno at refreshingly mid-paced tempos that really let it sink in.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Boy Harsher",
+        "Title": "The Runner",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nude Club"
+            }
+        ],
+        "Tracklist": [
+            "Tower",
+            "Give Me a Reason",
+            "Autonomy feat. Lucy - Cooper B. Handy",
+            "The Ride Home",
+            "Escape ",
+            "Machina feat. Ms. BOAN - Mariana Saldaña",
+            "Untitled (Piano)",
+            "I Understand",
+            ""
+        ],
+        "Date": "2022-02-02",
+        "Blurb": "More immaculate synth pop from the American group, with a new hint of horror.",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Klein",
+        "Title": "Frozen",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "When Jesus Says Yes, Nobody Say No",
+            "Care About Us",
+            "U Got This",
+            "Another Dust",
+            "Grit",
+            "Reveal Itself",
+            "Needed And Saved",
+            "Mark",
+            "Understand Our Tracks",
+            "Tribute"
+        ],
+        "Date": "2020-04-30",
+        "Blurb": "Haunting sketches from a one-of-a-kind artist.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Men With Secrets",
+        "Title": "Psycho Romance & Other Spooky Ballads",
+        "Genre": [
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "The Bunker New York"
+            }
+        ],
+        "Tracklist": [
+            "th Dimension Signal n°1\t",
+            "The Misfortunes Of Virtues",
+            "Cabaret Démodé\t",
+            "th Dimension Signal n°2 ",
+            "Dramatic\t",
+            "Elle Est Nihiliste\t",
+            "th Dimension Signal n°3\t",
+            "Angelus Novus\t",
+            "Secrets Of The Crowd",
+            "th Dimension Signal n°4\t",
+            "Aletheia\t",
+            "Ruins On Ruins\t",
+            "th Dimension Signal n°5"
+        ],
+        "Date": "2020-02-29",
+        "Blurb": "Slick synth pop from Donato Dozzy and retina.it.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Borusiade",
+        "Title": "Fortunate Isolation",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dark Entries"
+            }
+        ],
+        "Tracklist": [
+            "Welcome Them ",
+            "Time (No Time) ",
+            "When I Read The News Today ",
+            "Mirror Hall (This Relief) ",
+            "They Pass By ",
+            "The Death Of A Desire (A Ghost) ",
+            "Lament (Fortunate Isolation) ",
+            "To The Self ",
+            "Follow "
+        ],
+        "Date": "2020-02-10",
+        "Blurb": "Inspired by baroque yet echoing '80s synth gloom, Borusiade's excellent LP gestures to the past to portray an uncertain present.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Phase Fatale",
+        "Title": "Scanning Backwards",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ostgut Ton"
+            }
+        ],
+        "Tracklist": [
+            "Velvet Imprints ",
+            "Binding By Oath ",
+            "Polystyrene ",
+            "During The Freezing Process ",
+            "Mass Deception ",
+            "Proxy Contact ",
+            "De-patterning ",
+            "Splintered Heels "
+        ],
+        "Date": "2020-01-23",
+        "Blurb": "If you can't make it to Berghain this weekend, this techno/EBM album might be the next best thing. ",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Giant Swan",
+        "Title": "Giant Swan",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Keck"
+            }
+        ],
+        "Tracklist": [
+            "Year Old Daughter \t",
+            "Pandaemonium \t",
+            "I' As Proof \t",
+            "Pan Head \t",
+            "Not A Crossing \t",
+            "OPAFS; R \t",
+            "Weight Of Love \t",
+            "Peace Fort Nine \t",
+            "YFPHNT \t",
+            "Spisbah"
+        ],
+        "Date": "2019-11-12",
+        "Blurb": "Unconventional techno with a punky edge, this debut LP from the Bristol duo consolidates their excellent run of EPs.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Kris Baha",
+        "Title": "Palais",
+        "Genre": [
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Cocktail D'Amore"
+            }
+        ],
+        "Tracklist": [
+            "Palais",
+            "Living Nothingness",
+            "Brink Reality (Part 2)",
+            "Steel Sands",
+            "You Told Yourself This Would Get Worse",
+            "Defied",
+            "Take Away My Greed",
+            "Repenting",
+            "Safeword",
+            "Non For The Sane",
+            "Dead To Romance",
+            "Life, Lust + Death"
+        ],
+        "Date": "2019-10-20",
+        "Blurb": "If you love danceable industrial music, Kris Baha's love letter to the '80s is essential.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": null,
+        "Title": "E-Saggila - My World My Way",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Hardcore"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Northern Electronics"
+            }
+        ],
+        "Tracklist": [
+            "Aziza ",
+            "Crimson Liquescence ",
+            "Stars Dying In Succession ",
+            "Alia feat. Thoom ",
+            "Pattern Obligation ",
+            "My World My Way ",
+            "One Last Midnight feat. Oil Thief "
+        ],
+        "Date": "2019-09-11",
+        "Blurb": "From noise to techno to 195 BPM breakcore, this LP thrives in dramatic extremes.",
+        "Recommended": true,
+        "Author": "Hugh Taylor"
+    },
+    {
+        "Artist": "SØS Gunver Ryberg",
+        "Title": "Entangled",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Avian"
+            }
+        ],
+        "Tracklist": [
+            "Palacelike Timescale Of Black ",
+            "Spacelike Orphan ",
+            "Trispider ",
+            "The Presence_Eurydike ",
+            "Quantum Skull ",
+            "Levitation ",
+            "Rabenlandschaft ",
+            "Magnetic Force ",
+            "Biophotons ",
+            "Silver Thread "
+        ],
+        "Date": "2019-07-03",
+        "Blurb": "Experimental techno at its most forceful and refined.",
+        "Recommended": false,
+        "Author": "Max Graef Lakin"
+    },
+    {
+        "Artist": "Karamika",
+        "Title": "2.0",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Dub Techno"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Offen Music"
+            }
+        ],
+        "Tracklist": [
+            "01. 2.1",
+            "02. 2.2",
+            "03. 2.3",
+            "04. 2.4",
+            "05. 2.5",
+            "06. 2.6",
+            "07. 2.7",
+            "08. 28"
+        ],
+        "Date": "2019-05-07",
+        "Blurb": "Black Merlin and Gordon Pohl look to industrial and dub techno on their latest collaboration.",
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Vatican Shadow",
+        "Title": "Berghain 09",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Industrial"
+            },
+            {
+                "name": "Noise"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ostgut Ton"
+            }
+        ],
+        "Tracklist": [
+            "Genesis Breyer P-Orridge - One Being, One Orientation, One Power",
+            "Rosa Damask - Our Heroes Are Leaving Us, Our Heroes Are Gone ",
+            "Steve Moore - Fever Dream ",
+            "Benestrophe - H.I.V. (Test Positive) ",
+            "Genesis Breyer P-Orridge - One Being, One Orientation, One Power ",
+            "Genesis Breyer P-Orridge - One Being, One Orientation, One Power ",
+            "Genesis Breyer P-Orridge - Phone Calls 1980/1981 (Excerpt) ",
+            "Dustmite - Tracing ",
+            "Solitary Dancer - Emails 2 Myself (Out-Of-Office-Version) ",
+            "Genesis Breyer P-Orridge - Phone Calls 1980/1981 (Excerpt)",
+            "Miles - Status Narcissism ",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt) ",
+            "Genesis Breyer P-Orridge - Phone Calls 1980/1981 (Excerpt) ",
+            "Bloom Offering - Linger ",
+            "U.S. Hard - Club Diagram ",
+            "Genesis Breyer P-Orridge - Nomad (Excerpt)",
+            "Traversable Wormhole - Traversing Through The Asteroid Belt ",
+            "Bronze Age - Modal Ingenuity",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt) ",
+            "Merzbow - Loop 2 ",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt)",
+            "Navicon Torture Technologies - Love's Executioner ",
+            "Silent Servant - The Strange Attractor",
+            "Alberich - Werkstatt ",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt) ",
+            "Leæther Strip - Dreaming (Two Track Demo 1984)",
+            "Volvox - Becoming ",
+            "Front Line Assembly - Eye On You (Orphx Remix)",
+            "Tomohiko Sagae - Danger Signal (Death Abyss All You Need Is Kill Remix)",
+            "Genesis Breyer P-Orridge - Nomad (Excerpt) ",
+            "Genesis Breyer P-Orridge - Phone Calls 1980/1981 (Excerpt)",
+            "Ancient Methods - White Flames ",
+            "Genesis Breyer P-Orridge - Phone Calls 1980/1981 (Excerpt)",
+            "Barker & Baumecker - Buttcracker",
+            "Identified Patient - Vrouwe Fataal ",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt)",
+            "JK Flesh - Decontrol ",
+            "Genesis Breyer P-Orridge - Phone Calls 1980/1981 (Excerpt) ",
+            "Western Versions - Española Nights / West Side Lights",
+            "Identified Patient - The Female Medical College Of Pennsylvania",
+            "Certain Creatures - Pleasure Principle / Repulsion",
+            "Surgeon - Set Two",
+            "Genesis Breyer P-Orridge - Nomad (Excerpt) ",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt) ",
+            "Cleanser - Repeat, Transform ",
+            "Los Angeles Death Cult - El Culto De Los Angeles De La Muerte ",
+            "Genesis Breyer P-Orridge - Nomad (Excerpt) ",
+            "F.U.S.E. - Substance Abuse",
+            "Ron Morelli - Mill Basin",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt)",
+            "Alfredo Mazzilli - Njord ",
+            "Ron Morelli - Colts Neck ",
+            "Regis - It's A Man's World",
+            "Fugal - Oil Panes / First Descent ",
+            "Shackleton - Massacre",
+            "Genesis Breyer P-Orridge - Nomad (Excerpt)",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt) ",
+            "Guilt - Cult Leader Of My Youth ",
+            "Pinch & Shackleton - Rooms Within A Room ",
+            "Løt.te - Tunnel Under The Base Station",
+            "Genesis Breyer P-Orridge - Voodoo (excerpt) ",
+            "Militia - Anarchist Movement For Collectiv And Direct Action",
+            "Zegiest - La Sagrada ",
+            "Genesis Breyer P-Orridge - Voodoo (Excerpt) ",
+            "Guilt Attendant - Broken (Free) ",
+            "Identified Patient - M.G.D. (cr) ",
+            "Merzbow - Loop 3 ",
+            "Niamh O'Connor - Ah Bernie",
+            "Genesis Breyer P-Orridge - NY Porn (Excerpt) ",
+            "Dopplereffekt - Hyperelliptic Surfaces",
+            "Genesis Breyer P-Orridge - Voodoo (Excerpt) ",
+            "Arkady - NKVD (Løt.te Remix) ",
+            "Clay Rendering - Once In The Well ",
+            "Pain Station - Turning Point ",
+            "Genesis Breyer P-Orridge - Ritual Music",
+            "Ireen Amnes - My Mind Is Broken ",
+            "Richard Ramirez - How To Direct Your Anger ",
+            "Bastard Noise & Christian Renou - Evipan Natrium ",
+            "Merzbow - Loop 1 ",
+            "Prurient - God Is The Truth, The Way, And The Light ",
+            "Militia - Light And Truth ",
+            "Ugandan Methods & Prurient - Venom Timetables",
+            "Militia - Black Wolves Music (Dedicated To The Animal Liberation Front) ",
+            "Lussuria - Three Knocks ",
+            "Merzbow - Loop 4",
+            "Function & Vatican Shadow - The Nemesis Flower",
+            "Genesis Breyer P-Orridge - One Being, One Orientation, One Power",
+            "Retrograde Youth - Dark Desire",
+            "Virile Games - Black Iron Prison",
+            "Genesis Breyer P-Orridge - One Being, One Orientation, One Power "
+        ],
+        "Date": "2019-04-15",
+        "Blurb": "An intricate collage of industrial, noise and techno",
+        "Recommended": false,
+        "Author": "Elissa Stolman"
+    },
+    {
+        "Artist": "Lena Willikens",
+        "Title": "Robert Johnson Archive 0001",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Industrial"
+            },
+            {
+                "name": "New Wave"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Live At Robert Johnson"
+            }
+        ],
+        "Tracklist": [
+            "Lena Willikens - Robert Johnson Archive 0001"
+        ],
+        "Date": "2019-04-03",
+        "Blurb": "Two and a half hours recorded at the Frankfurt institution in January.",
+        "Recommended": false,
+        "Author": "Elissa Stolman"
+    },
+    {
+        "Artist": "Los Odios",
+        "Title": "El Futuro Es Una Tumba",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Industrial"
+            },
+            {
+                "name": "Noise"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "TRRUENO"
+            }
+        ],
+        "Tracklist": [
+            "Está Llegando?",
+            "Adentro",
+            "Cantando Al Sol Y Al Mar",
+            "En El Medio Del Monte",
+            "Bosque",
+            "Astro Voice",
+            "Serpiente",
+            "Una Brisa",
+            "Maten A Los Huérfanos",
+            "Condenando",
+            "Conflict",
+            "Los Pájaros",
+            "Peces En Siglos",
+            "Júpiter En Sagitario",
+            "En El Infinito Un Abrazo"
+        ],
+        "Date": "2019-03-27",
+        "Blurb": "A unique take on danceable noise and industrial from Argentina.",
+        "Recommended": false,
+        "Author": "Max Pearl"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Eminent Domain",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Industrial"
+            },
+            {
+                "name": "Noise"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "L.I.E.S."
+            }
+        ],
+        "Tracklist": [
+            "Christian Mirande - Looks Over the Edge Then Back Then Over Again",
+            "Prisons - Tell Lie Visions",
+            "JT Whitfield - Bleak Speak",
+            "The New Me - Les Dix Doigts",
+            "CBN - Who Has Time for Tears",
+            "Filth - The Crucial Point",
+            "Daniel Holt - Near The Window",
+            "Brett Naucke - Void Collection",
+            "Beau Wanzer - Don't Eat The Ground",
+            "Halflings - Strength In Numbers",
+            "HOGG - Improvment",
+            "Pod Blotz - Beyond The Body",
+            "Nick Klein - Microscopic Cop",
+            "14. 51717 - אדגמה",
+            "Champagne Mirrors - Tunnel",
+            "Enrique - In The Summer Of 2015",
+            "Skander - Running Into Danger",
+            "Copley Medal - Facing Words Of Thanks",
+            "ARIISK - Ominous Playback Transmission",
+            "Lussuria - The Swan King",
+            "Corporate Park - Benevolent Survelliance (7-inch Bonus)",
+            "S.English - Fade Out (7-Inch Bonus)"
+        ],
+        "Date": "2019-03-23",
+        "Blurb": "L.I.E.S. and Shane English compile cutting-edge DIY noise from the States.",
+        "Recommended": false,
+        "Author": "Justin Farrar"
+    },
+    {
+        "Artist": "Dis Fig",
+        "Title": "Purge",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Industrial"
+            },
+            {
+                "name": "Noise"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Purple Tape Pedigree"
+            }
+        ],
+        "Tracklist": [
+            "Drum Fife Bugle ",
+            "Alive ",
+            "Watering ",
+            "U Said U Were ",
+            "Unleash ",
+            "The Hermit ",
+            "Purge ",
+            "WHY ",
+            "I Am The Tree "
+        ],
+        "Date": "2019-03-20",
+        "Blurb": "Vivid power electronics.",
+        "Recommended": false,
+        "Author": "Nina Posner"
+    },
+    {
+        "Artist": "Cosey Fanni Tutti",
+        "Title": "TUTTI",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Industrial"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Conspiracy International"
+            }
+        ],
+        "Tracklist": [
+            "Tutti",
+            "Drone",
+            "Moe",
+            "Sophic Ripple",
+            "Split",
+            "Heliy",
+            "En",
+            "Orenda",
+            ""
+        ],
+        "Date": "2019-02-13",
+        "Blurb": "The industrial music pioneer returns with her first solo LP in 36 years.",
+        "Recommended": false,
+        "Author": "Arielle Gordon"
+    }
+]

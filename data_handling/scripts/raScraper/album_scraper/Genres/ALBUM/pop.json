@@ -1,0 +1,776 @@
+[
+    {
+        "Artist": "Sega Bodega",
+        "Title": "Dennis",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "ambient tweets"
+            }
+        ],
+        "Tracklist": [
+            "Coma Dennis",
+            "Adulter8",
+            "Elk Skin",
+            "Kepko",
+            "Dirt",
+            "Set Me Free, I'm An Animal",
+            "Deer Teeth",
+            "True",
+            "Tears & Sighs",
+            "Humiliation Doesn't Leave A Mark",
+            "Coma Salv"
+        ],
+        "Date": "2024-05-07",
+        "Blurb": "The adventurous producer paints bold strokes of folk and indie rock alongside his usual lurid electronics for an intriguing new LP on a new label.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": null,
+        "Title": "Broadcast - Spell Blanket - Collected Demos 2006​-​2009",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "The Song Before the Song Comes Out",
+            "March of the Fleas",
+            "Greater Than Joy",
+            "Mother Plays Games",
+            "My Marble Eye",
+            "Roses Red",
+            "Hip Bone to Hip Bone",
+            "Running Back to Me",
+            "I Blink You Blink",
+            "Infant Girl",
+            "I Run in Dreams",
+            "Luminous Image",
+            "A Little Light",
+            "Hairpin Memories",
+            "My Body",
+            "Follow the Light",
+            "Tunnel View",
+            "Where Are You?",
+            "Singing Game",
+            "I Want to Be Fine",
+            "The Games You Play",
+            "Grey Grey Skies",
+            "Puzzle",
+            "The Clock Is on Fire",
+            "Petal Alphabet",
+            "Tell Table",
+            "Fatherly Veil",
+            "Dream Power",
+            "Heartbeat",
+            "Call Sign",
+            "Crone Motion",
+            "Sleeping Bed",
+            "Join in Together",
+            "Colour in the Numbers",
+            "I Am the Bridge",
+            "Spirit House"
+        ],
+        "Date": "2024-05-03",
+        "Blurb": "A gripping set of demos outlining what Broadcast's unfinished last album could have been, with all the duo's brilliance intact.",
+        "Recommended": true,
+        "Author": "Marshall Gu"
+    },
+    {
+        "Artist": "UTO",
+        "Title": "When all you want to do is be the fire part of fire",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "InFine Music"
+            }
+        ],
+        "Tracklist": [
+            "Art&Life",
+            "Plumbing",
+            "MOONS",
+            "Unshape",
+            "Zombie",
+            "Midway",
+            "Napkin",
+            "Lyrics",
+            "Bredouille feat. HSRS"
+        ],
+        "Date": "2024-05-01",
+        "Blurb": "Gripping, emotionally complex leftfield dance pop on InFiné.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Justice",
+        "Title": "Hyperdrama",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Virgin Records"
+            },
+            {
+                "name": "Genesis"
+            }
+        ],
+        "Tracklist": [
+            "Neverender",
+            "Generator",
+            "Afterimage",
+            "One Night/All Night",
+            "Dear Alan",
+            "Incognito",
+            "Mannequin Love",
+            "Moonlight Rendez-vous",
+            "Explorer",
+            "Muscle Memory",
+            "Harpy Dream",
+            "Saturnine",
+            "The End"
+        ],
+        "Date": "2024-04-29",
+        "Blurb": "A star-studded comeback that almost touches on the French duo's past greatness.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Bullion",
+        "Title": "Affection",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ghostly International"
+            }
+        ],
+        "Tracklist": [
+            "A City's Never feat. Panda Bear",
+            "Affection",
+            "Rare feat. Carly Rae Jepsen",
+            "Your Father",
+            "The Flooding",
+            "Cinch",
+            "World_Train feat. Charlotte Adigéry",
+            "Cavalier",
+            "Once, In A Borrowed Car",
+            "Open Hands",
+            "Waves",
+            "Hard To Do"
+        ],
+        "Date": "2024-04-26",
+        "Blurb": "Finally—the straight-up Bullion pop album we've all been waiting for.",
+        "Recommended": true,
+        "Author": "Sophie McNulty"
+    },
+    {
+        "Artist": "Vegyn",
+        "Title": "The Road To Hell Is Paved With Good Intentions",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "PLZ Make It Ruins"
+            }
+        ],
+        "Tracklist": [
+            "A Dream Goes On Forever feat. John Glacier",
+            "Another 9 Days feat. Ethan P. Flynn",
+            "Turn Me Inside feat. Léa Sen",
+            "Halo Flip feat. Lauren Auder",
+            "Everything Is the Same",
+            "The Path Less Travelled",
+            "Makeshift Tourniquet",
+            "Time Well Spent",
+            "In the Front feat. John Glacier",
+            "Trust feat. Matt Maltese",
+            "Stress Test",
+            "Last Night I Dreamt I Was Alone",
+            "Unlucky for Some… "
+        ],
+        "Date": "2024-04-22",
+        "Blurb": "An impressive, mainstream-baiting heel turn from the leftfield UK producer that occasionally pulls too many punches.",
+        "Recommended": false,
+        "Author": "Reid BG"
+    },
+    {
+        "Artist": "Kevin",
+        "Title": "Laundry",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Motion Ward"
+            }
+        ],
+        "Tracklist": [
+            "cloud cover",
+            "staying",
+            "selfish replacement feat. foamy sax",
+            "slow",
+            "frog valley",
+            "capsule curve feat. foamy sax",
+            "sum things (heal)",
+            "u know me feat. shaun n don",
+            "for the ones we love"
+        ],
+        "Date": "2024-04-21",
+        "Blurb": "Motion Ward continues to grow with an earthy folk record from Ben Bondy and Mister Water Wet.\n",
+        "Recommended": false,
+        "Author": "Ted Davis"
+    },
+    {
+        "Artist": "claire rousay",
+        "Title": "sentiment",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Thrill Jockey"
+            }
+        ],
+        "Tracklist": [
+            "pm",
+            "head",
+            "it could be anything ",
+            "asking for it",
+            "iii",
+            "lover's spit plays in the background ",
+            "sycamore skylight",
+            "please 5 more minutes feat. Lala Lala",
+            "w sunset blvd",
+            "ily2 feat. Hand Habits"
+        ],
+        "Date": "2024-04-19",
+        "Blurb": "The Canadian-American sound collagist pairs idyllic soundscapes with sincere, emo-influenced Autotuned vocal performances.",
+        "Recommended": false,
+        "Author": "Rae-Aila Crumble"
+    },
+    {
+        "Artist": "Varg²™",
+        "Title": "Nordic Flora Series, Pt. 6: Outlaw Music",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "YEAR0001"
+            }
+        ],
+        "Tracklist": [
+            "Venom of Ages / (愛は死よりも冷たい) feat. Golin",
+            "Heaven Bound Blue Magic feat. Rx Papi ",
+            "Hitty feat. Thaiboy Digital ",
+            "Shatter / Outlaw Music ",
+            "Star feat. Joon Gloom ",
+            "Lucky feat. Earth & Eartheater ",
+            "llusions 1996 ",
+            "Pose1don feat. Joon Gloom, Woesum , Yung Sherman ",
+            "My Childhood Trees (Star 2) feat. LEYA ",
+            "F Flow LMKNOW ",
+            "Is there a place in heaven for boys like me? feat. Bladee & Skrillex ",
+            "Under No God feat. Soho Rezanejad & Spöke ",
+            "H2D feat. Bladee & Ecco2k ",
+            "Skenet feat. Ecco2k"
+        ],
+        "Date": "2024-04-15",
+        "Blurb": "A star-studded album of dreamy rap and pop that sometimes obscures the Swedish producer's signature touch.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Nia Archives",
+        "Title": "Silence Is Loud",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Jungle"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "HIJINXX"
+            }
+        ],
+        "Tracklist": [
+            "Silence Is Loud",
+            "Cards On The Table",
+            "Unfinished Business",
+            "Crowded Roomz",
+            "Forbidden Feelingz",
+            "Blind Devotion",
+            "Tell Me What It's Like?",
+            "Nightmares",
+            "F.A.M.I.L.Y",
+            "Out Of Options",
+            "Silence Is Loud (Reprise)",
+            "Killjoy !",
+            "So Tell Me…",
+            ""
+        ],
+        "Date": "2024-04-12",
+        "Blurb": "UK jungle's brightest young hope presents an infectious blend of heavy breaks and deep introspection. \n",
+        "Recommended": true,
+        "Author": "Fred Garratt-Stanley"
+    },
+    {
+        "Artist": "Vanessa Bedoret",
+        "Title": "Eyes",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Scenic Route"
+            }
+        ],
+        "Tracklist": [
+            "Choice",
+            "Ballad",
+            "03. 1/2",
+            "Transition",
+            "Eyes",
+            "Pas",
+            "Eternal"
+        ],
+        "Date": "2024-04-07",
+        "Blurb": "Blending spoken word, ambient and lowercase pop, the French artist shows why less is more.",
+        "Recommended": false,
+        "Author": "Joshua Minsoo Kim"
+    },
+    {
+        "Artist": "Julia Holter",
+        "Title": "Something In The Room She Moves",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Domino"
+            }
+        ],
+        "Tracklist": [
+            "Sun Girl",
+            "These Morning",
+            "Something In The Room She Moves",
+            "Materia",
+            "Meyou",
+            "Spinning",
+            "Ocean",
+            "Evening Mood",
+            "Talking To The Whisper",
+            "Who Brings Me"
+        ],
+        "Date": "2024-03-29",
+        "Blurb": "Shoegaze? Dream pop? Baroque? Holter's latest album is all of these at once, and utterly singular.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Logic1000",
+        "Title": "Mother",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Because Music"
+            },
+            {
+                "name": "Therapy"
+            }
+        ],
+        "Tracklist": [
+            "From Within",
+            "Promises (feat. Rochelle Jordan)",
+            "Can't Let Go",
+            "Side By Side",
+            "Self To Blame feat. Kayla Blackmon",
+            "Cartier",
+            "Heartbeat",
+            "Saint Rex",
+            "All U Like",
+            "Every Lil' feat. DJ Plead & MJ Nebreda",
+            "Oceanic",
+            "Grown On Me",
+            ""
+        ],
+        "Date": "2024-03-28",
+        "Blurb": "Soaring pop aspirations meet slinky club rollers on the Australian producer's debut LP.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "LAVURN",
+        "Title": "LAVURN",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "SUMAC"
+            }
+        ],
+        "Tracklist": [
+            "CCC",
+            "Compact Disc",
+            "Hardcore",
+            "Steppin (Flipmode)",
+            "Little Mother",
+            "Mezzanine",
+            "Combat Language",
+            "Windchill",
+            "Tool (Medley)",
+            "Rear View Mirror",
+            "JK",
+            "Wicked",
+            "Bounce",
+            "Still",
+            ""
+        ],
+        "Date": "2024-03-21",
+        "Blurb": "Cassius Select morphs into an R&B singer-songwriter to paint a nuanced picture of a breakup.",
+        "Recommended": false,
+        "Author": "Sophie McNulty"
+    },
+    {
+        "Artist": "Bolis Pupul",
+        "Title": "Letter To Yu",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Because Music"
+            },
+            {
+                "name": "DEEWEE"
+            }
+        ],
+        "Tracklist": [
+            "A1 Letter To Yu",
+            "A2 Completely Half",
+            "A3 Goodnight Mr Yi",
+            "A4 Doctor Says",
+            "A5 Spicy Crab",
+            "B1 Ma Tau Wai Road feat. Salah Pupul",
+            "B2 Causeway Bae",
+            "B3 Cantonese",
+            "B4 Kowloon",
+            "B5 Cosmic Rendez-Vous"
+        ],
+        "Date": "2024-03-14",
+        "Blurb": "Exploring his mother's Hong Kong roots, the Belgian musician's debut solo album is a powerful blend of folk music, field recordings and catchy synth pop.\n",
+        "Recommended": true,
+        "Author": "Marshall Gu"
+    },
+    {
+        "Artist": "Erika de Casier",
+        "Title": "Still",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "4AD"
+            }
+        ],
+        "Tracklist": [
+            "Right This Way",
+            "Home Alone",
+            "Lucky",
+            "The Princess",
+            "ice feat. They Hate Change",
+            "Test It",
+            "ooh",
+            "Believe It",
+            "Anxious",
+            "Ex-Girlfriend feat. Shygirl",
+            "Toxic",
+            "My Day Off",
+            "Twice feat. Blood Orange",
+            "Someone",
+            ""
+        ],
+        "Date": "2024-03-08",
+        "Blurb": "After massive songwriting success, Erika de Casier retreats into her world of bedroom R&B but opens up her sound to new ideas and collaborators.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Chromeo",
+        "Title": "Adult Contemporary",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "BMG"
+            }
+        ],
+        "Tracklist": [
+            "I Don't Need A) New Girl",
+            "Got it Good",
+            "Lost And Found",
+            "BTS",
+            "Replacements feat. La Roux",
+            "Lonesome Nights",
+            "Personal Effects",
+            "She Knows It (Personal Effects pt. 2)",
+            "Ballad Of The Insomniacs",
+            "CODA",
+            "Words With You",
+            "A Cut Above",
+            "Friendsnlovers",
+            "Two of Us (Friendsnlovers pt. 2)",
+            "Replacements feat. La Roux"
+        ],
+        "Date": "2024-03-05",
+        "Blurb": "20 years in, the Canadian duo pull together a solid album that shows keeping the funk alive is harder than it looks.",
+        "Recommended": false,
+        "Author": "Katie Thomas"
+    },
+    {
+        "Artist": "serpentwithfeet",
+        "Title": "GRIP",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Secretly Canadian"
+            }
+        ],
+        "Tracklist": [
+            "Damn Gloves feat. Ty Dolla $ign & Yanga YaYa",
+            "Safe Word",
+            "Spades",
+            "Deep End",
+            "Rum / Throwback",
+            "Black Air Force",
+            "Hummin'",
+            "Ellipsis",
+            "Lucky Me",
+            "to 10"
+        ],
+        "Date": "2024-03-01",
+        "Blurb": "Josiah Wise shoots for the stars on his third album, taking a bold step toward the mainstream with a clubbier sound and guest features from Ty Dolla $ign and Mick Jenkins.",
+        "Recommended": false,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Kelela",
+        "Title": "RAVE:N, The Remixes",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Raven (Agazero Remix feat. Bbymutha)",
+            "Contact (Karen Nyame KG Remix)",
+            "Closure (Flexulant x BAMBII Remix feat. Rahrah Gabor + Brazy)",
+            "Holier (JD. REID Remix feat. Shygirl)",
+            "Bruises (SUCIA! Remix)",
+            "Washed Away (Ethereal Remix feat. Liv.e)",
+            "Far Away (DJ Swisha Remix)",
+            "Raven (TYGAPAW Remix feat. Rochelle Jordan) ",
+            "Sorbet (LSDXOXO Remix) ",
+            "Divorce (DJ Manny Remix)",
+            "Fooley (LEECH Ambient Queen Remix)",
+            "Missed Call (KYRUH Remix)",
+            "Happy Ending (A.G Remix) ",
+            "Let It Go (NGUZUNGUZU x DJ GAY-Z Remix)",
+            "On The Run (River Moon Remix feat. ThugPop)",
+            "Enough For Love (TAYHANA Remix)",
+            "Enough For Love (Yaeji heart+beat Remix)",
+            "Divorce (Loraine James Remix)",
+            "Far Away (DJ LHC Remix)",
+            "Far Away (SUUTOO His Eye Is On the Raven Remix feat. Ms. Carrie Stacks)"
+        ],
+        "Date": "2024-02-12",
+        "Blurb": "A group of over 20 underground producers, rappers and vocalists go all out on a remix album that makes a good case for the format.",
+        "Recommended": true,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Nailah Hunter",
+        "Title": "Lovegaze",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Fat Possum"
+            }
+        ],
+        "Tracklist": [
+            "Strange Delights",
+            "Through The Din",
+            "Finding Mirrors",
+            "04. 000",
+            "Lovegaze",
+            "Bleed",
+            "Adorned",
+            "Cloudbreath",
+            "Garden",
+            "Into The Sun"
+        ],
+        "Date": "2024-01-29",
+        "Blurb": "The harpist sublimates her signature instrument into an atmospheric canvas for gauzy, candlelit love songs and spirituals.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    }
+]

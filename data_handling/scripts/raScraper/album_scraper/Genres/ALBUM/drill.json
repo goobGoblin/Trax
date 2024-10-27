@@ -1,0 +1,203 @@
+[
+    {
+        "Artist": "DigDat",
+        "Title": "Pain Built",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Drill"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sony"
+            }
+        ],
+        "Tracklist": [
+            "Intro",
+            "Die A G",
+            "Blue SVR",
+            "Dottys Cost Jeans",
+            "Side Of Da 9 Gotta Star",
+            "VV",
+            "Assassin Creed",
+            "Don't Slip",
+            "Dig Dat",
+            "How High"
+        ],
+        "Date": "2022-02-01",
+        "Blurb": "A gripping look into the darkest side of UK drill.",
+        "Recommended": false,
+        "Author": "Fred Garratt-Stanley"
+    },
+    {
+        "Artist": "DJ Iche",
+        "Title": "Nai Yetu",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Drill"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hakuna Kulala"
+            }
+        ],
+        "Tracklist": [
+            "Side A",
+            "NATTY - PEPTANG",
+            "Tulia - yH!",
+            "Dyana Cods - ECOUTE",
+            "Jovie Jovv ft. Baraka - Table Manners",
+            "Buruklyn Boyz - Billie Jean",
+            "NATTY - RONG",
+            "Ajay - Psycho",
+            "Da Vaji - Big Dawgs",
+            "Nah Eeto - Shada Shada",
+            "Monski - Steady Dripping",
+            "Mbogi Genje - Kidungi",
+            "Wakadinali ft. Dyana Cods - Morio Anzenza",
+            "Oksyde ft. Ares66 - BAZUU",
+            "",
+            "Side B",
+            "Mastar VK - Wekesa",
+            "SWAT - Gari Kubwa",
+            "Mbogi Genje ft. Seskah & Dullah - Bloody War",
+            "Hitman Khat x Mastar VK x Scar Mkadinali - Kenya Sihami",
+            "Wakadinali - Extra Pressure",
+            "Monski - Run It Up",
+            "NATTY - RIZLA Freestyle",
+            "NATTY - TAMED",
+            "Ajay - Wild",
+            "Nah Eeto - Hunijui",
+            "Sewersydaa x Dyana Cods - Riswa",
+            "Da Vaji x Big Yasa - Ride",
+            "Oksyde - Nganya"
+        ],
+        "Date": "2022-01-05",
+        "Blurb": "Kenya's up-and-coming MCs dazzle on this fiery selection of homemade drill, trap and gengetone.",
+        "Recommended": true,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "Nammy Wams",
+        "Title": "Paradise South",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Drill"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "AP Life"
+            }
+        ],
+        "Tracklist": [
+            "Pellets",
+            "Insides ",
+            "Fuse",
+            "Henry VIII ",
+            "Hannibal Hector",
+            "Punk ",
+            "Huguenots ",
+            "Fears ",
+            "Sherman ",
+            "Sidestep ",
+            "Terror"
+        ],
+        "Date": "2021-04-27",
+        "Blurb": "Experimentations in instrumental grime and drill that take the genres into new frontiers.",
+        "Recommended": false,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "Aystar",
+        "Title": "Scousematic 3",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Drill"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Sinbad",
+            "In and Out feat. Ay Em & Diztortion",
+            "Stepped In feat. Giggs",
+            "Opps",
+            "Trap Mode",
+            "Disrespectful feat. Aydoe Soul",
+            "Let's Go Trap feat. Flyo & Youngs Teflon",
+            "Gully With It",
+            "Get In That Jeep feat. Digga D",
+            "Wats Apenin'",
+            "Stressin’",
+            "Straight In",
+            "The Drop feat. Kyze"
+        ],
+        "Date": "2021-03-01",
+        "Blurb": "The Liverpudlian lyricist delivers raw street commentary.",
+        "Recommended": false,
+        "Author": "Fred Garratt-Stanley"
+    },
+    {
+        "Artist": "Headie One",
+        "Title": "Edna",
+        "Genre": [
+            {
+                "name": "Drill"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Reckless Records"
+            }
+        ],
+        "Tracklist": [
+            "Teach Me",
+            "Psalm35",
+            "Bumpy Ride feat. M Huncho",
+            "Triple Science",
+            "The Light",
+            "Ain’t It Different feat. AJ Tracey & Stormzy",
+            "Mainstream",
+            "Princess Cuts feat. Young T & Bugsey",
+            "Gun Salute feat. Young Adz",
+            "Five Figures",
+            "Hear No Evil feat. Future",
+            "Breathing",
+            "Only You Freestyle by Headie One & Drake",
+            "Try Me feat. Skepta",
+            "F U Pay Me feat. Ivorian Doll",
+            "Parlez-Vous Anglais feat. Aitch",
+            "Everyting Nice feat. Haile",
+            "You / Me feat. Mahalia",
+            "Therapy",
+            "Cold feat. Kaash Paige"
+        ],
+        "Date": "2020-11-03",
+        "Blurb": "Headie One lays down the blueprint for the archetypal drill album.",
+        "Recommended": false,
+        "Author": "Christopher Onwubuya"
+    }
+]

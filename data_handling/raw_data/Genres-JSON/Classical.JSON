@@ -1,0 +1,178 @@
+{
+    "genre": "Classical Music",
+    "description": "Part of a broad generalization about the structure and function of music throughout history across the globe, describing traditions distinct from Traditional Folk Music and popular music.",
+    "subgenres": [
+        {
+            "name": "Arabic Classical Music",
+            "description": "Arabic Classical Music tradition, whose guidelines for modulation, rhythm, and tuning were set down in treatises in the 8th and 9th centuries, based around Islamic Modal Music.",
+            "subgenres": [
+                {
+                    "name": "Andalusian Classical Music",
+                    "description": "Arabic Classical Music tradition that had its beginnings in Al-Andalus, the medieval Islamic Iberian peninsula, which later spread and developed in the Maghreb."
+                },
+                {
+                    "name": "Iraqi Maqam",
+                    "description": "Highly structured but semi-improvised and rhythmically complex compositions built around set structures which consist of specific maqam modes."
+                },
+                {
+                    "name": "Sawt",
+                    "description": "Poetic vocal form with complex rhythms, emotive singing, and distinctive lute-backed melodies commonly found in the Gulf region and based on a maqam system."
+                }
+            ]
+        },
+        {
+            "name": "Azerbaijani Mugham",
+            "description": "Highly improvisational form of modal music characterized by the singing style and the themes of Azerbaijan's history."
+        },
+        {
+            "name": "Arabic Classical Music",
+            "description": "Arabic Classical Music tradition, whose guidelines for modulation, rhythm, and tuning were set down in treatises in the 8th and 9th centuries, based around Islamic Modal Music."
+        },
+        {
+            "name": "Chinese Classical Music",
+            "description": "Classical Music of China, encompassing royal court music as well as the Chinese Opera musical theatre traditions."
+        },
+        {
+            "name": "Opera",
+            "description": "European tradition which combines drama and distinctive vocal style in the context of Western Classical Music, usually performed as a theatrical work on stage.",
+            "subgenres": [
+                {
+                    "name": "Opera seria",
+                    "description": "Italian Opera popular among European nobility and royalty throughout most of the 18th century, typified by its exaggerated dramatic flair and interspersed with dry recitative."
+                },
+                {
+                    "name": "Operetta",
+                    "description": "Light opera interspersed with spoken dialogues, being usually satirical and/or humorous in nature and centered around romantic plots and dancing scenes."
+                }
+            ]
+        },
+        {
+            "name": "Buganda Royal Court Music",
+            "description": "Highest traditional and refined musical forms of Buganda, reserved for the Kabaka (the king of Buganda)."
+        },
+        {
+            "name": "East Asian Classical Music",
+            "description": "Covers all the forms of pan-East Asian Classical Music sharing origins in Chinese Classical Music.",
+            "subgenres": [
+                {
+                    "name": "Chinese Classical Music",
+                    "description": "Classical Music of China, encompassing royal court music as well as the Chinese Opera musical theatre traditions.",
+                    "subgenres": [
+                        {
+                            "name": "Baihua xiyue",
+                            "description": "Mainly performed for funeral ceremonies of the Naxi ethnic group in the Yunnan province in China."
+                        },
+                        {
+                            "name": "Chinese Opera",
+                            "description": "Traditional Chinese theatre, existing in several regional variations, combining traditional instruments and vocals along with other art forms like Poetry, dance, acrobatics, and martial arts.",
+                            "subgenres": [
+                                {
+                                    "name": "Cantonese Opera",
+                                    "description": "Chinese Opera that are sung in Cantonese."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Japanese Classical Music",
+            "description": "Classical music of Japan.",
+            "subgenres": [
+                {
+                    "name": "Gagaku",
+                    "description": "One of the oldest forms of Japanese Classical Music, based on the pentatonic Yo scale, characterized by an elegant sound that is typically solemn, slow-paced, and resonant."
+                },
+                {
+                    "name": "Shomyo",
+                    "description": "Japanese Buddhist chant that utilizes the yo scale."
+                }
+            ]
+        },
+        {
+            "name": "Vietnamese Classical Music",
+            "description": "Traditional court music of Vietnam, often performed by a twelve-instrument ensemble (for Dai Nhac music) or a fourteen-instrument ensemble (for Nha Nhac music).",
+            "subgenres": [
+                {
+                    "name": "Ca tru",
+                    "description": "Sung poetry from northern Vietnam, performed by a female vocalist to the accompaniment of a three-stringed lute and percussion."
+                }
+            ]
+        },
+        {
+            "name": "Korean Classical Music",
+            "description": "Classical Music of Korea.",
+            "subgenres": [
+                {
+                    "name": "Aak",
+                    "description": "Korean Classical Music that dates back to the early 12th century."
+                }
+            ]
+        },
+        {
+            "name": "Persian Classical Music",
+            "description": "Traditional art music of the Persian civilization."
+        },
+        {
+            "name": "South Asian Classical Music",
+            "description": "Meta-genre that covers the diverse forms of Classical Music from South Asia.",
+            "subgenres": [
+                {
+                    "name": "Carnatic Classical Music",
+                    "description": "Culture shared by the Dravidian cultures in South India separate from regional folk genres."
+                }
+            ]
+        },
+        {
+            "name": "Southeast Asian Classical Music",
+            "description": "Formal music developed in Southeast Asian countries.",
+            "subgenres": [
+                {
+                    "name": "Gamelan",
+                    "description": "Originated in the island of Java, played by an ensemble typically consisting of metallophones and gongs, sometimes augmented with drums, flutes, and human voices."
+                }
+            ]
+        },
+        {
+            "name": "Western Classical Music",
+            "description": "Broad range of art music associated with the aristocracy that originated in Europe around 500 AD.",
+            "subgenres": [
+                {
+                    "name": "Baroque Music",
+                    "description": "Style of Western art music composed from approximately 1600 to 1750, embracing a grand and ornate approach."
+                }
+            ]
+        },
+        {
+            "name": "Renaissance Music",
+            "description": "Encompasses Western Classical Music from the 15th to 16th centuries.",
+            "subgenres": [
+                {
+                    "name": "Madrigal",
+                    "description": "Secular polyphonic music based around poetry and generally performed by unaccompanied vocal ensembles."
+                }
+            ]
+        },
+        {
+            "name": "Medieval Music",
+            "description": "Includes a variety of Western music styles from the 5th to the 15th century.",
+            "subgenres": [
+                {
+                    "name": "Gregorian Chant",
+                    "description": "Liturgical, monophonic chant that accompanied Mass and other rituals in Western Christianity."
+                }
+            ]
+        },
+        {
+            "name": "Modern Classical",
+            "description": "Multitude of different compositional approaches beginning in the 20th century that deviate significantly from the previously-held tenets.",
+            "subgenres": [
+                {
+                    "name": "Expressionism",
+                    "description": "Originating between the abandonment of tonality at the conclusion of the period of Romanticism and the creation of twelve-tone composition."
+                }
+            ]
+        }
+    ]
+}

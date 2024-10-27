@@ -1,0 +1,30 @@
+{
+    "genre": "New Age",
+    "description": "Broad genre centered on peaceful, meditative melodies, using a wide variety of instrumentation.",
+    "subgenres": [
+        {
+            "name": "Andean New Age",
+            "description": "Takes heavy influence from Indigenous Andean Music, emphasizing a peaceful and harmonious atmosphere and often using the flute."
+        },
+        {
+            "name": "Celtic New Age",
+            "description": "Represented in its most known style by a mysterious blend of subliminal sounds, ambient beats, and angelic and ethereal female vocals."
+        },
+        {
+            "name": "Native American New Age",
+            "description": "Takes heavy influence from Indigenous North American Music, emphasizing a peaceful and harmonious atmosphere and utilizing chants, drumming, and flutes."
+        },
+        {
+            "name": "Neoclassical New Age",
+            "description": "Strongly influenced by and sometimes also based upon early music and the Baroque Music or Classical Period."
+        },
+        {
+            "name": "New Age Kirtan",
+            "description": "American development of Kirtan, fusing it with New Age and Western music."
+        },
+        {
+            "name": "Tibetan New Age",
+            "description": "Incorporates perceived elements of Tibetan Music, particularly singing bowls."
+        }
+    ]
+}

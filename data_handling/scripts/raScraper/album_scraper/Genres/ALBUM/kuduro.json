@@ -1,0 +1,239 @@
+[
+    {
+        "Artist": "DJ Nigga Fox",
+        "Title": "Chá Preto",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Principe"
+            }
+        ],
+        "Tracklist": [
+            "Ondas da Terra",
+            "Má Rotina ",
+            "Mutadoree",
+            "Bom te Ver",
+            "Wanguila",
+            "Fantasias "
+        ],
+        "Date": "2024-03-26",
+        "Blurb": "The defining Príncipe artist returns with a transcendental shift in sound.",
+        "Recommended": true,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "Nídia",
+        "Title": "95 MINDJERES",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Principe"
+            }
+        ],
+        "Tracklist": [
+            "COMO?",
+            "Deep",
+            "Caiomhe",
+            "To La",
+            "pose",
+            "Sukuku",
+            "07. 95",
+            "cp",
+            "Mindjeres",
+            "abcd",
+            "Paradise"
+        ],
+        "Date": "2023-10-30",
+        "Blurb": "Nídia withdraws the explosiveness of earlier projects for her third album, making the most of floral melodies and soft pads to revisit a vital history.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Various (Príncipe)",
+        "Title": "DJs Di Guetto",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Principe"
+            }
+        ],
+        "Tracklist": [
+            "DJ Marfox - Drift Furioso",
+            "DJ N.K - Mete Chuva Muita Chuva",
+            "DJ Jesse & DJ Nervoso - Estrago Terrivel",
+            "DJ N.K - Não Chora Mais Não",
+            "DJ Nervoso - Tapada",
+            "DJ Fofuxo - Tarracho Do Guetto",
+            "DJ Fofuxo - É Africa",
+            "DJ Fofuxo - Isto é Kazu Bite",
+            "DJ Jesse - Techno",
+            "DJ N.K - Estão a Dar Medo",
+            "DJ Jesse - Pimp My Ragga",
+            "DJ Nervoso - Tarracha Nervoso",
+            "DJ Pausas & DJ Fofuxo - Tarracho Exxelentt"
+        ],
+        "Date": "2023-09-04",
+        "Blurb": "The definitive document of Lisbon's mid-'00s kuduro and batida scene, reissued on vinyl.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Blacksea Não Maya",
+        "Title": "Maquina De Venus",
+        "Genre": [
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Principe"
+            }
+        ],
+        "Tracklist": [
+            "DJ Kolt - Terror",
+            "DJ Kolt - Obscuro",
+            "DJ Kolt - 7even",
+            "DJ Kolt - Tchiling District\t",
+            "DJ Perigoso - Horizonte",
+            "DJ Kolt - Bubadagash",
+            "DJ Noronha - Estranhos e Loucos\t",
+            "DJ Kolt - Africanalidade"
+        ],
+        "Date": "2020-09-28",
+        "Blurb": "The Lisbon trio return with a darker spin on the Príncipe sound.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Pedro",
+        "Title": "Da Linha",
+        "Genre": [
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Enchufada"
+            }
+        ],
+        "Tracklist": [
+            "Rapazes",
+            "Calores\t",
+            "Pedro & Magugu - Too Much",
+            "Pusha feat. Kelman Duran\t",
+            "Terra Treme feat. Pedro Mafama\t",
+            "Pedro & Branko - Takré",
+            "Stuck On You feat. Bryte\t",
+            "Toques feat. DKVPZ",
+            "Madrugada",
+            "Para Ti feat. Xcelencia"
+        ],
+        "Date": "2020-04-09",
+        "Blurb": "New-school kuduro on Burka Som Sistema's label.",
+        "Recommended": false,
+        "Author": "Steph Lee"
+    },
+    {
+        "Artist": "Nazar",
+        "Title": "Guerrilla",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Retaliation ",
+            "Diverted ",
+            "Bunker feat. Shannen SP ",
+            "UN Sanctions ",
+            "FIM 92 Stinger ",
+            "Immortal ",
+            "Mother ",
+            "Arms Deal ",
+            "Why ",
+            "Intercept ",
+            "End Of Guerrilla "
+        ],
+        "Date": "2020-03-13",
+        "Blurb": "The artist's father was a guerrilla general in the Angolan civil war. Through \"rough kuduro,\" he tells his family's complex history.",
+        "Recommended": true,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "Nídia",
+        "Title": "Nídia É Má, Nídia É Fudida",
+        "Genre": [
+            {
+                "name": "Kuduro"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Principe"
+            }
+        ],
+        "Tracklist": [
+            "Mulher Profissional",
+            "Biotheke",
+            "Underground",
+            "House Musik Dedo",
+            "Puro Tarraxo",
+            "I Miss My Ghetto",
+            "Toma",
+            "Brinquedo",
+            "Da Banda",
+            "Arme",
+            "Indian",
+            "Kilobo ",
+            "Shane Noah ",
+            "Sinistro "
+        ],
+        "Date": "2017-07-07",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Angus Finlayson"
+    }
+]

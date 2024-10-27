@@ -1,0 +1,649 @@
+[
+    {
+        "Artist": "Colleen 'Cosmo' Murphy",
+        "Title": "Balearic Breakfast Volume 1",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Heavenly Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Joan Bibiloni - Sa Fosc",
+            "Cantoma - The Mountain (Coyote Remix)",
+            "Fragile - We've Got Tonight, Boy",
+            "Linkwood Family - Miles Away",
+            "P'taah - The Cosmic Laws (Phil Asher Restless Soul Vocal)",
+            "Mildlife - Vapour (Cosmodelica Remix)",
+            "Friendly Fires & The Asphodells - Velo",
+            "Lady Blackbird - Beware The Stranger (Ashley Beedle's North Street West Vocal Remix)",
+            "Morenas - Hazme Sonar (Ambient Mix by Peter Vriends)",
+            "Caoilfhionn Rose - Paths",
+            "Mike Salta & Marty Mortale - Henry's Spacewalk"
+        ],
+        "Date": "2022-07-12",
+        "Blurb": "The long-time DJ and radio host redefines what Balearic is and can be on this beautiful, sometimes eye-opening compilation.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Tornado Wallace",
+        "Title": "Midnight Mania",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Optimo Music"
+            }
+        ],
+        "Tracklist": [
+            "Midnight Mania",
+            "Atoms\t",
+            "Mundane Brain\t",
+            "P.N.G. (Praise No Ghosts)",
+            "Jungle Dream"
+        ],
+        "Date": "2020-04-01",
+        "Blurb": "The Australian artist builds a world within five club tracks.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "RAMZi",
+        "Title": "Multiquest Niveau 1: Camouflé",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "FATi Records"
+            }
+        ],
+        "Tracklist": [
+            "Muskin",
+            "Kombat feat. Jumanjí",
+            "Rubicon ",
+            "Balmi",
+            "Attack Moussaillon",
+            "La Nuit l'été 1996",
+            "Trancehall",
+            "Bad Fluti",
+            "O Saati ",
+            "Bird Again",
+            "RAMZi's Anthem feat. C.K. U Kno"
+        ],
+        "Date": "2020-01-16",
+        "Blurb": "\"Fifth World\" fusions with a Balearic warmth. ",
+        "Recommended": false,
+        "Author": "April Clare Welsh"
+    },
+    {
+        "Artist": "Coil",
+        "Title": "The Gay Man's Guide To Safer Sex +2",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Musique Pour La Danse"
+            }
+        ],
+        "Tracklist": [
+            "Alternative Theme From Gay Man's Guide To Safer Sex",
+            "Exploding Frogs",
+            "Nasa-Arab 2",
+            "Nasa-Arab\t",
+            "Omlagus Garfungiloops\t",
+            "Theme From Gay Man's Guide To Safer Sex"
+        ],
+        "Date": "2019-07-15",
+        "Blurb": "This soundtrack to a 1992 instructional video is among the best music in Coil's vast catalog.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Domenique Dumont",
+        "Title": "Miniatures De Auto Rhythm",
+        "Genre": [
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Antinote"
+            }
+        ],
+        "Tracklist": [
+            "Le Debut De La Fin",
+            "Quasi Quasi",
+            "Faux Savage",
+            "Ono Mambo Haiku",
+            "Quand",
+            "Sans Cesse, Mon Cheri",
+            "Message Of The Diving Bird",
+            "Le Soleil Dans Le Monde"
+        ],
+        "Date": "2018-09-21",
+        "Blurb": "A gentle yet catchy collection of Balearic jams.",
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Various",
+        "Title": "The Sound Of Mercury Rising",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Pikes Records"
+            }
+        ],
+        "Tracklist": [
+            "Locussolus - Next To You (Marcy Rising Edit)",
+            "Elkin & Nelson - Abran Paso-Ahoa (Enrolle)",
+            "Eighth Wonder - I'm Not Scared (Disco Mix)",
+            "Idjut Boys - One For Kenny",
+            "Roberto Rodriguez - Mustat Varjot",
+            "Van McCoy & The Soul City Symphony - Spanish Boogie",
+            "The Project Club - El Mar Y La Luna (Lovefingers Remix)",
+            "DJ Pippi feat. Antonio M Jemenez - Ibiza World Inspiration",
+            "Tony Espocito - Danza Dell'Acqua",
+            "No ID - Love Mecanica (Not Love Game)",
+            "Tore - She's A Lady",
+            "Gatto Fritto - Invisible College",
+            ""
+        ],
+        "Date": "2017-09-28",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Bruce Tantum"
+    },
+    {
+        "Artist": "DJ Sotofett Presents Jesse",
+        "Title": "Twotinos",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Keys Of Life"
+            }
+        ],
+        "Tracklist": [
+            "Fear Mix (Fearmix)",
+            "Orga Fit",
+            "Desert Mix",
+            "Autiomaa (I) (Tribbal)",
+            "Autiomaa (II) (Tribbal Sound Mix)",
+            "Kuume (Last Gitar)",
+            "Puhallus (One Mo, Pad Conga Vocoder Mix)"
+        ],
+        "Date": "2017-09-11",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Will Lynch"
+    },
+    {
+        "Artist": "Jonny Nash",
+        "Title": "Eden",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Melody As Truth"
+            }
+        ],
+        "Tracklist": [
+            "Agape ",
+            "Maroon Crisp ",
+            "Down In Babakan ",
+            "Ding Repair ",
+            "Conversations With Mike ",
+            "Police Bribe ",
+            "Lime"
+        ],
+        "Date": "2017-03-14",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Aaron Coultate"
+    },
+    {
+        "Artist": "Tornado Wallace",
+        "Title": "Lonely Planet",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Running Back"
+            }
+        ],
+        "Tracklist": [
+            "Lonely Planet",
+            "Trance Encounters",
+            "Today feat. Sui Zhen",
+            "Warp Odyssey",
+            "Voices",
+            "Kingdom Animalia",
+            "Healing Feeling"
+        ],
+        "Date": "2017-01-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Telephones",
+        "Title": "Vibe Telemetry",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Running Back"
+            }
+        ],
+        "Tracklist": [
+            "Stars ",
+            "Sierra ",
+            "Tripping Beauty ",
+            "Datajungel ",
+            "Highs & Bungalows ",
+            "Sea, Hex & Moon ",
+            "Mezcal Eclipse ",
+            "Expanse ",
+            "Entropik†lia ",
+            "Untitled (The Party) ",
+            "Flow System ",
+            "DTMF "
+        ],
+        "Date": "2016-11-03",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Various",
+        "Title": "La Torre Volumen Uno",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hostal La Torre Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Francis Bebey - Forest Nativity ",
+            "Domenique Dumont - Comme Ça ",
+            "Penguin Cafe Orchestra - Air A Danser ",
+            "Ahmed Fakroun - Nisyan ",
+            "Spooky - Orange Flavoured Liquid ",
+            "Cantoma - Tabarin ",
+            "Finis Africae - Managua ",
+            "András - Gold Coast (Surfer's Paradise Mix) ",
+            "Barry Forgie - Dawn Mists ",
+            "Il Guardiano Del Faro - Disco Divina ",
+            "Tri Atma Und Gyan Nishabda - Natürliche Liebe ",
+            "Planet Funk - Inside All The People (Harvey's Ibiza Sleepy Mix) ",
+            "Mark Barrott - Deep Water ",
+            "Gryningen - Früh Andra Hand Till Strñnderna I Nice ",
+            "Hatchback - White Diamond "
+        ],
+        "Date": "2016-10-12",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    },
+    {
+        "Artist": "Wolf Müller & Cass.",
+        "Title": "The Sound Of Glades",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "International Feel"
+            }
+        ],
+        "Tracklist": [
+            "The Sound Of Glades\t",
+            "Miyazaki",
+            "Aiolos",
+            "Applepie Dreams\t",
+            "Glade Runner"
+        ],
+        "Date": "2016-07-14",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Mark Barrott",
+        "Title": "Sketches From An Island 2",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "International Feel"
+            }
+        ],
+        "Tracklist": [
+            "Brunch With Suki ",
+            "Over At Dieter's Place ",
+            "Driving To Cap Negret ",
+            "Winter Sunset Sky ",
+            "Distant Storms At Sea ",
+            "Cirrus & Cumulus ",
+            "Der Stern, Der Nie vergeht ",
+            "Forgotten Island ",
+            "One Slow Thought "
+        ],
+        "Date": "2016-07-05",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Tempelhof & Gigi Masin",
+        "Title": "Tsuki",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hell Yeah Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Tuvalu ",
+            "Corner Song ",
+            "Vampeta ",
+            "Komorebi ",
+            "Blue 13 ",
+            "Labyrinth ",
+            "Phantom Ship ",
+            "Treasure ",
+            "The Flying Man "
+        ],
+        "Date": "2016-06-11",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "CFCF",
+        "Title": "On Vacation",
+        "Genre": [
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "International Feel"
+            }
+        ],
+        "Tracklist": [
+            "Sate Padang ",
+            "Arto ",
+            "In The Courtyard ",
+            "Pleasure Centre ",
+            "Chasing ",
+            "Fleurs Laissés Dans Un Taxi ",
+            "Lighthouse On Chatham Sound ",
+            "Vermont"
+        ],
+        "Date": "2016-02-27",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Nico Motte",
+        "Title": "Life Goes On If You Are Lucky",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Antinote"
+            }
+        ],
+        "Tracklist": [
+            "Tema D'Amore ",
+            "Life Goes On If You Are Lucky ",
+            "I.C.A. ",
+            "Tiger For Breakfast ",
+            "La Figure De Rey ",
+            "Tacotac ",
+            "Beats Benny Keats "
+        ],
+        "Date": "2016-02-05",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "Woolfy vs. Projections",
+        "Title": "Stations",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Permanent Vacation"
+            }
+        ],
+        "Tracklist": [
+            "Jackie feat Michaela  ",
+            "Chances Are  ",
+            "Missing You feat El Javi   ",
+            "My Room  ",
+            "Set It Up  ",
+            "Combination  ",
+            "Walkaway  ",
+            "Tangiers  ",
+            "Who  ",
+            "The Bright Light Of The Truth   ",
+            "Stations "
+        ],
+        "Date": "2015-09-27",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    },
+    {
+        "Artist": "Gonno",
+        "Title": "Remember The Life Is Beautiful",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Endless Flight"
+            }
+        ],
+        "Tracklist": [
+            "Hippies ",
+            "The Worst Day Ever ",
+            "Stop (Album Version) ",
+            "Confusion ",
+            "Beasts In Your Mind ",
+            "Across The Sadness (Album Version) ",
+            "Already Almost ",
+            "Revoked ",
+            "The Island I've Never Been ",
+            "Green Days"
+        ],
+        "Date": "2015-09-02",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Patric Fallon"
+    },
+    {
+        "Artist": "Domenique Dumont",
+        "Title": "Comme Ça",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Antinote"
+            }
+        ],
+        "Tracklist": [
+            "Comme Ça ",
+            "L'Esprit de l'Escalier ",
+            "La Basse et les Shakers ",
+            "La Bataille de Neige ",
+            "Un Jour Avec Yussef ",
+            "Le Château De Corail "
+        ],
+        "Date": "2015-07-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Aaron Coultate"
+    },
+    {
+        "Artist": "Jose Padilla",
+        "Title": "So Many Colours",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "International Feel"
+            }
+        ],
+        "Tracklist": [
+            "Day One ",
+            "On The Road ",
+            "Solito ",
+            "Maybe The Sunset ",
+            "Mojame ",
+            "Afrikosa ",
+            "Aixo es Miel ",
+            "Lollipop ",
+            "Whistle Dance ",
+            "Blitz Magic ",
+            "Remember Me "
+        ],
+        "Date": "2015-06-25",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Derek Miller"
+    }
+]

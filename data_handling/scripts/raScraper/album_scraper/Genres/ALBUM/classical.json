@@ -1,0 +1,718 @@
+[
+    {
+        "Artist": "Arushi Jain",
+        "Title": "Delight",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Leaving Records"
+            }
+        ],
+        "Tracklist": [
+            "Still Dreaming",
+            "Exquisite Portraiture",
+            "I Surrender",
+            "Imagine An Orchestra",
+            "Play In The Void",
+            "Our Touching Tongues",
+            "Portal To Silver Linings",
+            "Infinite Delight",
+            "You Are Irresistible"
+        ],
+        "Date": "2024-04-25",
+        "Blurb": "A luscious sound bath of modular synthesis and tranquil vocals that charts the Indian artist's inner quest for pleasure.",
+        "Recommended": false,
+        "Author": "Akili"
+    },
+    {
+        "Artist": "Klein",
+        "Title": "touched by an angel",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Parkwuud Entertainment"
+            }
+        ],
+        "Tracklist": [
+            "black famous",
+            "DJ drop",
+            "black timbs",
+            "the world is yours ensemble",
+            "storm",
+            "don't flop TV",
+            "bill feat. Matana Roberts & Khush",
+            "say black power and mean it",
+            "bunk",
+            "another day in the sun",
+            "street cred",
+            "daughter, brother and friend",
+            "no weapon shall form against me",
+            "big dreams inc."
+        ],
+        "Date": "2023-11-19",
+        "Blurb": "A 93-minute epic of modern classical and drone partly inspired by a '90s religious TV drama.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Mary Lattimore",
+        "Title": "Goodbye, Hotel Arkada",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ghostly International"
+            }
+        ],
+        "Tracklist": [
+            "And Then He Wrapped His Wings Around Me feat. Meg Baird & Walt McClements",
+            "Arrivedercia feat. Lol Tolhurst",
+            "Blender In A Blender feat. Roy Montgomery",
+            "Music For Applying Shimmering Eye Shadow",
+            "Horses, Glossy On The Hill",
+            "Yesterday's Parties feat. Rachel Goswell & Samara Lubelski"
+        ],
+        "Date": "2023-10-16",
+        "Blurb": "A wordless ode to the bittersweet beauty of life's fleeting moments from the American harpist and composer.",
+        "Recommended": false,
+        "Author": "Martyn Pepperell"
+    },
+    {
+        "Artist": null,
+        "Title": "Yikii - The Crow-Cyan Lake",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Unseelie"
+            }
+        ],
+        "Tracklist": [
+            "Sighing Silhouette Flowers 雾影叹花 ",
+            "The Light of Anglerfish 提灯鮟鱇 ",
+            "Splendor 辉煌 ",
+            "Anomaly of Silence 静异 ",
+            "Angel Fossil 天使化石",
+            "Tragic Sublime 悲剧性崇高 ",
+            "The Undying Butterflies 黑死蝶 ",
+            "Void Weapon 虚空武器 ",
+            "Memoirs Of The Corrupted City 堕落之城回忆录 ",
+            "Zoomorphism Migraine 化形・偏头痛 ",
+            "Moon Dial 月之晷 ",
+            "Sacrifice 祭献 ",
+            "Funeral Bell 丧钟",
+            "Sweet Gem Berry Farm 宝石甜莓农场 ",
+            "Chimerstry 幻象术 ",
+            ""
+        ],
+        "Date": "2023-02-19",
+        "Blurb": "Intensely emotional, neoclassical darkwave from China's underground.",
+        "Recommended": false,
+        "Author": "Merilyn Chang"
+    },
+    {
+        "Artist": "Ryuichi Sakamoto",
+        "Title": "12",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Milan"
+            }
+        ],
+        "Tracklist": [
+            "1. 20210310",
+            "02. 20211130",
+            "03. 20211201",
+            "04. 20220123",
+            "05. 20220202",
+            "06. 20220207",
+            "07. 20220214",
+            "sarabande",
+            "09. 20220302",
+            "10. 20220307",
+            "11. 20220404",
+            "12. 20220304"
+        ],
+        "Date": "2023-01-17",
+        "Blurb": "Sakamoto's \"audio diary\" after cancer treatment is the most foreboding, but also one of the most beautiful, in a towering catalogue of music.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Pantha Du Prince",
+        "Title": "Garden Gaia",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Modern Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Open Day ",
+            "Crystal Volcano ",
+            "Start A New Life ",
+            "Blume (Bendik HK Edit) ",
+            "Mother Drum ",
+            "Heaven Is Where You Are (Bendik HK Edit) ",
+            "Liquid Lights ",
+            "Alles Fühlt ",
+            "Golden Galactic"
+        ],
+        "Date": "2022-08-26",
+        "Blurb": "An ambitious but uneven full-band approach results in some of the most beautiful Pantha Du Prince music yet.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Eiko Ishibashi",
+        "Title": "Drive My Car Original Soundtrack",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Newhere Music"
+            }
+        ],
+        "Tracklist": [
+            "Drive My Car",
+            "Drive My Car (Misaki)",
+            "Drive My Car (Cassette)",
+            "Drive My Car (the important thing is to work)",
+            "We'll live through the long, long days, and through the long nights\"",
+            "We'll live through the long, long days, and through the long nights\" (SAAB 900)",
+            "We'll live through the long, long days, and through the long nights\" (Oto)",
+            "Drive My Car (Kafuku)",
+            "Drive My Car (The truth, no matter what it is, isn't that frightening)",
+            "We'll live through the long, long days, and through the long nights\" (And when our last hour comes we'll go quietly)",
+            "Drive My Car (Hiroshima)",
+            "We'll live through the long, long days, and through the long nights\" (different ways)"
+        ],
+        "Date": "2022-03-02",
+        "Blurb": "Eiko Ishibashi's soundtrack for one of this year's most talked-about films is an unforgettable as the movie.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Only Now",
+        "Title": "Indian Unclassical Vol. 1",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Bokeh Versions"
+            }
+        ],
+        "Tracklist": [
+            "\t",
+            "Time Suffocation feat. Kamaljeet Ahluwalia",
+            "Slit Ties feat. Robin Sukhadia",
+            "Glory feat. Sheela Bringi",
+            "Vision Through feat. Kamaljeet Ahluwalia",
+            "Cavern Trance feat. Robin Sukhadia",
+            "Inverted Memories feat. Rajib Karmakar",
+            "Ghosts Of Regret feat. Rajib Karmakar",
+            "Fires, Bodies, Slow Burn, No Wood feat. Sheela Bringi",
+            "Last Gasp feat. Rajib Karmakar",
+            ""
+        ],
+        "Date": "2022-01-26",
+        "Blurb": "A hybrid approach to Hindustani classical music that uses drone, noise and doom metal to dramatic effect.",
+        "Recommended": true,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "Klein",
+        "Title": "Harmattan",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Pentatone"
+            }
+        ],
+        "Tracklist": [
+            "for solo / piano",
+            "roc",
+            "trapping in C major",
+            "unknown opps",
+            "the haunting of grace",
+            "ray",
+            "made for ibadan",
+            "skyfall feat. Charlotte Church",
+            "not a gangster but still from endz",
+            "hope dealers",
+            "champions"
+        ],
+        "Date": "2021-12-13",
+        "Blurb": "Klein shows that you don't need classical instruments to make a classical album.",
+        "Recommended": false,
+        "Author": "Jessica Kariisa"
+    },
+    {
+        "Artist": "UMAN",
+        "Title": "Chaleur Humaine",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Freedom To Spend"
+            }
+        ],
+        "Tracklist": [
+            "A1 Человечность",
+            "A2 UMAN Spirit",
+            "A3 Aubade",
+            "A4 Human Warmth",
+            "A5 Entrelacs",
+            "A6 Mémoire Vive",
+            "A7 Chaleur Humaine",
+            "B1 البشري الحرارة",
+            "B2 Cordes Sensibles",
+            "B3 Atmosphère",
+            "B4 Calor Humano",
+            "B5. Hơi ấm của nhân loại",
+            "B6 Lalala",
+            "B7 Menselijke Warmte",
+            "B8 Ménestrel",
+            "B9 אנושית אש"
+        ],
+        "Date": "2021-09-27",
+        "Blurb": "The stunning New Age vision of French siblings Danielle and Didier Jean, unearthed by Freedom To Spend.",
+        "Recommended": false,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "Maxwell Sterling",
+        "Title": "Turn Of Phrase",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "AD 93"
+            }
+        ],
+        "Tracklist": [
+            "Eris",
+            "Turn Of Phrase",
+            "Rage Aria",
+            "Decay Time",
+            "Exuding Latex",
+            "Speaking In The Tongues Of Angels",
+            "Tremble Happy",
+            "nd Person Chamber Music",
+            "Tenderness feat. Leslie Winer",
+            "Sumup"
+        ],
+        "Date": "2021-05-24",
+        "Blurb": "Modern classical meets IDM on a truly stunning record.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Nils Frahm",
+        "Title": "Graz",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Erased Tapes"
+            }
+        ],
+        "Tracklist": [
+            "Lighter",
+            "O I End",
+            "Because This Must Be",
+            "Kurzum",
+            "And Om",
+            "Hammers",
+            "Crossings",
+            "About Coming and Leaving",
+            "Went Missing"
+        ],
+        "Date": "2021-04-02",
+        "Blurb": "A lost album from 2009 highlights the pianist's gift for emotion and technical prowess.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Laurel Halo",
+        "Title": "Possessed",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "The Vinyl Factory"
+            }
+        ],
+        "Tracklist": [
+            "Hyphae\t",
+            "Rome Theme I\t",
+            "Breath\t",
+            "Lead\t",
+            "Marbles",
+            "Rome Theme II\t",
+            "Zeljava",
+            "Last Seen",
+            "Rome Theme III\t",
+            "Cave Walk\t",
+            "Stabat Mater (Excerpt)",
+            "Masks"
+        ],
+        "Date": "2020-05-06",
+        "Blurb": "On her first film score, the electronic composer delivers a soundtrack that is as stimulating and disorienting as the movie itself.\n",
+        "Recommended": false,
+        "Author": "Chal Ravens"
+    },
+    {
+        "Artist": "Pantha Du Prince",
+        "Title": "Conference Of Trees",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "BMG"
+            }
+        ],
+        "Tracklist": [
+            "Approach In A Breeze ",
+            "Transparent Tickle Shining Glace ",
+            "Holding The Oak ",
+            "When We Talk ",
+            "Roots Making Family ",
+            "The Crown Territory ",
+            "Supernova Space Time Drift ",
+            "Silentium Larix ",
+            "Pius In Tacet ",
+            "Lichtung "
+        ],
+        "Date": "2020-03-18",
+        "Blurb": "This otherwise excellent album can't quite leave the club behind.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Katie Gately",
+        "Title": "Loom",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Houndstooth"
+            }
+        ],
+        "Tracklist": [
+            "Ritual",
+            "Allay\t",
+            "Waltz",
+            "Bracer\t",
+            "Rite",
+            "Tower",
+            "Flow",
+            "Rest"
+        ],
+        "Date": "2020-02-25",
+        "Blurb": "The experimental composer brings operatic intensity to the subject of grief.",
+        "Recommended": false,
+        "Author": "Charlotte Wiedemann"
+    },
+    {
+        "Artist": "Alva Noto & Ryuichi Sakamoto",
+        "Title": "Two",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Noton"
+            }
+        ],
+        "Tracklist": [
+            "Inosc ",
+            "Propho ",
+            "Trioon II (Live)",
+            "Scape I ",
+            "Berlin (Live)",
+            "Scape II",
+            "Morning + Iano (Live)",
+            "Emspac",
+            "Kizuna (Live)",
+            "Gitrac ",
+            "Monomom",
+            "Panois",
+            "Naono (Live)",
+            "The Revenant Theme (Live)"
+        ],
+        "Date": "2019-12-04",
+        "Blurb": "Two masters reflect on a collaboration spanning nearly two decades on this live album.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Doon Kanda",
+        "Title": "Labyrinth",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Polycephaly",
+            "Dio",
+            "Gut",
+            "Enigma",
+            "Wing",
+            "Nastasya",
+            "Pieridae",
+            "Mino",
+            "Search",
+            "Bunny",
+            "Garnet",
+            "Forgive",
+            "Entrance "
+        ],
+        "Date": "2019-11-30",
+        "Blurb": "The visual artist's first LP is an incomplete but delightfully strange waltz through classical and experimental forms.",
+        "Recommended": false,
+        "Author": "Layla Fassa"
+    },
+    {
+        "Artist": "John Roberts",
+        "Title": "Can Thought Exist Without The Body",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Brunette Editions"
+            }
+        ],
+        "Tracklist": [
+            "Eyeline Match",
+            "Mental Model No 1",
+            "Can Thought Exist Without The Body",
+            "Mental Model No 2",
+            "Separate Machines"
+        ],
+        "Date": "2019-11-06",
+        "Blurb": "A quietly poetic LP of classical amd ambient forms with an isolating warmth.",
+        "Recommended": false,
+        "Author": "Steph Lee"
+    },
+    {
+        "Artist": "Floating Points",
+        "Title": "Crush",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Classical"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ninja Tune"
+            }
+        ],
+        "Tracklist": [
+            "Falaise ",
+            "Last Bloom ",
+            "Anasickmodular ",
+            "Requiem For CS70 And Strings ",
+            "Karakul ",
+            "LesAlpx ",
+            "Bias ",
+            "Environments ",
+            "Birth ",
+            "Sea-Watch ",
+            "Apoptose Pt1 ",
+            "Apoptose Pt2 "
+        ],
+        "Date": "2019-10-30",
+        "Blurb": "IDM, UKG and Buchla synths give Sam Shepherd's excellent new LP a newfound urgency and aggression.",
+        "Recommended": false,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "Iona Fortune",
+        "Title": "Tao Of I Volume 2",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Classical"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ecstatic"
+            }
+        ],
+        "Tracklist": [
+            "Xiǎo Chù 小畜",
+            "Lǚ 履",
+            "Tài 泰",
+            "Pǐ 否",
+            "Tóng Rén 同人",
+            "Dà Yǒu 大有",
+            "Qiān 謙",
+            "Yù 豫"
+        ],
+        "Date": "2019-09-18",
+        "Blurb": "Synths and traditional Chinese instruments combine on an expressive full-length inspired by an ancient text.",
+        "Recommended": false,
+        "Author": "Lewis Gordon"
+    }
+]

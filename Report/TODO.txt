@@ -1,0 +1,15 @@
+# TODO - All 
+## REPORT
+### Add queries in component section of Report
+### Modify Project Log ProjectLog.tex - This is copied from commits.tex
+### Add pictures for ER Diagram and Schema (From phpMyAdmin Designer view)
+### Add anything from my changeLog.txt file to the Report.tex file if necessary
+
+## REPORT NOTES
+### To compile the pdf install pdfLatex and run pdfLatex FinalReport.tex
+
+
+## TODO - Zai 
+### Add queries for Albums, Artists, Mixes, and Labels pages
+### Implement Albums, Artists, Mixes and Labels pages
+### Style Site

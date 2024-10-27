@@ -1,0 +1,23 @@
+# project dependencies
+node_modules
+config.json
+.DS_Store
+BackgroundVid.mp4
+
+# 1001 Tracklists ignores
+venv
+.vscode
+__pycache__
+*.html
+*/__pycache__
+try.py
+
+# Report ignores
+FinalReport.aux
+FinalReport.log
+FinalReport.out
+FinalReport.toc
+texput.log
+
+Temp.sql
+

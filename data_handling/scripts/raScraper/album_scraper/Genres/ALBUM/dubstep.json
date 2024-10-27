@@ -1,0 +1,764 @@
+[
+    {
+        "Artist": "Ayesha",
+        "Title": "Rhythm Is Memory",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kindergarten Records"
+            }
+        ],
+        "Tracklist": [
+            "Pre-Dawn",
+            "Tactilia",
+            "Play",
+            "V7",
+            "Roll",
+            "Lurk",
+            "Tunnel Visions",
+            "Mother Tongue",
+            "09. 2008"
+        ],
+        "Date": "2023-11-28",
+        "Blurb": "An electrifying LP from one of the most exciting producers in New York dance music.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Skrillex",
+        "Title": "Quest For Fire / Don't Get Too Close",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Owsla"
+            }
+        ],
+        "Tracklist": [
+            "Quest For Fire",
+            "Skrillex & Bobby Raps – Leave Me Like This",
+            "Skrillex, Missy Elliott & Mr. Oizo – Ratata",
+            "Skrillex, Joker & Sleepnet – Tears",
+            "Skrillex, Fred Again & Flowdan – Rumble",
+            "Skrillex, Starrah & Four Tet – Butterflies ",
+            "Skrillex, Aluna & Kito – Inhale Exhale",
+            "Skrillex & Eli Keszler – A Street I Know",
+            "Skrillex & Nai Barghouti – Xena",
+            "Skrillex, Swae Lee, Siiickbrain & Posij – Too Bizarre (Juked) ",
+            "Skrillex, Flowdan, Beam & Peekaboo – Hydrate",
+            "Skrillex & Pete Wentz – Warped Tour '05 with Pete Wentz ",
+            "Skrillex & Starrah – Good Space",
+            "Skrillex, Noisia, Josh Pan & Dylan Brady – Supersonic (My Existence)",
+            "Skrillex – Hazel Theme",
+            "Skrillex, Porter Robinson & Bibi Bourelly – Still Here (With the Ones That I Came With)",
+            " ",
+            "Don't Get Too Close",
+            "Skrillex & Bobby Raps – Don't Leave Me Like This",
+            "Skrillex, PinkPantheress & Trippie Redd – Way Back",
+            "Skrillex & BEAM – Selecta ",
+            "Skrillex, Yung Lean & Bladee – Ceremony",
+            "Skrillex & Bladee – Real Spring",
+            "Skrillex & Kid Cudi – Summer Time",
+            "Skrillex, Corbin & Chief Keef – Bad for Me",
+            "Skrillex, Prentiss & Anthony Green – 3am",
+            "Skrillex, Justin Bieber & Don Toliver – Don't Go",
+            "Skrillex, Sonny Moore & Bibi Bourelly – Don't Get Too Close",
+            "Skrillex & Swae Lee – Mixed Signals ",
+            "Skrillex & Bibi Bourelly – Painting Rainbows"
+        ],
+        "Date": "2023-02-25",
+        "Blurb": "Nine years following his debut solo album, Skrillex releases two starkly different albums that flex his expansive sonic palette and gift for collaboration—but not without some road bumps.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Calibre",
+        "Title": "Feeling Normal",
+        "Genre": [
+            {
+                "name": "Drum & Bass"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Signature Records"
+            }
+        ],
+        "Tracklist": [
+            "Barren",
+            "Change With Me",
+            "Time To Breathe feat. Cimone",
+            "Has To Happen",
+            "Feeling Normal",
+            "Badman feat. DRS",
+            "Good Times",
+            "Say Enough feat. DRS",
+            "Miami",
+            "Predictable",
+            "Man Got Sandwich",
+            "Wrong",
+            "Regular Bull"
+        ],
+        "Date": "2021-03-23",
+        "Blurb": "An eclectic, 140 BPM-centric showing from a seasoned bass music connoisseur.",
+        "Recommended": false,
+        "Author": "Fred Garratt-Stanley"
+    },
+    {
+        "Artist": "Rewind: Benga",
+        "Title": "Diary Of An Afro Warrior",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tempa"
+            }
+        ],
+        "Tracklist": [
+            "Zero M2",
+            "Night",
+            "B4 The Dual",
+            "E Trips",
+            "Someone 20",
+            "Light Bulb",
+            "Crunked Up",
+            "Go Tell Them",
+            "The Cut",
+            "Emotions",
+            "Minutes",
+            "Pleasure",
+            "Basslines",
+            "Loose Synths"
+        ],
+        "Date": "2020-10-09",
+        "Blurb": "A genre-defining classic from dubstep's cutting edge.\n",
+        "Recommended": false,
+        "Author": "Richard Akingbehin"
+    },
+    {
+        "Artist": "Andrea",
+        "Title": "Ritorno",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ilian Tape"
+            }
+        ],
+        "Tracklist": [
+            "Attimo",
+            "SKYLN\t",
+            "LS September\t",
+            "TrackQY\t",
+            "Reinf\t",
+            "LG_Amb",
+            "Drumzzy\t",
+            "Backdrops",
+            "Liquid\t",
+            "Isabelle's String\t",
+            "Twin Forests\t",
+            "Lana"
+        ],
+        "Date": "2020-05-07",
+        "Blurb": "A beautiful excursion through IDM, trip-hop and ambient.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Burial",
+        "Title": "Tunes 2011 To 2019",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Disc 1",
+            "State Forest ",
+            "Beachfires ",
+            "Subtemple ",
+            "Young Death ",
+            "Nightmarket ",
+            "Hiders ",
+            "Come Down To us ",
+            "Claustro ",
+            "Rival Dealer ",
+            "",
+            "Disc 2",
+            "Kindred ",
+            "Loner ",
+            "Ashtray Wasp ",
+            "Rough Sleeper ",
+            "Truant ",
+            "Street Halo ",
+            "Stolen Dog ",
+            "NYC "
+        ],
+        "Date": "2019-12-06",
+        "Blurb": "This compilation of Burial's music in the '10s reflects a unique, enduring talent.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Kahn & Neek",
+        "Title": "Fabriclive 90",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "fabric Records"
+            }
+        ],
+        "Tracklist": [
+            "O$VMV$M - Thin Joe ",
+            "Jabu & SKRS - BwoyTestVIP ",
+            "ManonMars - Nuke The Threat ",
+            "Gantz - Shaitan ",
+            "Kahn - Polar feat. Rider Shafique (Gantz Remix) ",
+            "Mungo's Hi Fi - Rules Of The Dance  feat. Charlie P(JD Remix) ",
+            "Lamont & Boofy - Walkin' Round Ere ",
+            "Gantz - Temple Meads ",
+            "Ishan Sound & Rider Shafique - Highest VIP ",
+            "Boofy - LVX93 ",
+            "Pinch & Kahn - Send Out ",
+            "Jamakabi - Hot It Up (Kahn & Neek Remix) ",
+            "Jook - Juice ",
+            "TMSV - Shallow Breath ",
+            "O.B.F - Ram Dance ",
+            "The Bug - Fuckaz feat. Spaceape ",
+            "Youngstar - Bongo (Kahn & Neek Remix) ",
+            "Kahn & Neek - Acting The Goat ",
+            "Gemmy - The Set Up ",
+            "Hi5Ghost - Scorpion's Mask ",
+            "Young H - We A Talk feat. Dread MC & Rider Shafique (Ishan Sound Remix) ",
+            "Lemzly Dale - No Long Talk (Kahn & Neek Remix) ",
+            "Commodo - S Is For Snakes ",
+            "Kahn & Neek - Damascus ",
+            "Jabu - Hungry Ghosts feat. Chester Giles ",
+            "VMOS & Boofy - Dial Tone ",
+            "Sir Spyro - Topper Top feat. Teddy Bruckshot, Lady Chann & Killa P (Kahn & Neek Remix) ",
+            "Kode9 & The Spaceape - Ghost Town "
+        ],
+        "Date": "2016-12-08",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Angus Finlayson"
+    },
+    {
+        "Artist": "Kaiju",
+        "Title": "Seven Sins",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Deep Medi Musik"
+            }
+        ],
+        "Tracklist": [
+            "Envy feat. Jack Gates ",
+            "Greed Final ",
+            "Pride ",
+            "Sloth ",
+            "Gluttony feat. Gantz ",
+            "Wrath ",
+            "Lust feat. Total Science & Riya "
+        ],
+        "Date": "2016-09-07",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Mala",
+        "Title": "Mirrors",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Brownswood Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Kotos feat. Asociacion Juvenil Puno ",
+            "Dedication 365 ",
+            "Cusco Street Scene ",
+            "They're Coming ",
+            "Shadows ",
+            "Cunumicita (performed by Danitse)",
+            "Take Flight ",
+            "The Calling ",
+            "Inga Gani ",
+            "Looney ",
+            "Markos Swagga ",
+            "Zapateo feat. Colectivo Palenke ",
+            "Sound Of The River feat. Sylvia Falcón ",
+            "Elements "
+        ],
+        "Date": "2016-06-24",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Beaty DNA"
+    },
+    {
+        "Artist": "Commodo ­",
+        "Title": "How What Time",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Black Acre"
+            }
+        ],
+        "Tracklist": [
+            "Hej ",
+            "Pea Souper ",
+            "Itchin feat. Trim ",
+            "Hadi Hadi Ah ",
+            "My Liege ",
+            "Russian Glass ",
+            "Floods ",
+            "How Dare You ",
+            "Sleepwave ",
+            "HWT ",
+            "Set It Straight feat. Rocks FOE",
+            "Kofte Cloud "
+        ],
+        "Date": "2016-06-03",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Horsepower Productions ­",
+        "Title": "Crooks, Crime & Corruption",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tempa"
+            }
+        ],
+        "Tracklist": [
+            "Legends 2 ",
+            "Gbu feat. Orson ",
+            "Justify feat. Harry Keyworth (LP Version) ",
+            "Bak 2 NY ",
+            "Kuriosity 6 ",
+            "Boardwalk Emperor 2 7 ",
+            "Change ",
+            "Ruf Justice ",
+            "Good Ole Dayz (LP Version) ",
+            "Criminally Insane "
+        ],
+        "Date": "2016-05-10",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Ipman",
+        "Title": "Depatterning",
+        "Genre": [
+            {
+                "name": "Drum & Bass"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tectonic Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Regicide ",
+            "Technicolour ",
+            "Gravity ",
+            "IPA ",
+            "Last One In The In The ",
+            "06. ¥ ",
+            "07. Ø ",
+            "U ",
+            "Strong Ones "
+        ],
+        "Date": "2015-11-05",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Swindle",
+        "Title": "Peace, Love & Music",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Jazz"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Butterz"
+            }
+        ],
+        "Tracklist": [
+            "Gotta Do (Intro) ",
+            "London To LA  feat. Ash Riser (LA)",
+            "Transkit: Yea Yea ",
+            "Denver feat. SubMission @ Cervantes (Denver, Colorado)",
+            "Transkit: Walk N Skank Radio ",
+            "Global Dance feat. Flowdan & Mungo's Hifi (Glasgow)",
+            "Find You feat. Nonku Phiri (South Africa)",
+            "Black Bird feat. Joel Culpepper ",
+            "Malasimbo feat. Hilarius Dauag (Philippines)",
+            "Shanghai (China) ",
+            "Tokyo (Japan) ",
+            "Transkit: Loving feat. Terri Walker & Joel Culpepper ",
+            "Elevator feat. TC ",
+            "Smoke Break (Amsterdam) feat. Guerilla Speakerz ",
+            "Mad Ting feat. JME (London) ",
+            "Sing Like You're Winning feat. Jay Wilcox & Terri Walker (Outro)"
+        ],
+        "Date": "2015-11-02",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Nocturnal Sunshine",
+        "Title": "Nocturnal Sunshine",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "I/AM/ME"
+            }
+        ],
+        "Tracklist": [
+            "Intro (Holding On) ",
+            "Believe feat. Chelou ",
+            "It's Alright ",
+            "Take Me There ",
+            "Drive ",
+            "Footsteps ",
+            "Down By The River feat. Catnapp ",
+            "Bass Bin ",
+            "Can't Hide The Way I Feel ",
+            "Intergalactic ",
+            "Skipper ",
+            "Hotel "
+        ],
+        "Date": "2015-06-26",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Joker",
+        "Title": "The Mainframe",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kapsize Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Intro",
+            "Boss Mode",
+            "Wise Enough (Instrumental)",
+            "Midnight",
+            "An Intervening Episode",
+            "Lucy (Instrumental)\t",
+            "Scene 1 (Qo, NoS)\t",
+            "Scene 2 (Neon City)\t",
+            "Scene 3 (Spirit Ruins)",
+            "Mahogany",
+            "Love (Instrumental)",
+            "Fuzz Bop",
+            "Mixed Emotions"
+        ],
+        "Date": "2015-02-26",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Angus Finlayson"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Worth The Weight Vol. 2",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Punch Drunk"
+            }
+        ],
+        "Tracklist": [
+            "Hodge - Resolve",
+            "Tessela - Channel",
+            "Kahn - Helter Skelter",
+            "Andy Mac - Asteroid Belts",
+            "Peverelist - Roll With The Punches (Kowton Linear Mix)",
+            "Zhou - I Remain",
+            "Kahn - Tehran",
+            "Zhou - Locust Dub",
+            "Bass Clef - Stenaline Metranil Solar Flare (Peverelist Remix)",
+            "Ekoplekz - On Vanishing Land (Intro)",
+            "Pev & Hodge - Bells (Dream Sequence)",
+            "Bass Clef - A Rail Is A Road And A Road Is A River"
+        ],
+        "Date": "2014-09-16",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Ian Maleney"
+    },
+    {
+        "Artist": "Skrillex",
+        "Title": "Recess",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Big Beat"
+            }
+        ],
+        "Tracklist": [
+            "All Is Fair In Love And Brostep feat. Ragga Twins ",
+            "Recess feat. Kill The Noise, Fatman Scoop and Michael Angelakos ",
+            "Stranger feat. KillaGraham from Milo and Otis and Sam Dew ",
+            "Try It Out (Neon Mix) feat. Alvin Risk ",
+            "Coast Is Clear feat. Chance The Rapper and The Social Experiment ",
+            "Dirty Vibe feat. Diplo, G-Dragon from Big Bang and CL from 2NE1 ",
+            "Ragga Bomb feat. Ragga Twins ",
+            "Doompy Poomp ",
+            "Fuck That ",
+            "Ease My Mind with Niki & The Dove ",
+            "Fire Away with Kid Harpoon "
+        ],
+        "Date": "2014-03-18",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Om Unit",
+        "Title": "Threads",
+        "Genre": [
+            {
+                "name": "Drum & Bass"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Civil Music"
+            }
+        ],
+        "Tracklist": [
+            "Folding Shadows ",
+            "The Silence feat. Jinadu",
+            "Healing Rain ",
+            "Jus Sayin' feat. Gone The Hero",
+            "Drift Interlude ",
+            "Reverse Logic ",
+            "Corridor 2013 ",
+            "Nagual ",
+            "Patients feat. MC Jabu",
+            "Deep Sea Pyramid ",
+            "Wall Of Light ",
+            "Jaguar ",
+            "Wicker And Pearl ",
+            "Governer's Bay ",
+            "The Road feat. Charlie Dark"
+        ],
+        "Date": "2013-11-04",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Tectonic Plates Volume 4",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tectonic Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Jakes - Rounds",
+            "Guido - State Of Joy",
+            "Sinistarr & Texel - Decibell",
+            "Decibel - Talk",
+            "Mumdance & Logos - Drum Boss",
+            "Distal - Kerplunk",
+            "Kryptic Minds - Convoluted",
+            "Steve Digital - Larry Shite On The Night",
+            "Armour - Skylark",
+            "Pursuit Grooves - Hard Beginnings",
+            "Acre - DXTR",
+            "Beneath Flight"
+        ],
+        "Date": "2013-05-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Plastician",
+        "Title": "Dubstep Allstars Vol. 10",
+        "Genre": [
+            {
+                "name": "Dubstep"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tempa"
+            }
+        ],
+        "Tracklist": [
+            "Cato feat. Doctor - Brap (Plastician VIP)",
+            "Nomine - Waves",
+            "Jaydrop - Blind Run",
+            "J:Kenzo - Contagion",
+            "Vicious Circle - Not Afraid",
+            "FNC - Prism",
+            "Commodo - Axis",
+            "LAXX & Walsh - LA Drift",
+            "Jaydrop - Thatâ€™s How It Is",
+            "Kumarachi - Voyager",
+            "Merky Ace - Greaze (Poteâ€™s Smash N Grab Remix)",
+            "Megalodon & Badklaat - Twisted Metal",
+            "J:Kenzo - Depth Charge",
+            "Moony - Close Enough",
+            "Mutated Mindz - Valentine Dreams",
+            "Stinkahbell - Sunday Worries",
+            "Dream - Desolate",
+            "J:Kenzo feat. Footsie - No Manâ€™s Land",
+            "Korea - Submarine",
+            "Plastician - Alone Time",
+            "Teknian â€“ Sorga"
+        ],
+        "Date": "2013-01-30",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    }
+]

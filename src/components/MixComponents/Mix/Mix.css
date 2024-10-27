@@ -1,0 +1,35 @@
+/* Mix.css */
+
+.mix-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 10px;
+  height: 100%; /* Takes full height of the grid cell */
+  box-sizing: border-box; /* Includes padding and border in the height */
+  background-color: #f9f9f9; /* Light background for better readability */
+}
+
+.mix-item h5 {
+  margin-top: 0;
+  margin-bottom: 5px; /* Adjusted space between title and description */
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.mix-item p {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+}
+
+.mix-item::before {
+  content: '';
+  float: left;
+  padding-top: 50%; /* This maintains the aspect ratio (half the height of the width) */
+}

@@ -1,0 +1,274 @@
+[
+    {
+        "Artist": "Varg²™",
+        "Title": "Nordic Flora Series, Pt. 6: Outlaw Music",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "YEAR0001"
+            }
+        ],
+        "Tracklist": [
+            "Venom of Ages / (愛は死よりも冷たい) feat. Golin",
+            "Heaven Bound Blue Magic feat. Rx Papi ",
+            "Hitty feat. Thaiboy Digital ",
+            "Shatter / Outlaw Music ",
+            "Star feat. Joon Gloom ",
+            "Lucky feat. Earth & Eartheater ",
+            "llusions 1996 ",
+            "Pose1don feat. Joon Gloom, Woesum , Yung Sherman ",
+            "My Childhood Trees (Star 2) feat. LEYA ",
+            "F Flow LMKNOW ",
+            "Is there a place in heaven for boys like me? feat. Bladee & Skrillex ",
+            "Under No God feat. Soho Rezanejad & Spöke ",
+            "H2D feat. Bladee & Ecco2k ",
+            "Skenet feat. Ecco2k"
+        ],
+        "Date": "2024-04-15",
+        "Blurb": "A star-studded album of dreamy rap and pop that sometimes obscures the Swedish producer's signature touch.",
+        "Recommended": false,
+        "Author": "Daniel Bromfield"
+    },
+    {
+        "Artist": "Four Tet",
+        "Title": "Three",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Text Records"
+            }
+        ],
+        "Tracklist": [
+            "Loved",
+            "Gliding Through Everything",
+            "Storm Crystals",
+            "Daydream Repeat",
+            "Skater",
+            "Bloom",
+            "So Blue",
+            "Three Drums"
+        ],
+        "Date": "2024-03-22",
+        "Blurb": "The UK artist's most downtempo album in a while looks backwards and forwards at the same time.",
+        "Recommended": false,
+        "Author": "Reid BG"
+    },
+    {
+        "Artist": "Eddington Again",
+        "Title": "Naomi9",
+        "Genre": [
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "!K7"
+            }
+        ],
+        "Tracklist": [
+            "Remedies",
+            "Petrify",
+            "Unkind",
+            "Core 22",
+            "Clash",
+            "ESP",
+            "07. 0306",
+            "BN",
+            "Sashastrasse",
+            "No Sun",
+            "11. 03:00",
+            "Cake Code"
+        ],
+        "Date": "2024-01-03",
+        "Blurb": "Touching on everything from drum & bass to indie rock, Eddington Again's debut album is a riveting exploration of disparate genres and intense feelings.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Nadia Struiwigh",
+        "Title": "Birds Of Paradise",
+        "Genre": [
+            {
+                "name": "Drum & Bass"
+            },
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Dekmantel"
+            }
+        ],
+        "Tracklist": [
+            "Shadow On The Left",
+            "Rainbrain",
+            "JSF48",
+            "hLOw",
+            "nd",
+            "Grown Trancy",
+            "Endofthe Tunnel",
+            "cmmn cmmn",
+            "Dreamsynth204",
+            "Parcel 33",
+            "Yep, Beavers?",
+            "Birds Of Paradise"
+        ],
+        "Date": "2023-11-13",
+        "Blurb": "A beautiful exploration of IDM, prog and drum & bass from a true master of synths.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Rewind: The Black Dog",
+        "Title": "Bytes / Spanners",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "IDM"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Bytes",
+            "Plaid - Object Orient",
+            "Close Up Over - Caz",
+            "Xeper - Carceres Ex Novum",
+            "Atypic - Focus Mel",
+            "Close Up Over - Olivine",
+            "I.A.O. - Clan (Mongol Hordes)",
+            "Plaid - Yamemm",
+            "Discordian Popes - Fight The Hits",
+            "Balil - Merck",
+            "Close Up Over - Jauqq",
+            "Balil - 3/4 Heart",
+            "",
+            "Spanners",
+            "Raxmus",
+            "Bolt 1",
+            "Barbola Work",
+            "Bolt 2",
+            "Psil-cosyin",
+            "Chase The Manhattan",
+            "Bolt 3",
+            "Tahr",
+            "Bolt 4",
+            "Further Harm",
+            "Nommo",
+            "Bolt 5",
+            "Pot Noodle",
+            "Bolt 6",
+            "End Of Time",
+            "Utopian Dream",
+            "Bolt 7",
+            "Frisbee Skip",
+            "Chesh"
+        ],
+        "Date": "2023-08-28",
+        "Blurb": "Two vital relics from the early '90s Warp Records catalogue resurface.",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Nabihah Iqbal",
+        "Title": "DREAMER",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ninja Tune"
+            }
+        ],
+        "Tracklist": [
+            "In Light",
+            "Dreamer",
+            "This World Couldn't See Us",
+            "Sunflower",
+            "Lilac Twilight",
+            "Gentle Heart",
+            "Sky River",
+            "Sweet Emotion (lost in devotion)",
+            "A Tender Victory",
+            "Closer Lover"
+        ],
+        "Date": "2023-06-11",
+        "Blurb": "Nabihah Iqbal's shoegazey new album is both deeper and dancier than we're used to. \n",
+        "Recommended": false,
+        "Author": "Sophie McNulty"
+    },
+    {
+        "Artist": "Wata Igarashi",
+        "Title": "Agartha",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kompakt"
+            }
+        ],
+        "Tracklist": [
+            "Abyss I",
+            "Searching",
+            "Subterranean Life",
+            "Ceremony of the Dead",
+            "Floating Against Time",
+            "Abyss II",
+            "Burning",
+            "Agartha",
+            "Darkness",
+            "Eternally "
+        ],
+        "Date": "2023-05-29",
+        "Blurb": "The Japanese techno maestro explores Krautrock and '90s electronica on an incredible debut album.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    }
+]

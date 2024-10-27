@@ -1,0 +1,816 @@
+[
+    {
+        "Artist": "Rewind: Cooly G",
+        "Title": "Narst / Love Dub",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "UK Funky"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Narst",
+            "Love Dub Refix",
+            "Love Dub"
+        ],
+        "Date": "2020-08-21",
+        "Blurb": "Underground anthems from London.",
+        "Recommended": false,
+        "Author": "Richard Akingbehin"
+    },
+    {
+        "Artist": "Hudson Mohawke",
+        "Title": "B.B.H.E.",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Brooklyn",
+            "Mandarania",
+            "Spruce Illest Bumper",
+            "Animo",
+            "Beyond",
+            "Tar",
+            "HM",
+            "Wellpark",
+            "Rosado",
+            "Macanudo",
+            "Herberts",
+            "Pushin The Levels",
+            "Liquid Heat",
+            "Monte Fisto"
+        ],
+        "Date": "2020-08-08",
+        "Blurb": "A grab bag of unreleased goodies spanning the Scottish producer's career. \n",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": null,
+        "Title": "Various - Join The Future: UK Bleep & Bass 1988-91",
+        "Genre": [
+            {
+                "name": "Breakbeat"
+            },
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Cease & Desist"
+            }
+        ],
+        "Tracklist": [
+            "Unique 3 & The Mad Musician - Only The Beginning",
+            "Demonik - Labyrinthe",
+            "Original Clique - Come To Papa",
+            "Nexus 21 - Self-Hypnosis (Mr Whippy Mix)",
+            "Cyclone - A Place Called Bliss (Dub Mix)",
+            "Hz - Low Frequency Overload (Subsonic Mix)",
+            "Cabaret Voltaire - Easy Life (Jive Turkey Mix)",
+            "Alfanso - Dub Feels Nice (Version 4)",
+            "Ital Rockers - Dreams",
+            "Man Machine - Animal (DJ Martin & DJ Homes' Primordial Jungle Mix)",
+            "Nightmares On Wax - 21st Kong",
+            "Tuff Little Unit - Join The Future (Original Instrumental Mix)"
+        ],
+        "Date": "2020-03-23",
+        "Blurb": "The sound that launched Warp Records and the UK's greatest dance floor innovations is presented in this essential compilation.",
+        "Recommended": true,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Konduku",
+        "Title": "White Heron",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Dub Techno"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nous'klaer Audio"
+            }
+        ],
+        "Tracklist": [
+            "Kenar ",
+            "Kış Uykusu ",
+            "Hermitage ",
+            "The Restless ",
+            "Sonsuz Rüzgar ",
+            "White Heron ",
+            "Kobalt ",
+            "Belki "
+        ],
+        "Date": "2020-01-17",
+        "Blurb": "Is Konduku one of techno's brightest new talents? This album suggests so.",
+        "Recommended": false,
+        "Author": "Carlos Hawthorn"
+    },
+    {
+        "Artist": "Quirke",
+        "Title": "Steal A Golden Hail",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "AD 93"
+            }
+        ],
+        "Tracklist": [
+            "Luxury Red Pence",
+            "Se Seven 7S",
+            "Sample Devon",
+            "Fluorescent Phlegm",
+            "Xultext Cradle",
+            "Suction Fax",
+            "Maybe Again, Crawl Through",
+            "Spinhaunt Coil"
+        ],
+        "Date": "2020-01-08",
+        "Blurb": "Nimble post-Burial dance floor weapons.",
+        "Recommended": false,
+        "Author": "Felicity Martin"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Partisan",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Circadian Rhythms"
+            }
+        ],
+        "Tracklist": [
+            "Thugwidow - Dominion",
+            "Tim Reaper - Lights Off, Heads Down",
+            "Hamilton Scalpel - Shallow Gunk",
+            "Ausschuss - Def Recco",
+            "Clouds - Augullie2",
+            "Sully - Vérité",
+            "Grade 10 - Total Kaos",
+            "Hyph11E - Flashes",
+            "Flora Yin-Wong - Tengu",
+            "HXE - SKU",
+            "Ytem - Surin",
+            "Impey - DS Flips",
+            "Acre - Sins",
+            "Filter Dread - Cave Bass",
+            "Shell - Untitled",
+            "Sense Fracture - Unaccountable, Unclean "
+        ],
+        "Date": "2020-01-03",
+        "Blurb": "The London label and NTS show captures the fast tempos and global nature of club music's avant-garde.",
+        "Recommended": false,
+        "Author": "Lewis Gordon"
+    },
+    {
+        "Artist": "Pursuit Grooves",
+        "Title": "Bess",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "What Rules Records"
+            }
+        ],
+        "Tracklist": [
+            "Checkerboard Airdrome (Intro) Chicago, 1922",
+            "Hair Raising",
+            "Lady Bird",
+            "Stand Firm On Wings",
+            "Cloud Pusher",
+            "Daredevil",
+            "The French Connect",
+            "Barnstorming",
+            "Welcome to Columbus (Interlude) Ohio, 1923",
+            "Principal Thrill",
+            "Parachute",
+            "I'll Be Fine",
+            "Aviatrix",
+            "Norman Studios (Interlude) Florida, 1926",
+            "Yesterday Today Tomorrow"
+        ],
+        "Date": "2019-12-30",
+        "Blurb": "Inspired by the black aviator Bessie Coleman, this LP's bassy house and techno highlights Pursuit Grooves' versatile sound.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "patten",
+        "Title": "FLEX",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "555-5555"
+            }
+        ],
+        "Tracklist": [
+            "Flame",
+            "Night Vision",
+            "Slipstream ",
+            "Chimera",
+            "Empathy Index ",
+            "Orion",
+            "Memory Flood ",
+            "Shadowcast",
+            "Threnody",
+            "VelvetScans",
+            "Snake Eyes",
+            "Infrared",
+            "Riptide",
+            "Life2"
+        ],
+        "Date": "2019-12-18",
+        "Blurb": "patten forgoes abstraction for sharp takes on UK club styles past and present.",
+        "Recommended": false,
+        "Author": "Joe Muggs"
+    },
+    {
+        "Artist": "Stenny",
+        "Title": "Upsurge",
+        "Genre": [
+            {
+                "name": "Breakbeat"
+            },
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ilian Tape"
+            }
+        ],
+        "Tracklist": [
+            "Water Maze ",
+            "Detraction ",
+            "Sensitive Habitat ",
+            "Blind Corners ",
+            "BFRB ",
+            "Swordfish ",
+            "Whyrl ",
+            "Psygraph ",
+            "Fast Fade ",
+            "Dew ",
+            "Cursed ",
+            "In A Distant Light "
+        ],
+        "Date": "2019-11-27",
+        "Blurb": "Stenny's first album draws from the sensuous textures of post-dubstep. But it's still as powerful as you'd hope.",
+        "Recommended": false,
+        "Author": "Joe Muggs"
+    },
+    {
+        "Artist": "Zonal",
+        "Title": "Wrecked",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Relapse Records"
+            }
+        ],
+        "Tracklist": [
+            "Body Of Wire feat. Moor Mother",
+            "In A Cage feat. Moor Mother",
+            "System Error feat. Moor Mother",
+            "Medulla feat. Moor Mother",
+            "Catalyst feat. Moor Mother",
+            "No Investigation feat. Moor Mother",
+            "Wrecked",
+            "Debris",
+            "Black Hole Orbit",
+            "S.O.S.",
+            "Alien Within",
+            "Stargazer"
+        ],
+        "Date": "2019-11-17",
+        "Blurb": "Justin Broadrick, Kevin Martin and Moor Mother prove a lethal combination on this dubwise take on hip-hop.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Various",
+        "Title": "WXAXRXP Sessions",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Aphex Twin - Peel Session 2",
+            "A1 Slo Bird Whistle",
+            "A2 Radiator (Original Mix)",
+            "B1 p-string",
+            "B2 Pancake Lizard",
+            "",
+            "Bibio - WXAXRXP Session",
+            "A1 Haikuesque",
+            "A2 Petals",
+            "B1 All the Flowers",
+            "B2 Lovers Carvings",
+            "",
+            "Boards Of Canada - Peel Session",
+            "A1 Aquarius (Version 3)",
+            "A2 Happy Cycling",
+            "B1 Olson (Version 3)",
+            "B2 XYZ",
+            "",
+            "Flying Lotus - Presents INFINITY \"Infinitum\" - Maida Vale Session",
+            "A1 MmmHmm",
+            "A2 Golden Axe",
+            "B1 Tea Leaf Dancers",
+            "B2 Drips",
+            "",
+            "Kelly Moran - WXAXRXP Session",
+            "A1 In Parallel (Acoustic)",
+            "A2 Helix 2 (TransAcoustic)",
+            "B1 Interlude 1",
+            "B2 Love Birds (Acoustic)",
+            "B3 Radian (TransAcoustic)",
+            "",
+            "LFO - Peel Session",
+            "A1 Take Control",
+            "A2 To The Limit",
+            "B1 Rob's Nightmare",
+            "B2 Lost World",
+            "",
+            "Mount Kimbie - WXAXRXP Session",
+            "A1 You Look Certain (I'm Not So Sure) feat. Andrea Balency",
+            "A2 Delta",
+            "B1 Marilyn feat. Micachu",
+            "B2 Made To Stray",
+            "",
+            "Oneohtrix Point Never - KCRW Session",
+            "A1 Love In The Time Of Lexapro",
+            "A2 RayCats",
+            "B1 Toys 2",
+            "B2 Chrome Country",
+            "",
+            "Plaid - Peel Session 2",
+            "A1 Housework",
+            "A2 Kiterider",
+            "B1 Elide",
+            "B2 Lazybeams",
+            "",
+            "Seefeel - Peel Session",
+            "A1 Rough For Radio",
+            "A2 Starethrough",
+            "B1 Vex",
+            "B2 Phazemaze"
+        ],
+        "Date": "2019-11-14",
+        "Blurb": "30 years of Warp on the radio, ripped legally for the first time.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "rRoxymore",
+        "Title": "Face To Phase",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Dub"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Don't Be Afraid"
+            }
+        ],
+        "Tracklist": [
+            "Home Is Where the Music Sfs",
+            "Passages",
+            "Forward Flamingo",
+            "Energy Points",
+            "Someone Else's Memory",
+            "Hectadrums",
+            "PPS21",
+            "What's The Plan "
+        ],
+        "Date": "2019-10-04",
+        "Blurb": "The album format gives the French artist's strange, unclassifiable club music a new sense of space and freedom.",
+        "Recommended": false,
+        "Author": "Max Graef Lakin"
+    },
+    {
+        "Artist": "Oli XL",
+        "Title": "Rogue Intruder, Soul Enhancer",
+        "Genre": [
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Bloom"
+            }
+        ],
+        "Tracklist": [
+            "Cygnostik",
+            "Liquid Love",
+            "DnL",
+            "Mimetic",
+            "Jet Generation",
+            "Flower Circuit ",
+            "Hesitate feat. Ecco2K",
+            "Orchid Itch",
+            "Imposter",
+            "Clumsy",
+            "Sniper Baby "
+        ],
+        "Date": "2019-07-24",
+        "Blurb": "Intricate experiments in rhythm and bass.",
+        "Recommended": false,
+        "Author": "Max Graef Lakin"
+    },
+    {
+        "Artist": null,
+        "Title": "Laurel Halo - DJ-Kicks",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "!K7"
+            }
+        ],
+        "Tracklist": [
+            "Laurel Halo - Public Art ",
+            "Stallone The Reducer - Always Hate ",
+            "Red Axes - 5 Min feat. C.A.R. ",
+            "Parris - Puro Rosaceaes",
+            "Rrose - Cricoid Pressure ",
+            "Machine Woman - Just Made Some Jazz Music ",
+            "WCC - Ana ",
+            "FIT Siegel - Pennyrut ",
+            "Yamaoka - Plastic PQ ",
+            "Siete Catorce - Canto ",
+            "Facta - Poliwhirl ",
+            "Laurel Halo & Hodge - The Light Within You ",
+            "Ikonika - Bodied ",
+            "Griffit Vigo - A.C.I.D. (Electronic Gqom Mix) ",
+            "Panda Lassow - Lachowa ",
+            "Dario Zenker - Koraimer Bro ",
+            "Final Cut - Temptation ",
+            "Aos - Violent Light ",
+            "Geoffrey Landers - Brian's Having a Party ",
+            "Via Maris - Side Effects ",
+            "Laurel Halo - Oneiroi ",
+            "Nick León - Pelican Dub ",
+            "Stefan Ringer - Lust ",
+            "Kirk The Flirt - Loser ",
+            "Laurel Halo - Sweetie (DJ-Kicks) ",
+            "Blake Baxter - Funky World (Blake Baxter Remix) ",
+            "Kiki Kudo - Freakey Keke ",
+            "Group A - Ketabali ",
+            "Whitefield Brothers - Ntu ",
+            ""
+        ],
+        "Date": "2019-03-22",
+        "Blurb": "A gifted live performer shows her DJ skills.",
+        "Recommended": false,
+        "Author": "Ray Philp"
+    },
+    {
+        "Artist": "Etch",
+        "Title": "Ups & Downs",
+        "Genre": [
+            {
+                "name": "Breakbeat"
+            },
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sneaker Social Club"
+            }
+        ],
+        "Tracklist": [
+            "Lost Orbit",
+            "Out There",
+            "The Siren",
+            "Groove Control",
+            "Snell's Law",
+            "Hope For The Worst",
+            "Black Rainbow",
+            "Swirls & Spirals",
+            "Ice Climbers In Flatland",
+            "Shine On (Zero Gravity Mix)",
+            "Fluid",
+            "Outsider feat. Farrah"
+        ],
+        "Date": "2018-11-19",
+        "Blurb": "Break science and beyond from the Brighton producer.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Bruce",
+        "Title": "Sonder Somatic",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hessle Audio"
+            }
+        ],
+        "Tracklist": [
+            "Elo",
+            "Cacao",
+            "Ore ",
+            "Meek",
+            "Torn",
+            "What",
+            "Baychimo",
+            "Patience St Pim",
+            "It'll Pass",
+            "on",
+            "Serotonin Levels Low "
+        ],
+        "Date": "2018-11-05",
+        "Blurb": "Considered, mesmerizing beat science.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Air Texture Vol VI",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Ambient"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Air Texture"
+            }
+        ],
+        "Tracklist": [
+            "Synkro - Observatory",
+            "Appleblim - Unfound",
+            "V.I.V.E.K. - Sad Smile",
+            "Answer Code Request - Pasiris",
+            "Shed - Into Bleeps",
+            "dBridge & Lewis James - Verloren",
+            "Tracing Xircles - Kaieteur Falls",
+            "Samuel Pling - Bottomfeeder",
+            "Herron - Touching",
+            "Steffi - Between Form And Matter",
+            "Afik Naim - Louie's Beat",
+            "Mosca - Kidney Version",
+            "Stingray - Last Shift",
+            "Shed - When The Faces Went Down",
+            "Novocanemusic - Steelmill",
+            "Actress - Watercolour Challenge Part II",
+            "Mesak - Sauhu",
+            "FaltyDL - Going West",
+            "Shelby",
+            "As One - The Ladder",
+            "Total Science - Cowbell",
+            "Basic Soul Unit - Light Out",
+            "Barker - Terminal",
+            "Late Night Approach - The Naus Galaxy",
+            "Martyn - Moves",
+            "KiNK - Tal Atonal "
+        ],
+        "Date": "2018-10-22",
+        "Blurb": "Steffi and Martyn curate a more bumping edition of the downtempo compilation series.",
+        "Recommended": false,
+        "Author": "Christian Eede"
+    },
+    {
+        "Artist": "Forest Drive West",
+        "Title": "Apparitions",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Livity Sound"
+            }
+        ],
+        "Tracklist": [
+            "Cut And Run",
+            "Transmission",
+            "Circles",
+            "Vertigo",
+            "Phaze-Shift",
+            "Traveller",
+            "Particles In Motion",
+            "Cannibal "
+        ],
+        "Date": "2018-10-17",
+        "Blurb": "The ascendant producer delivers an immersive debut album for Livity Sound.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Spiritflesh",
+        "Title": "Spiritflesh",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "No Corner"
+            }
+        ],
+        "Tracklist": [
+            "Crib",
+            "Ever Impending Doom",
+            "Sentient",
+            "Deity ",
+            "Beneath The Clouded Veil ",
+            "Dream Therapy",
+            "Hypnagogia",
+            "Nothing Will Ever Be The Same Again",
+            "Cobalt Links (Bonus Track)"
+        ],
+        "Date": "2018-10-12",
+        "Blurb": "A phantasmagorical trip from Bristol producers October and Borai.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Pinch & Peverelist",
+        "Title": "In Deep",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Bass"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tectonic Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Pinch - No Justice ",
+            "Peverelist - Under Clearing Skies",
+            "Walton - Point Blank",
+            "Kowton - Shots Fired",
+            "PHON.O - V3R5U5",
+            "Forest Drive West - Scanners",
+            "Pinch & Mumdance - Strobe Light",
+            "Simo Cell - Stop The Killing",
+            "Walton feat. Wen - Vectors",
+            "Kowton - Pea Soup",
+            "Mumdance & Logos - Chaos Engine",
+            "Asusu - Sendak",
+            "Mumdance & Logos - Hall Of Mirrors (Perc & Truss Remix)",
+            "Peverelist & Hodge - 21 Versions",
+            "Nurve feat. Caski - Brain Sugar",
+            "Via Maris - Swarm",
+            "Hugo Massien - Advanced Aerial Threat",
+            "Forest Drive West - Escape",
+            "Pinch & Mumdance - Big Slug (Instrumental)",
+            "Randomer & Hodge - Simple As "
+        ],
+        "Date": "2018-10-04",
+        "Blurb": "The duo's deep impact on UK club music is highlighted on this mix and compilation.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    }
+]

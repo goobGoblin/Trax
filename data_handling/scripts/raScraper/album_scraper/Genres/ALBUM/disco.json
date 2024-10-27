@@ -1,0 +1,820 @@
+[
+    {
+        "Artist": "Eris Drew",
+        "Title": "Raving Disco Breaks Vol. II: Rock The House",
+        "Genre": [
+            {
+                "name": "Breakbeat"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "T4T LUV NRG"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2024-04-30",
+        "Blurb": "On this second mixtape, five years in the making, Eris Drew mixes vintage house and breakbeat with Led Zeppelin and Janis Joplin.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Chromeo",
+        "Title": "Adult Contemporary",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "BMG"
+            }
+        ],
+        "Tracklist": [
+            "I Don't Need A) New Girl",
+            "Got it Good",
+            "Lost And Found",
+            "BTS",
+            "Replacements feat. La Roux",
+            "Lonesome Nights",
+            "Personal Effects",
+            "She Knows It (Personal Effects pt. 2)",
+            "Ballad Of The Insomniacs",
+            "CODA",
+            "Words With You",
+            "A Cut Above",
+            "Friendsnlovers",
+            "Two of Us (Friendsnlovers pt. 2)",
+            "Replacements feat. La Roux"
+        ],
+        "Date": "2024-03-05",
+        "Blurb": "20 years in, the Canadian duo pull together a solid album that shows keeping the funk alive is harder than it looks.",
+        "Recommended": false,
+        "Author": "Katie Thomas"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Optimo 25",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Optimo Music"
+            }
+        ],
+        "Tracklist": [
+            "OPTIMO2501",
+            "A1 Brainticket – Places Of Light",
+            "A2 T.J. Lawrence – Fireplay",
+            "A3 Robert Rental – Double Heart",
+            "B1 African Head Charge – No, Don't Follow Fashion",
+            "B2 Keith Hudson – Nuh Skin Up Dub",
+            "C1 Smokin’ Cheeba – When I Was A Youth",
+            "C2 The Wad – 15 inches",
+            "D1 Idjut Boys & Laj – Foolin' (Beatin on Dave)",
+            "D2 JBB Et Soprann – Tibi Lap",
+            "",
+            "OPTIMO2502",
+            "A1 Chris & Cosey – Take Control",
+            "A2 Isolators – Concentrate On Us",
+            "B1 Mike Dunn – Life Goes On",
+            "B2 KC Flight – Voices (Original Dub Mix)",
+            "C1 Faze Action – Good Lovin' (Special Disco Mix)",
+            "C2 Hannah Holland – Ekotypic",
+            "D1 Divine – Shake It Up",
+            "D2 XS-5 – I Need More (Extended Dance Version)",
+            "D3 Liquid Liquid – Optimo"
+        ],
+        "Date": "2024-02-17",
+        "Blurb": "A tribute to (and recollection of) one of the greatest club nights in the history of dance music.",
+        "Recommended": true,
+        "Author": "Erin Margaret Day"
+    },
+    {
+        "Artist": "DJ Shadow",
+        "Title": "Action Adventure",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Funk / Soul"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mass Appeal"
+            }
+        ],
+        "Tracklist": [
+            "Ozone Scraper",
+            "All My",
+            "Time and Space",
+            "Craig, Ingels, & Wrightson",
+            "Witches Vs. Warlocks",
+            "A Narrow Escape",
+            "You Played Me",
+            "Free For All",
+            "The Prophecy",
+            "Friend Or Foe",
+            "Fleeting Youth (An Audible Life)",
+            "Reflecting Pool",
+            "Forever Changed",
+            "She's Evolving"
+        ],
+        "Date": "2023-11-16",
+        "Blurb": "A wonderful grab bag of pre-hip-hop styles from an eminent (and talented) musical historian.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Kylie Minogue",
+        "Title": "Tension",
+        "Genre": [
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "BMG"
+            }
+        ],
+        "Tracklist": [
+            "Padam Padam",
+            "Hold On To Now",
+            "Things We Do For Love",
+            "Tension",
+            "One More Time",
+            "You Still Get Me High",
+            "Hands",
+            "Green Light",
+            "Vegas High",
+            "Out Of 10 feat. Oliver Heldens",
+            "Story"
+        ],
+        "Date": "2023-09-29",
+        "Blurb": "Kylie's 16th album returns to the candy-coated, feel-good dance pop she's been turning out since \"All The Lovers.\"",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Arthur Baker",
+        "Title": "Dance Masters: The Classic Dance Remixes",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Demon Music Group"
+            }
+        ],
+        "Tracklist": [
+            "Disc 1",
+            "Fleetwood Mac - Big Love (Extended Remix)",
+            "New Order - Confusion (12-inch Version)",
+            "Cyndi Lauper - Girls Just Want to Have (Fun Extended Version)",
+            "Daryl Hall - Dreamtime (Extended Remix Version)",
+            "Pet Shop Boys - Suburbia (Club Vocal Mix)",
+            "Fine Young Cannibals - Ever Fallen in Love? (Club Senseless)",
+            "General Public - Never You Done That Special Dance Mix",
+            "The Colourfield - Running Away (Long Version)",
+            "The Cars - Hello Again (Remix)",
+            "Carly Simon - My New Boyfriend (Remix)",
+            "Bob Dylan - When the Night Comes Falling from the Sky (Full Length Version)",
+            "",
+            "Disc 2",
+            "Daryl Hall & John Oates - Out of Touch (Club Version)",
+            "Jennifer Holliday - No Frills Love (Extended Dance Remix)",
+            "Robbie Nevil - C'est la Vie (Extended Version)",
+            "Living in a Box - Living in a Box (Dance Mix)",
+            "Neneh Cherry - Buffalo Stance (1/2 Way 2 House Mix)",
+            "Will Downing - A Love Supreme (Jazz in the House Remix)",
+            "Jeffrey Osborne - Soweto (Remixed Version)",
+            "Jermaine Stewart - Jody (Dance Version)",
+            "Roberta Flack - Uh Uh Ooh Ooh Look Out (Here It Comes) (Arthur Baker's Dance Mix)",
+            "Al Jarreau - I Must Have Been a Fool (Remix)",
+            "Arthur Baker & the Backbeat Disciples Featuring Al Green - the Message Is Love (Cupid Mix)",
+            "",
+            "Disc 3",
+            "Artists United Against Apartheid - Sun City (Last Remix)",
+            "Freeez - I.O.U. (Mega Mix)",
+            "Talking Heads - Blind (Extended Mix)",
+            "Wally Jump Jr. & the Criminal Element - Turn Me Loose (12-inch Version)",
+            "Tina B - Honey to a Bee (Vocal/Extended Version)",
+            "Arthur Baker - Breaker's Revenge (Extended Vocal Version)",
+            "Cindy Mizelle - This Could Be the Night (Vocal/Extended)",
+            "Atlantic Starr - One Lover at a Time (Extended Version)",
+            "Boxcar - Freemason (You Broke the Promise) (Shakedown Mix)",
+            "Gypsy Kings - Bamboleo Latin (Extended Version)",
+            "",
+            "Disc 4",
+            "Afrika Bambaataa & Soulsonic Force - Planet Rock (12-inch Vocal Version)",
+            "Rockers Revenge Featuring Donnie Calvin - Walking on Sunshine (12-inch Version)",
+            "Touchdown - Ease Your Mind (U.S. Remix)",
+            "Second Image - Star (U.S. Remix)",
+            "Junie Morrison - Tease Me (Long Version)",
+            "Central Line - Surprise, Surprise (12-inch Version)",
+            "Glory - Can You Guess What Groove This Is (Short Version)",
+            "Afrika Bambaataa & the Jazzy 5 with the Kryptic Krew - Jazzy Sensation (12-inch Bronx Version)",
+            "Ritz - I Wanna Get with You (12-inch Version)",
+            "Larry Wedgeworth and Clique - No More Games (Short Version)",
+            "North End - Can't Put No Price on Love (Long Version)",
+            "",
+            "",
+            ""
+        ],
+        "Date": "2023-08-13",
+        "Blurb": "A sprawling retrospective of one of the most important figures in dance music history, who helped define the sound of the '80s.",
+        "Recommended": true,
+        "Author": "Zach Schlein"
+    },
+    {
+        "Artist": "Jayda G",
+        "Title": "Guy",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ninja Tune"
+            }
+        ],
+        "Tracklist": [
+            "Intro ",
+            "Blue Lights ",
+            "Heads Or Tails ",
+            "Scars ",
+            "Interlude: I Got Tired Of Running",
+            "Lonely Back In O ",
+            "Your Thoughts",
+            "Interlude: It Was Beautiful",
+            "Meant To Be ",
+            "Circle Back Around ",
+            "When She Dance ",
+            "Sapphires Of Gold",
+            "Foot "
+        ],
+        "Date": "2023-06-16",
+        "Blurb": "A warm, uplifting and heartfelt exploration of family and loss through the lens of Jayda G's ebullient disco pop.",
+        "Recommended": false,
+        "Author": "Katie Thomas"
+    },
+    {
+        "Artist": "Terr",
+        "Title": "Consciousness As A State Of Matter",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Phantasy Sound"
+            }
+        ],
+        "Tracklist": [
+            "Tale Of Devotion (Sunny Version)",
+            "Only For Tonight",
+            "Warp Drive",
+            "Energy Sync",
+            "Time Crystal",
+            "Wings Of Time",
+            "Layers",
+            "I Am Here You Are There",
+            "Imagination",
+            "Final Dance feat. Coloray",
+            "States Of Mind"
+        ],
+        "Date": "2023-06-01",
+        "Blurb": "Cosmic synth-pop-techno-disco that lives up to Erol Alkan's Phantasy Sound legacy.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Daft Punk",
+        "Title": "Random Access Memories (10th Anniversary Edition)",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Columbia Records"
+            }
+        ],
+        "Tracklist": [
+            "Give Life Back To Music",
+            "The Game Of Love",
+            "Giorgio By Moroder",
+            "Within",
+            "Instant Crush",
+            "Lose Yourself To Dance",
+            "Touch",
+            "Get Lucky",
+            "Beyond",
+            "Motherboard",
+            "Fragments of Time",
+            "Doin' it right",
+            "Contact",
+            "Horizon (Japan CD)",
+            "GLBTM (Studio Outtakes)",
+            "Infinity Repeating (2013 Demo)",
+            "GL (Early Take)",
+            "Prime (2012 Unfinished)",
+            "LYTD (Vocoder Tests)",
+            "The Writing of Fragments Of Time",
+            "Touch (2021 Epilogue)"
+        ],
+        "Date": "2023-05-26",
+        "Blurb": "Ten years since the release of Daft Punk's final album, the Grammy-winning record has lost some of its original charm, but new bonus material takes the duo's sound to enticing places.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Trikk",
+        "Title": "Fauna & Flora",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Innervisions"
+            }
+        ],
+        "Tracklist": [
+            "Mapa",
+            "Don't Forget To Breathe",
+            "Ordem",
+            "Absolute Body Control feat. Jimi Jules",
+            "Regado",
+            "Yard Judge",
+            "Mata Mata feat. Gabriel Massan",
+            "Pandemonio",
+            "TXKX",
+            "Ouro (Love Trippin) feat. Feon"
+        ],
+        "Date": "2023-02-28",
+        "Blurb": "Trikk's debut LP sounds like the DFA and Night Slugs crew got together for a jam at Innervisions HQ.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Massimiliano Pagliara",
+        "Title": "See You In Paradise",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Permanent Vacation"
+            }
+        ],
+        "Tracklist": [
+            "Persistently There",
+            "Half-time Dreams feat. INIT",
+            "Reset feat. Fort Romeau & Coloray",
+            "Snap Out feat. Snax",
+            "Mitate",
+            "Pepper On The Tongue Feat. Curses",
+            "Nocturnal Prowler",
+            "Intense Affectionate",
+            "See You In Paradise feat. Vanessa",
+            "Non Attachment"
+        ],
+        "Date": "2022-11-17",
+        "Blurb": "Larger-than-life melodies steal the show on an album that traverses Italo, pop, techno and nu-disco.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Kerri Chandler",
+        "Title": "Spaces And Places",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kaoz Theory"
+            }
+        ],
+        "Tracklist": [
+            "Never Thought (Main Vocal Mix) feat. Sunchilde [Printworks]",
+            "Milan (Full Sax Mix) - feat. Mauro Capitale [Magazzini General]",
+            "Kerri Chandler feat. Lady Linn - You Get Lost In",
+            "It (Full Vocal Main Mix) [The Warehouse Project]",
+            "Kerri Chandler feat. Dreamer G - Hurry Up (Kerri's Again End Vocal Mix) [Ministry of Sound]",
+            "Tenacity (Main Vocal Mix) feat. Bluey Robinson [Output NYC]",
+            "Kaiku (Disco Version) feat. Yaniel & Patrick Mangan [Kaiku]",
+            "Industria [Industria]",
+            "Dirty (DJ Deep's Son and Dad Edit 6) [Rex]",
+            "I See (Full Mix) [Razzmatazz]",
+            "The Piano Thing [Live] [Eathos]",
+            "Sunrise [Watergate]",
+            "See the Light (Original Long Vocoder Vocal Mix) [Lux Frágil]",
+            "Sun of Sound (Vocal Mix) feat. Troy Denari [Plan B]",
+            "Keep One (But Do It Again) [Sir Henrys]",
+            "Who Knows (Media Mix Vocal Mix) feat.",
+            "Dora Dora [Barbarellas]",
+            "Let it (Kerri's Original Full Vocal Mix) [Basic Club]",
+            "Change Your Mind (Full Vocal) feat. Troy Denari [District 8]",
+            "Joyful Life (Full Vocal Mix) feat. Mona Lee [De",
+            "Marktkantine]",
+            "The Morning Heat (Main Mix) feat. Nadir Simon [La Grange]",
+            "The Calling [Club Qu]",
+            "Feelin' Red (Pull The 9 Out Mix) [DC10]",
+            "Subbie (The Jackpot Mix) [Sub Club]",
+            "The Box Frame [Halcyon]",
+            "Back to Earth (Find Your Peace) feat. Aaron Braxton [Knockdown Center]"
+        ],
+        "Date": "2022-10-19",
+        "Blurb": "Three hours of immaculate big-room house, recorded at 24 different clubs around the world.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Au Suisse",
+        "Title": "Au Suisse",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "City Slang"
+            }
+        ],
+        "Tracklist": [
+            "Control ",
+            "Thing",
+            "GC",
+            "Pain & Regret ",
+            "Savage ",
+            "Vesna",
+            "Eely ",
+            "Plans ",
+            "AG"
+        ],
+        "Date": "2022-09-08",
+        "Blurb": "Existential love songs and synth pop serenades from nu disco heroes Morgan Geist and Kelley Polar.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": null,
+        "Title": "Local Artist - Expanding Horizons / Jack J - Opening The Door",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Downtempo"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mood Hut"
+            }
+        ],
+        "Tracklist": [
+            "Jack J - Opening The Door",
+            "If You Don't Know Why",
+            "Opening The Door",
+            "The Only Way",
+            "Only You Know Why",
+            "Clues [Part I]",
+            "Clues [Part II]",
+            "I Saw Fire",
+            "Closing The Door",
+            "",
+            "Local Artist - Expanding Horizons",
+            "Head Right",
+            "Expanding Horizons",
+            "Without You",
+            "Neo Wise",
+            "Rif Kibdani",
+            "Self Healing",
+            "Good Enough",
+            "Give You My Love",
+            "Distance Calling"
+        ],
+        "Date": "2022-08-18",
+        "Blurb": "Mood Hut returns with two LPs that showcase how far the Vancouver vanguard has evolved.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Arp",
+        "Title": "New Pleasures",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Funk / Soul"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Mexican Summer"
+            }
+        ],
+        "Tracklist": [
+            "The Peripheral",
+            "New Pleasures",
+            "Preset Gloss",
+            "Sponge (for Miyake)",
+            "Eniko",
+            "i: /o",
+            "Plaza",
+            "Le Palace",
+            "Traitor (Dub)",
+            "Embassy Disco",
+            "Cloud Storage"
+        ],
+        "Date": "2022-07-25",
+        "Blurb": "An album of gleaming synth funk that captures the delicious but empty decadence of mass marketing and commercialism.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Colleen 'Cosmo' Murphy",
+        "Title": "Balearic Breakfast Volume 1",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Balearic"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Heavenly Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Joan Bibiloni - Sa Fosc",
+            "Cantoma - The Mountain (Coyote Remix)",
+            "Fragile - We've Got Tonight, Boy",
+            "Linkwood Family - Miles Away",
+            "P'taah - The Cosmic Laws (Phil Asher Restless Soul Vocal)",
+            "Mildlife - Vapour (Cosmodelica Remix)",
+            "Friendly Fires & The Asphodells - Velo",
+            "Lady Blackbird - Beware The Stranger (Ashley Beedle's North Street West Vocal Remix)",
+            "Morenas - Hazme Sonar (Ambient Mix by Peter Vriends)",
+            "Caoilfhionn Rose - Paths",
+            "Mike Salta & Marty Mortale - Henry's Spacewalk"
+        ],
+        "Date": "2022-07-12",
+        "Blurb": "The long-time DJ and radio host redefines what Balearic is and can be on this beautiful, sometimes eye-opening compilation.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Harvey Sutherland",
+        "Title": "Boy",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Funk / Soul"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Clarity Recordings"
+            },
+            {
+                "name": "House Anxiety"
+            }
+        ],
+        "Tracklist": [
+            "Jouissance",
+            "Age Of Acceleration",
+            "Feeling Of Love feat. DāM-FunK",
+            "Holding Pattern",
+            "Michael Was Right About You",
+            "Slackers",
+            "Type A feat. sos",
+            "Angry Young Man",
+            "Boy",
+            "Time On My Side"
+        ],
+        "Date": "2022-05-17",
+        "Blurb": "Catchy, convincing and self-deprecating funk and disco from the Melbourne master.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Kavinsky",
+        "Title": "Reborn",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Record Makers"
+            }
+        ],
+        "Tracklist": [
+            "Pulsar",
+            "Reborn feat. Romuald",
+            "Renegade feat. Cautious Clay",
+            "Trigger",
+            "Goodbye feat. Sébastien Tellier",
+            "Plasma feat. Morgan Phalen",
+            "Cameo feat. Kareen Lomax",
+            "Zenith feat. Prudence and Margan Phalen",
+            "Vigilante feat. Morgan Phalen",
+            "Zombie",
+            "Outsider",
+            "Horizon"
+        ],
+        "Date": "2022-05-08",
+        "Blurb": "The king of synthwave reclaims his crown.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Passarani",
+        "Title": "The Wildlife Of The Quieter Ones",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Disco"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Aus Music"
+            }
+        ],
+        "Tracklist": [
+            "Alberquereue Arcade Retreat",
+            "Theme from FFOM ",
+            "Sacramento Balls",
+            "Dial 101",
+            "Revelation",
+            "Gravitational Lane",
+            "Serenity Alley",
+            "Equation",
+            "Storm 90",
+            "Requiem I",
+            "Complex Beta",
+            "Moon Stone",
+            "Rays of Thunder",
+            "Red Flying Kites",
+            "Never Ending Scrolling",
+            "The 6th Day",
+            "Strawberry Strings"
+        ],
+        "Date": "2022-03-23",
+        "Blurb": "Wonderfully melodramatic Italo nostalgia by a master of the form (and Tiger & Woods cofounder).",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Danae",
+        "Title": "Good Fruit",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Funk / Soul"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Bubble Tease Communications"
+            }
+        ],
+        "Tracklist": [
+            "All I Imagine",
+            "Black Girl Magic",
+            "Life Under The Sun",
+            "Bout To Catch A Case",
+            "Good Fruit",
+            "Dope-a-licious",
+            "Flowers In The Garden",
+            "Concrete Rose",
+            "Im Done",
+            "Eternal (Demo Mix)"
+        ],
+        "Date": "2022-02-08",
+        "Blurb": "Maurice Fulton works his boogie magic on the debut album from Sheffield artist Danae.",
+        "Recommended": false,
+        "Author": "Tajh Morris"
+    }
+]

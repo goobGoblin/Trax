@@ -1,0 +1,763 @@
+[
+    {
+        "Artist": "Various (Die Orakel)",
+        "Title": "Braindance",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Die Orakel"
+            }
+        ],
+        "Tracklist": [
+            "upsammy – Wumb (Ambient Version)",
+            "n9oc – Hyphae",
+            "Pépe – Cloudbusters",
+            "Gacha Bakradze – Inhumanity",
+            "Rali Pibs – Hooked & Strungout",
+            "Teatre – Daze",
+            "O-Wells – Deep Concentration",
+            "Oma Totem – Sobre Caderas feat. Juns",
+            "Dana Kuehr – Biota",
+            "Benjamin Milz – Cmos",
+            "Poly Chain – Turbulent",
+            "Katatonic Silentio – Grain Of Consumption",
+            "Koloah – The Highway",
+            "Reptant – Protectors Of The Moss",
+            "Edward – Blurry Trees And Peanuts"
+        ],
+        "Date": "2024-03-13",
+        "Blurb": "The Frankfurt label celebrates ten years with a record of cerebral IDM and bass-heavy contortions.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Bookworms",
+        "Title": "depth perceptions",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "rusto",
+            "slice of life",
+            "exit at middle of platform",
+            "gliss",
+            "gleek",
+            "selected",
+            "ofiveb",
+            "vidual",
+            "viz",
+            "pairsbox",
+            "trigonometry",
+            "phonie",
+            "nex",
+            "ccents",
+            "ability"
+        ],
+        "Date": "2024-02-07",
+        "Blurb": "Rough-and-ready techno from a core American underground dance music artist.\n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Rewind: The Black Dog",
+        "Title": "Bytes / Spanners",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "IDM"
+            },
+            {
+                "name": "Electronica"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "Bytes",
+            "Plaid - Object Orient",
+            "Close Up Over - Caz",
+            "Xeper - Carceres Ex Novum",
+            "Atypic - Focus Mel",
+            "Close Up Over - Olivine",
+            "I.A.O. - Clan (Mongol Hordes)",
+            "Plaid - Yamemm",
+            "Discordian Popes - Fight The Hits",
+            "Balil - Merck",
+            "Close Up Over - Jauqq",
+            "Balil - 3/4 Heart",
+            "",
+            "Spanners",
+            "Raxmus",
+            "Bolt 1",
+            "Barbola Work",
+            "Bolt 2",
+            "Psil-cosyin",
+            "Chase The Manhattan",
+            "Bolt 3",
+            "Tahr",
+            "Bolt 4",
+            "Further Harm",
+            "Nommo",
+            "Bolt 5",
+            "Pot Noodle",
+            "Bolt 6",
+            "End Of Time",
+            "Utopian Dream",
+            "Bolt 7",
+            "Frisbee Skip",
+            "Chesh"
+        ],
+        "Date": "2023-08-28",
+        "Blurb": "Two vital relics from the early '90s Warp Records catalogue resurface.",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Rắn Cạp Đuôi",
+        "Title": "*1",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nhac Gãy"
+            }
+        ],
+        "Tracklist": [
+            "Straws ",
+            "What Cherubs ",
+            "Nhộng tằm",
+            "Bloody",
+            "Untitled 2 ",
+            "Pressure ",
+            "Mang theo tôi nữa",
+            "The Virgin Mary in the Grilled Cheese",
+            "Bugs life"
+        ],
+        "Date": "2023-05-25",
+        "Blurb": "Melancholy textures fuse with home-grown influences on the Vietnamese quintet's second album, which is still rooted in the band's cutting, improvised origins. \n",
+        "Recommended": true,
+        "Author": "Ross Lancaster"
+    },
+    {
+        "Artist": "upsammy",
+        "Title": "Germ In A Population Of Buildings",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "PAN"
+            }
+        ],
+        "Tracklist": [
+            "Being Is A Stone ",
+            "Constructing",
+            "Ergo Dynamic Tree",
+            "Green Lung",
+            "Germ In A Population Of Buildings",
+            "Patterning",
+            "Asphalt Flows",
+            "Soft Sand",
+            "Square To Sphere",
+            "Metro Snake Whispers"
+        ],
+        "Date": "2023-05-23",
+        "Blurb": "Intricate synthetic landscapes emerge on an IDM record that moves from the micro to the macro.",
+        "Recommended": true,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Doc Sleep",
+        "Title": "Birds (in my mind anyway)",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tartelet Records"
+            }
+        ],
+        "Tracklist": [
+            "Fall Into Flowers (Intro)",
+            "Tomorrow Is Beautiful feat. Glenn Astro",
+            "Flooding Meadow",
+            "C&L At The Sea",
+            "Orange Grove Nap",
+            "Wiped Memory",
+            "Fog Vs. Moon feat. M. Marie",
+            "Strange Sun",
+            "Secret Spells",
+            "Under HIgh Branches"
+        ],
+        "Date": "2023-04-25",
+        "Blurb": "A gorgeous collection of ambient techno and downtempo IDM from Jacktone's cofounder.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Pilgrims Of The Mind",
+        "Title": "What's Your Shrine?",
+        "Genre": [
+            {
+                "name": "Trance"
+            },
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Heels & Souls Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Smell Zee Flower",
+            "Nothing Can Pull Us Apart",
+            "My Baby Likes Rum",
+            "L'Amour? Encore?!",
+            "Le Belle Du Jardin",
+            "Loosejaw (co-produced by Andrew Ross-Collins)",
+            "Following The Sofuto Kuriimo",
+            "Sandcastle",
+            "Something's Pulling Me Under"
+        ],
+        "Date": "2023-01-19",
+        "Blurb": "A tripped-out classic from Vancouver's '90s dance scene gets a well-deserved reissue.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various (Chicago Bee)",
+        "Title": "Home Listening Acid And House",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Acid"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Chicago Bee Records"
+            }
+        ],
+        "Tracklist": [
+            "Postelektrik - SW1",
+            "Derek Carr - No Surrender",
+            "Type 303 - Stairway To Jupiter",
+            "Monofonix - Omega",
+            "Ivan Golic - Floated",
+            "Iron Blu - Valtra",
+            "Fear-E - Haven't You Heard",
+            "Forgotten Corner - Maen Land",
+            "iNFO - Dreams Of Andromeda",
+            "A-Eno-Acid - Greek Town Casino"
+        ],
+        "Date": "2023-01-15",
+        "Blurb": "'90s style downtempo techno flecked with acid.",
+        "Recommended": false,
+        "Author": "Dash Lewis"
+    },
+    {
+        "Artist": "Rewind: Various",
+        "Title": "Artificial Intelligence",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Warp Records"
+            }
+        ],
+        "Tracklist": [
+            "A1 The Dice Man - Polygon Window",
+            "A2 Musicology - Telefone 529",
+            "A3 Autechre - Crystal",
+            "A4 I.A.O - The Clan",
+            "A5 Speedy J - De-Orbit",
+            "B1 Musicology - Premonition",
+            "B2 UP! - Spiritual High",
+            "B3 Autechre - The Egg",
+            "B4 Dr Alex Paterson - Loving You Live",
+            ""
+        ],
+        "Date": "2022-12-09",
+        "Blurb": "Are you sitting comfortably? A cornerstone of \"home listening music\" turns 30. \n",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Priori presents RED",
+        "Title": "Nigh",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "NAFF"
+            }
+        ],
+        "Tracklist": [
+            "Nigh",
+            "Landfill",
+            "Tar",
+            "Robash (Nothing Is Normal)",
+            "Think Not",
+            "Going Sour In The Heat",
+            "The Hammer",
+            "Quencher",
+            "Bottom Of The Field",
+            "From The Swallow",
+            "The Coins U Saved"
+        ],
+        "Date": "2022-09-18",
+        "Blurb": "Touching on darker shades of IDM and prog, Priori's latest still has the irresistible tug of his most upbeat and vibrant work.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "The Fear Ratio",
+        "Title": "Slinky",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tresor"
+            }
+        ],
+        "Tracklist": [
+            "L10",
+            "Death Switch feat. King Kashmere",
+            "Appi",
+            "STMS",
+            "BS2",
+            "Lacovset feat. Ella Fleur",
+            "Spinning Globe feat. King Kashmere",
+            "LFIVE",
+            "Slinky",
+            "NB AP",
+            "Effem",
+            "KZAP"
+        ],
+        "Date": "2022-08-03",
+        "Blurb": "Hip-hop, IDM and techno collide on a fearsome collaboration that proves you can teach old dogs—Mark Broom and James Ruskin—some fancy new tricks.",
+        "Recommended": true,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Aleksi Perälä",
+        "Title": "Spectrum Analysis",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Clone Records"
+            }
+        ],
+        "Tracklist": [
+            "FI3AC2028010",
+            "FI3AC2028020",
+            "FI3AC2030010",
+            "FI3AC2030030",
+            "FI3AC2031050",
+            "FI3AC2031060",
+            "FI3AC2032030",
+            "FI3AC2032020",
+            "FI3AC2029010",
+            "FI3AC2033060",
+            "FI3AC2034020",
+            "FI3AC2034070",
+            "FI3AC2035050",
+            "FI3AC2035070"
+        ],
+        "Date": "2021-10-14",
+        "Blurb": "Perälä mines minimal techno on this compilation of twisted rhythms.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Rewind: Nuron / Fugue",
+        "Title": "Likemind 06",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Likemind Records"
+            }
+        ],
+        "Tracklist": [
+            "A1 Nuron - Madam 6",
+            "A2 Nuron - In Motion",
+            "B1 Fugue - Contrapoint",
+            "B2 Fugue - Interlagos",
+            "C1 Nuron - Eau Rouge",
+            "C2 Nuron - Slipstream",
+            "D1 Nuron - Mirage",
+            "D2 Nuron - Minutes"
+        ],
+        "Date": "2021-06-21",
+        "Blurb": "Ahead of a new reissue compilation, Kirk Degiorgio looks back on Likemind Records, a landmark in '90s melodic techno that sounds just as stunning today.",
+        "Recommended": false,
+        "Author": "Kirk Degiorgio"
+    },
+    {
+        "Artist": "Cygnus",
+        "Title": "Neon Flux",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "World Building"
+            }
+        ],
+        "Tracklist": [
+            "A1 Vaporwaves",
+            "A2 Neon Flux",
+            "B1 Oak Cliff Cybernetics",
+            "B2 Coleco Visions",
+            "C1 Default Mode Network",
+            "C2 The Bodyscan (Album Edit)",
+            "D Vectra Datasonix",
+            ""
+        ],
+        "Date": "2020-08-26",
+        "Blurb": "This reissue highlights the Texas artist's unmistakable ear for melody and emotion.\n",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Actress",
+        "Title": "88",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Blurring Celt",
+            "Chrome",
+            "Cyclo",
+            "DarkFuture",
+            "Every Action",
+            "Flute",
+            "INDEX",
+            "Insignia",
+            "iVoice",
+            "Karivra",
+            "Lovely Muffled Tones And Beat",
+            "Native",
+            "NSAWA",
+            "NTIONIC",
+            "Oslo",
+            "Oso",
+            "In The Rain",
+            "Scattering",
+            "Spoon",
+            "Struct",
+            "Uptndown",
+            "Typ2"
+        ],
+        "Date": "2020-07-23",
+        "Blurb": "As the prequel to the much-anticipated <i>Karma & Desire</i>, <i>88</i> has a lot to offer.",
+        "Recommended": true,
+        "Author": "Richard Akingbehin"
+    },
+    {
+        "Artist": "Blixaboy",
+        "Title": "Azanian Funk",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Stereo On Strike"
+            }
+        ],
+        "Tracklist": [
+            "Azanian Funk\t",
+            "Bio-Man\t",
+            "An Occurence In Quadrant Alpha",
+            "I Am Eternity\t ",
+            "March Of The Comet Empire\t",
+            "Quasar's Return",
+            "Psions From Mars\t",
+            "Oshunmasuta",
+            "Lord Of Time"
+        ],
+        "Date": "2020-07-06",
+        "Blurb": "Electro and IDM from Wanz Dover.\n",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Andrea",
+        "Title": "Ritorno",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Dubstep"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ilian Tape"
+            }
+        ],
+        "Tracklist": [
+            "Attimo",
+            "SKYLN\t",
+            "LS September\t",
+            "TrackQY\t",
+            "Reinf\t",
+            "LG_Amb",
+            "Drumzzy\t",
+            "Backdrops",
+            "Liquid\t",
+            "Isabelle's String\t",
+            "Twin Forests\t",
+            "Lana"
+        ],
+        "Date": "2020-05-07",
+        "Blurb": "A beautiful excursion through IDM, trip-hop and ambient.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Still In My Arms",
+        "Genre": [
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "A Colourful Storm"
+            }
+        ],
+        "Tracklist": [
+            "Gimmik - Scope",
+            "Plod - Aptaxi ",
+            "Bauri - Have No Fear",
+            "Num Num - South Quay",
+            "MD - 11",
+            "Boc Scadet - Sel Alterat",
+            "Abfahrt Hinwil - Tech8",
+            "Multiplex - Angles (Spark Mix)",
+            "Lackluster - KCL1",
+            "Proem - Your Grandfather Is Dead"
+        ],
+        "Date": "2020-03-19",
+        "Blurb": "Cry-in-the-club IDM. ",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "The Fear Ratio",
+        "Title": "They Can't Be Saved",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Skam"
+            }
+        ],
+        "Tracklist": [
+            "Sender",
+            "Exile",
+            "Grey Code",
+            "Small World",
+            "The Invisible Girl",
+            "The Curse",
+            "LM3",
+            "Captive",
+            "Game Plan",
+            "The Final Vision",
+            "BY3",
+            "A406"
+        ],
+        "Date": "2020-03-09",
+        "Blurb": "Ultra-detailed IDM hip-hop from big-room specialists Mark Broom and James Ruskin.",
+        "Recommended": false,
+        "Author": "Oli Warwick"
+    },
+    {
+        "Artist": "Noumen",
+        "Title": "Obscurium",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Central Processing Unit"
+            }
+        ],
+        "Tracklist": [
+            "Mist",
+            "Hydra",
+            "Call Of Darkness",
+            "Haunter",
+            "Clinch",
+            "Lock",
+            "Square",
+            "Spleen Tear",
+            "Winter Sighs",
+            "Arclight",
+            "Tail",
+            "Fading",
+            "Slick Ac",
+            "Flow Through The Surface"
+        ],
+        "Date": "2020-02-19",
+        "Blurb": "An IDM disciple digs deep to craft one of CPU's best records yet.",
+        "Recommended": false,
+        "Author": "Taylor Bratches"
+    }
+]

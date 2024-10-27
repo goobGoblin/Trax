@@ -1,0 +1,289 @@
+[
+    {
+        "Artist": "Rewind: DJ Rupture",
+        "Title": "Gold Teeth Thief",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Breakcore"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Missy Elliott - Get Ur Freak On \t",
+            "Bravehearts - Oochie Wallie Instrumental \t",
+            "Ricky Dog - Risen To The Top \t",
+            "DJ Scud - Badman Time \t",
+            "Barrington Levy - Here I Come - Jungle \t",
+            "Nettle - Duende \t",
+            "dead prez - Cop Shot \t",
+            "Monie Muss Crew - Thugz Riddim \t",
+            "Spragga Benz - Certain Bwoy \t",
+            "Bounty Killer - Corrupt System \t",
+            "Kid606 - Get Yr Kicks On Route 606 \t",
+            "Larbi Lamtougi - Salhine Assalihate \t",
+            "Luciano Berio - Visage \t",
+            "Snares Man! - Breakbeat Malaria (History Of The Future) \t",
+            "Tommy Zwedberg - Hanging \t",
+            "Venetian Snares - Boarded Up Swan Entrance \t",
+            "Nettle - Duende (DJ Scud's In Chains Remix) \t",
+            "Shabba Ranks - Peanie Peanie \t",
+            "Nettle - Duende (DJ Scud's In Chains Remix) \t",
+            "Quincy - Bruce Lee MC \t",
+            "DJ /rupture - Descarriada \t",
+            "Dahlena - Dabka \t",
+            "Djivan Gasparyan - Dle Yaman \t",
+            "Nettle - Untitled (White Label) \t",
+            "Non Phixion - Four W's Instrumental \t",
+            "Wu-Tang Clan - Reunited (Funkstörung's Mix) \t",
+            "Cannibal Ox - Vein \t",
+            "Sub Dub - Dawa Zango \t",
+            "DJ /rupture - Rumbo Babylon \t",
+            "DJ /rupture - Tawsim Distorsionada \t",
+            "Missing Links - No Lodge \t",
+            "DJ /rupture - Untitled \t",
+            "John Wall - Track 1 \t",
+            "Moosaka With Splice - Airbrushing \t",
+            "Rude Ass Tinker - U Can't Touch This \t",
+            "Unknown Artist - Untitled \t",
+            "Welmo Romero & Splice - Si A Plomo Vives (Rupture's Remix) \t",
+            "Project Pat - Chickenhead ",
+            "Nettle - Duppy",
+            "Ilhan Mimaroglu - Agony\t",
+            "Nettle - Ensamlaje \t",
+            "Oval - Shop In Store \t",
+            "Miriam Makeba - Djiguinira \t",
+            "Muslimgauze - The Taliban \t",
+            "Paul Simon - Homeless"
+        ],
+        "Date": "2019-05-11",
+        "Blurb": "Looking back on a groundbreaking mix of global sounds.",
+        "Recommended": false,
+        "Author": "Max Pearl"
+    },
+    {
+        "Artist": "Jason Forrest",
+        "Title": "Fear City",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Breakcore"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Cock Rock Disco"
+            }
+        ],
+        "Tracklist": [
+            "Severe High",
+            "Uncertainty",
+            "Chase",
+            "New Age Asshole",
+            "Subdivision",
+            "Biker Movies",
+            "Demon Sun Ram",
+            "Forever Psyche",
+            "Real HxCx",
+            "Beating Up Giant",
+            "Prelude"
+        ],
+        "Date": "2018-10-10",
+        "Blurb": "One of breakcore's leading artists draws inspiration from a crumbling New York City.",
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Duran Duran Duran",
+        "Title": "Duran",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Breakcore"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Power Vacuum"
+            }
+        ],
+        "Tracklist": [
+            "Thacid Under",
+            "Pearls And Strawberries",
+            "Pryor Acid",
+            "Grillwalkers",
+            "Drug Life",
+            "Sexus",
+            "Street Trash",
+            "Untitled",
+            "Marathon Man"
+        ],
+        "Date": "2017-08-18",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Venetian Snares ­",
+        "Title": "Traditional Synthesizer Music",
+        "Genre": [
+            {
+                "name": "Acid"
+            },
+            {
+                "name": "Breakcore"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Timesig"
+            }
+        ],
+        "Tracklist": [
+            "Dreamt Person v3\t",
+            "Everything About You Is Special\t",
+            "Slightly Bent Fork Tong v2\t",
+            "Magnificent Stumble v2\t",
+            "Decembers\t",
+            "Can't Vote For Yourself v1\t",
+            "You And Shayna v1\t",
+            "Goose And Gary v2\t",
+            "Anxattack Boss Level19 v3\t",
+            "She Married A Chess Computer In The End\t",
+            "Health Card10\t",
+            "Paganism Ratchets"
+        ],
+        "Date": "2016-03-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Venetian Snares",
+        "Title": "Your Face",
+        "Genre": [
+            {
+                "name": "Breakcore"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "Your Face When I Finally\t",
+            "Former Eagle\t",
+            "Red Orange 2\t",
+            "Become Magic Dolphins\t",
+            "Stockpiles Of Sentiment\t",
+            "Misericordial\t",
+            "Your Face When I Finally (Glass Version)"
+        ],
+        "Date": "2015-08-28",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": null,
+        "Title": "Venetian Snares – My Love Is A Bulldozer",
+        "Genre": [
+            {
+                "name": "Breakcore"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Planet Mu"
+            }
+        ],
+        "Tracklist": [
+            "th Circle Of Winnipeg\t",
+            "Deleted Poems\t",
+            "Years\t",
+            "Your Smiling Face\t",
+            "Amazon\t",
+            "My Love Is A Bulldozer\t",
+            "She Runs\t",
+            "am Union Station\t",
+            "Shaky Sometimes\t",
+            "Too Far Across\t",
+            "Dear Poet",
+            "Your Blanket"
+        ],
+        "Date": "2014-07-05",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Hugh Taylor"
+    },
+    {
+        "Artist": "Ruby My Dear",
+        "Title": "Remains of Shapes to Come",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Breakcore"
+            },
+            {
+                "name": "IDM"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ad Noiseam"
+            }
+        ],
+        "Tracklist": [
+            "Maiden ",
+            "Rubber Head \t",
+            "Karoshi \t\t",
+            "Uken \t\t",
+            "Hawa \t\t",
+            "Syuma \t\t",
+            "Dinah \t \t",
+            "Rhythm-a-ning \t\t",
+            "Pannonica  \t",
+            "Monk's Dream \t",
+            "Chazz \t \t",
+            "Knit For Snow \t\t",
+            "L.O.M. (Loutre Oblique Meridionale) "
+        ],
+        "Date": "2012-08-16",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Humcrush",
+        "Title": "Hornswoggle",
+        "Genre": null,
+        "Labels": null,
+        "Tracklist": null,
+        "Date": "2006-10-04",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Joshua Meggitt"
+    }
+]

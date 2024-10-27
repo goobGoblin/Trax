@@ -1,0 +1,716 @@
+[
+    {
+        "Artist": "Lee 'Scratch' Perry",
+        "Title": "King Perry",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "R&B"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "False Idols"
+            }
+        ],
+        "Tracklist": [
+            "Lee Scratch Perry and Greentea Peng - 100lbs of Summer ",
+            "Evil Generation",
+            "Lee Scratch Perry feat. Fifi Rong - Midnight Blues",
+            "King of the Animals",
+            "Lee Scratch Perry and Shaun Ryder - Green Banana",
+            "Jesus Life",
+            "Lee Scratch Perry featuring Marta - I Am a Dubby",
+            "No Illusion",
+            "Lee Scratch Perry featuring Rose Waite - The Person I Am",
+            "Lee Scratch Perry featuring Greentea Peng - Jah People in Blue Sky",
+            "Lee Scratch Perry featuring Tricky and Marta - Future of My Music",
+            "Goodbye"
+        ],
+        "Date": "2024-02-15",
+        "Blurb": "The dub pioneer's posthumous album falls far short of his legacy, muddled by overproduction and unnecessary guest appearances.",
+        "Recommended": false,
+        "Author": "John-Paul Shiver"
+    },
+    {
+        "Artist": "Rod Modell",
+        "Title": "Ghost Lights",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Dub Techno"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Astral Industries"
+            }
+        ],
+        "Tracklist": [
+            "Side A",
+            "Side B",
+            "Side C",
+            "Side D"
+        ],
+        "Date": "2023-11-09",
+        "Blurb": "A journey to the deepest, most ambient depths of dub techno.",
+        "Recommended": false,
+        "Author": "Will Lynch"
+    },
+    {
+        "Artist": "Bryozone",
+        "Title": "Eye Of Delirious",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Dub"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Muscut"
+            }
+        ],
+        "Tracklist": [
+            "Smoothy Flow",
+            "Sub Nautica",
+            "Sequence One",
+            "Glowing Sirens",
+            "Ghost Tribe",
+            "Ambiency",
+            "Liminal Tribe",
+            "Eye Of Delirious",
+            "Fateful Torment",
+            "Ground Floor"
+        ],
+        "Date": "2023-04-23",
+        "Blurb": "A dubby, subaquatic journey into the Black Sea.",
+        "Recommended": false,
+        "Author": "Mariia Ustimenko"
+    },
+    {
+        "Artist": "Paul St. Hilaire",
+        "Title": "Tikiman Vol​.​1",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Dub Techno"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kynant Records"
+            }
+        ],
+        "Tracklist": [
+            "Bedroom In My Bag",
+            "Little Way",
+            "Keep Safe",
+            "Bright One",
+            "The Weather Man",
+            "In Fortis",
+            "Ten To One",
+            "In Door",
+            "Three And A Half",
+            ""
+        ],
+        "Date": "2023-04-20",
+        "Blurb": "The elusive artist's first album in 20 years is a masterclass in slow-burning funk.  \n",
+        "Recommended": true,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various",
+        "Title": "The Road Less Travelled Vol.1",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Scenic Route"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2022-05-22",
+        "Blurb": "An alchemical collection of dub techno, bedroom torch songs rap from rising South London imprint Scenic Route.",
+        "Recommended": true,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Noodreem",
+        "Title": "Temple Of Sonic Peace",
+        "Genre": [
+            {
+                "name": "Trance"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Dub"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sangita Sounds"
+            }
+        ],
+        "Tracklist": [
+            "Crystal Holographix feat. Pandit Sukhdev Mishra",
+            "Arcing Avalon Kashi Dub feat. Pandit Sukhdev Mishra",
+            "Krsna Dub feat. Pandit Sukhdev Mishra",
+            "Shantiman Basoa Dub feat. Haradhan Das Baul",
+            "Vrindavan Dub feat. Debashish Haldar",
+            "Divine Mysterious Transcendence feat. Dr. Pandit Ranajit Sengupta",
+            "Heart Temple feat. Vidushi Shirin Sengupta Nath",
+            "Sensimillian Dub feat. Sadhu Seva",
+            "Ouroboros feat. Holosonos"
+        ],
+        "Date": "2022-05-01",
+        "Blurb": "Electroacoustic dub infused with original recordings of Indian classical music.",
+        "Recommended": false,
+        "Author": "Anu Shukla"
+    },
+    {
+        "Artist": "TONE",
+        "Title": "So I Can See You",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rhythm Section International"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2022-03-28",
+        "Blurb": "Reggae-influenced post-punk with a sunny disposition and incisive lyrics.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "Leon Vynehall",
+        "Title": "fabric presents Leon Vynehall",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Dub"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "fabric Records"
+            }
+        ],
+        "Tracklist": [
+            "Leon Vynehall - Climb Into The Cistern feat. Wesley Joseph",
+            "Zebrablood - Whatcomesup96",
+            "Newworldaquarium - Star Power",
+            "Lo Jack - Virgin Traff 22",
+            "Lady Blacktronika - Good Dick",
+            "Mute - Never",
+            "Louise Bock - Horologic",
+            "Or:la - Allaballa",
+            "Pole - Überfahrt",
+            "Gombeen & Doygen - D'Americana",
+            "Round Four - Found A Way",
+            "Woo - Wah Bass",
+            "Mosca - This Branch Is Weak",
+            "Steevio - Syzygy",
+            "A2 - Midsummer Misery",
+            "DJ Deep & Traumer - La Valle La B (La Deep Mix)",
+            "DB Selective - Dub Train",
+            "Wax - Switch",
+            "Hagan - FWD",
+            "Bubas Produçoes - Padjinha Pt 3",
+            "A.k.Adrix - FL Studio, Obrigado",
+            "Skee Mask - Untitled 279",
+            "Avon Blume - South Bermo",
+            "Sector Y - Road To World Cup",
+            "Innersphere aka Shinedoe - Phunk",
+            "Gaunt - Raw Cartoon",
+            "Piero Umiliani (Zalla) - Produzione",
+            "Commodo - Scabz",
+            "Leon Vynehall - Sugar Slip (The Lick)",
+            "Mala - Misty Winter feat. Crazy D",
+            "Ehua - Helios",
+            "N-ERGY - The Mad 808",
+            "Ana Roxanne - Suite Pour L'Invisible"
+        ],
+        "Date": "2022-03-25",
+        "Blurb": "A wild, twisty ride that highlights Leon Vynehall's unique storytelling skills.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Station Rose",
+        "Title": "Digital Archive Vol 2",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Gunafa"
+            }
+        ],
+        "Tracklist": [
+            "My Time Has Come",
+            "Baby Yaga",
+            "Final Rise",
+            "Blazer",
+            "Shopping Queen Down",
+            "Krescendo",
+            "Impro131021b",
+            "Cufo",
+            "ETHs",
+            "Glitchbrek",
+            "Amiga SCSI-Transfer",
+            "Der Tote Aus Dem Mersey",
+            "SCSI",
+            "Surfing On Electronic Surfaces (1995 Remastered)",
+            "Mellotronic"
+        ],
+        "Date": "2022-03-08",
+        "Blurb": "A 30-year retrospective from the other side of the internet's looking glass. \n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Johnny Hunter",
+        "Title": "Dub Is King",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Pleasure Club"
+            }
+        ],
+        "Tracklist": [
+            "Bufo / Freshly",
+            "Likkle More",
+            "Dub Is King",
+            "Forward Ever",
+            "Nah Wanna Accept",
+            "Floors",
+            "The Wickedness",
+            "Back To Source"
+        ],
+        "Date": "2022-03-07",
+        "Blurb": "Minimalist interpretations of British dance music, from trip-hop to UK garage. \n",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "F.S. Blumm & Nils Frahm",
+        "Title": "2X1=4",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Experimental"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "LEITER"
+            }
+        ],
+        "Tracklist": [
+            "Desert Mule",
+            "Presidential Tub",
+            "Puddle Drop",
+            "Buddy Hop",
+            "Sarah & Eve",
+            "Raw Chef",
+            "Neckrub"
+        ],
+        "Date": "2021-09-21",
+        "Blurb": "On their third LP, Frahm and Blumm explore the outer realms where dub, classical and country meet.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "The Bug",
+        "Title": "Fire",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ninja Tune"
+            }
+        ],
+        "Tracklist": [
+            "The Fourth Day feat. Roger Robinson",
+            "Pressure feat. Flowdan",
+            "Demon feat. Irah",
+            "Vexed feat. Moor Mother",
+            "Clash feat. feat. Logan",
+            "War feat. Nazamba",
+            "How bout dat feat. FFSYTHO",
+            "Bang feat. Manga Saint Hilare",
+            "Hammer feat. Flowdan",
+            "Ganja Baby feat. Daddy Freddy",
+            "Fuck Off feat. feat. Logan",
+            "Bomb feat. Flowdan",
+            "High Rise feat. Manga Saint Hilare",
+            "The Missing feat. Roger Robinson"
+        ],
+        "Date": "2021-09-08",
+        "Blurb": "The Bug crafts his hardest, meanest record after a year of hell.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Equiknoxx",
+        "Title": "Basic Tools",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Equiknoxx Music"
+            }
+        ],
+        "Tracklist": [
+            "MP Five",
+            "Urban Snare Cypher",
+            "Thingamajigama feat. RTKal & Rege SO$A",
+            "Basic Tools Live @ DJ Krush",
+            "Was Not Initially Called Make iT Stop feat. Storm Saulter & Doll Face Charmie ",
+            "A Very Pretty Red Light",
+            "This Song iS Not About Labelling Cables feat. Storm Saulter",
+            "UGGH Feat. Joey B (MCR)",
+            "MP Five (Instrumental)",
+            "Urban Snare Cypher (Instrumental)",
+            "Thingamajigama (Instrumental)",
+            "Basic Tools Live @ DJ Krush (Instrumental)",
+            "Was Not Initially Called Make iT Stop (Instrumental)",
+            "A Very Pretty Red Light (Instrumental)",
+            "This Song iS Not About Labelling Cables (Instrumental)",
+            "UGGH (Instrumental)"
+        ],
+        "Date": "2021-08-31",
+        "Blurb": "Wonderfully weird and funny dispatches from dancehall's new vanguard.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Now Thing 2",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Dancehall"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Chrome"
+            }
+        ],
+        "Tracklist": [
+            "Gadaffi - Saddam Rhythm",
+            "Arif Cooper - Good Vybe",
+            "Richard Browne - Grass Cyaat Refix",
+            "Lion Face - Unleaded",
+            "Ward 21 - Volume",
+            "Lenky & Andrew Thomas - Bad Mongrell",
+            "Steely & Clevie - Bitter Blood",
+            "Andre Gray - Muddy",
+            "Bobby Konders - Lickshot Rewind",
+            "Dave Kelly - Heart Attack",
+            "Madd Spider - Hot Water",
+            "Kunley McCarthy - Cosa Nostra",
+            "Byron Murray - Free Up",
+            "Crown Star Productions - Fire Cracker",
+            "Teetimus & Sheldon Stewart - Sugar And Water",
+            "Donovan Germain - Are You That Somebody"
+        ],
+        "Date": "2021-07-16",
+        "Blurb": "The follow-up to a seminal 2001 compilation offers more essential turn-of-the-century dancehall.",
+        "Recommended": true,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "LNS & DJ Sotofett",
+        "Title": "Sputters",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Electro"
+            },
+            {
+                "name": "Dub"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Tresor"
+            }
+        ],
+        "Tracklist": [
+            "Enter 323",
+            "K.O. by E-GZR",
+            "El Dubbing",
+            "Dúnn Dubbing",
+            "Ziggurat",
+            "Inter 323",
+            "Vitri-Oil",
+            "Shim",
+            "Restart 323",
+            "The 606",
+            "Tidbit",
+            "Synchronic Bass Blort",
+            "Sputtering",
+            "Outrospect 323",
+            "Cellular Coolant"
+        ],
+        "Date": "2021-07-15",
+        "Blurb": "An LP of dub and electro-fused techno from the weirdo edges of electronic music. ",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Deadbeat & The Mole",
+        "Title": "Deadbeat Meets The Mole",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Dub Techno"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "BLKRTZ"
+            }
+        ],
+        "Tracklist": [
+            "Bodner Vs The Cardboard Box",
+            "I'd Rather Be Lonely",
+            "Keep On Going On",
+            "For All That Was Lost",
+            "Farfisa Hoser Hymnal",
+            "Rollin Heavy In The Spielplatz",
+            "Piano For Al And Bass From Uncle Scott",
+            "Return To The Towers",
+            "New Stone",
+            "Ciao Uncle G"
+        ],
+        "Date": "2021-04-15",
+        "Blurb": "A Canadian classic 20 years in the making?",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "John Tejada",
+        "Title": "Year Of The Living Dead",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Dub"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Kompakt"
+            }
+        ],
+        "Tracklist": [
+            "The Haunting Of Earth",
+            "Sheltered",
+            "Eidolon",
+            "Echoes Of Life",
+            "Spectral Progressions",
+            "Abbot Of Burton",
+            "Panacea",
+            "Anchorites"
+        ],
+        "Date": "2021-03-05",
+        "Blurb": "The long-time techno producer finds new inspiration in dub on one of his best-ever records.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Om Unit",
+        "Title": "Acid Dub Studies",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Dub Techno"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Self-released"
+            }
+        ],
+        "Tracklist": [
+            "Intro",
+            "Bristol Theme",
+            "Treading Earth ",
+            "Dissolved",
+            "Celestial Envoy",
+            "Ghosts",
+            "Circled",
+            "Rolling Stock",
+            "Tapped",
+            "The Struggle"
+        ],
+        "Date": "2021-02-19",
+        "Blurb": "Om Unit highlights his melodic strengths on this down-home dub LP.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Jabu",
+        "Title": "Sweet Company",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Pop"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Do You Have Peace?"
+            }
+        ],
+        "Tracklist": [
+            "Water Temple",
+            "Slow Down feat. Daniela Dyson",
+            "Lately feat. Sunun",
+            "Pretend",
+            "Selfish",
+            "Paper Thin",
+            "Blood Pink",
+            "Us Alone",
+            "Sweet Company feat. Daniela Dyson",
+            ""
+        ],
+        "Date": "2020-12-16",
+        "Blurb": "Subtle soundsystem pop from the Bristol trio.",
+        "Recommended": false,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "Jon Collin & Demdike Stare",
+        "Title": "Sketches Of Everything",
+        "Genre": [
+            {
+                "name": "Dub"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "DDS"
+            }
+        ],
+        "Tracklist": [
+            "Sketches Of Everything Part 1\t",
+            "Sketches Of Everything Part 2",
+            ""
+        ],
+        "Date": "2020-10-07",
+        "Blurb": "An immersive release from the Lancashire natives.\n",
+        "Recommended": false,
+        "Author": "Matt McDermott"
+    }
+]

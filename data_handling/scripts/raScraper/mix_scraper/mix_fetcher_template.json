@@ -1,0 +1,12 @@
+{
+    "operationName": "GET_NEWS_CONTAINER",
+    "variables": {
+        "types": ["__TYPES__"],
+        "pageSize": 20,
+        "page": 1,
+        "dateFrom": "__DATE_FROM__",
+        "dateTo": "__DATE_TO__",
+        "areaId": "__AREA_ID__"
+    },
+    "query": "query GET_NEWS_CONTAINER($types: [NewsType!], $dateFrom: DateTime, $dateTo: DateTime, $pageSize: Int, $page: Int, $areaId: ID) {\n  headlineNews: news(limit: 1, types: $types, headline: true, areaId: $areaId) {\n    ...newsFields\n    __typename\n  }\n  latestNews: news(limit: $pageSize, pageNumber: $page, types: $types, dateFrom: $dateFrom, dateTo: $dateTo, areaId: $areaId) {\n    ...newsFields\n    __typename\n  }\n  popularNews: news(limit: 6, types: $types, dateFrom: $dateFrom, dateTo: $dateTo, orderBy: POPULAR, areaId: $areaId) {\n    ...newsFields\n    __typename\n  }\n}\n\nfragment newsFields on News {\n  id\n  type\n  headline\n  imageUrl\n  date\n  title\n  blurb\n  contentUrl\n  __typename\n}\n"
+}

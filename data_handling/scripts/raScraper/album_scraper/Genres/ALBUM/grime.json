@@ -1,0 +1,715 @@
+[
+    {
+        "Artist": "T.Williams",
+        "Title": "Raves Of Future Past",
+        "Genre": [
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Purple City Souffle"
+            }
+        ],
+        "Tracklist": [
+            "Deepest Vibe",
+            "Climbing Purple",
+            "Step In 2",
+            "Jammy",
+            "Cheery Coke",
+            "T-4000",
+            "Love All You Squares",
+            "She Loves",
+            "Aggy",
+            "Garvey Words",
+            "Set Trends",
+            "You Will See"
+        ],
+        "Date": "2024-02-09",
+        "Blurb": "A sharp blend of grime, garage, UK funky and Afro house that distills the sounds of London into a powerful, punchy LP.",
+        "Recommended": true,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Chunky",
+        "Title": "Somebody's Child",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Eglo Records"
+            }
+        ],
+        "Tracklist": [
+            "Yes I",
+            "Daylite",
+            "RNS",
+            "Ballin",
+            "GNG ",
+            "Meh feat. Rolla ",
+            "Long N Strong",
+            "Dancin On Tables ",
+            "Me feat. Not4Many",
+            "Giv U",
+            "Spare The Rod"
+        ],
+        "Date": "2023-03-14",
+        "Blurb": "The Manchester producer-MC transcends his roots in the city's bass music scene, deconstructing grime and rap rhythms and laying down pensive, personal lyrics.\n",
+        "Recommended": false,
+        "Author": "Fred Garratt-Stanley"
+    },
+    {
+        "Artist": "Coby Sey",
+        "Title": "Conduit",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "AD 93"
+            }
+        ],
+        "Tracklist": [
+            "Etym",
+            "Mist Through the Bits",
+            "Permeated Secrets",
+            "Dial Sqaure (Confront)",
+            "Night Ride",
+            "Onus",
+            "Response",
+            "Eve (Anwummerɛ)"
+        ],
+        "Date": "2022-09-10",
+        "Blurb": "A forthright and reflective debut album that veers between grime and spoken word, inspired by the community spirit of South East London.",
+        "Recommended": true,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Fatima Al Qadiri",
+        "Title": "Medieval Femme",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Medieval Femme",
+            "A Certain Concubine",
+            "Sheba",
+            "Vanity",
+            "Stolen Kiss Of A Succubus",
+            "Golden",
+            "Qasmuna (Dreaming)",
+            "Malaak",
+            "Tasakuba",
+            "Zandaq"
+        ],
+        "Date": "2021-06-11",
+        "Blurb": "The artist's majestic third album channels the desperation, romance and longing of medieval poetry.",
+        "Recommended": true,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Dark0",
+        "Title": "Eternity",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "YEAR0001"
+            }
+        ],
+        "Tracklist": [
+            "Eternity",
+            "zeroGen",
+            "Infinite Edge",
+            "Nova Bridge",
+            "Shining Star",
+            "Born From Decay",
+            "Storm_Earth",
+            "Wait For Me",
+            "Promise"
+        ],
+        "Date": "2021-06-08",
+        "Blurb": "Epic, tears-in-the-club anthems.\n",
+        "Recommended": false,
+        "Author": "Jasmine Kent-Smith"
+    },
+    {
+        "Artist": "Nammy Wams",
+        "Title": "Paradise South",
+        "Genre": [
+            {
+                "name": "Hip-Hop"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Drill"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "AP Life"
+            }
+        ],
+        "Tracklist": [
+            "Pellets",
+            "Insides ",
+            "Fuse",
+            "Henry VIII ",
+            "Hannibal Hector",
+            "Punk ",
+            "Huguenots ",
+            "Fears ",
+            "Sherman ",
+            "Sidestep ",
+            "Terror"
+        ],
+        "Date": "2021-04-27",
+        "Blurb": "Experimentations in instrumental grime and drill that take the genres into new frontiers.",
+        "Recommended": false,
+        "Author": "Nyshka Chandran"
+    },
+    {
+        "Artist": "Dark0",
+        "Title": "ZERO2",
+        "Genre": [
+            {
+                "name": "Trance"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "YEAR0001"
+            }
+        ],
+        "Tracklist": [
+            "Oxygenesis ",
+            "Eye Ignite ft. 0comeups ",
+            "After Years ",
+            "Hardwire ",
+            "Opia ft. Visionist ",
+            "U I C ",
+            "Lilith ",
+            "Tooly ",
+            "Reverie Eternity ft. Malibu ",
+            ""
+        ],
+        "Date": "2020-08-25",
+        "Blurb": "A melody-driven mixtape from the London producer.",
+        "Recommended": true,
+        "Author": "Jasmine Kent-Smith"
+    },
+    {
+        "Artist": "Rewind: Dizzee Rascal",
+        "Title": "Boy In Da Corner",
+        "Genre": [
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "XL Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Sittin'Here\t",
+            "Stop Dat\t",
+            "I Luv U\t",
+            "Brand New Day\t",
+            "Far\t",
+            "Fix Up, Look Sharp\t",
+            "Cut 'Em Off\t",
+            "Hold Ya Mouf\t",
+            "Round We Go\t",
+            "Jus A Rascal\t",
+            "Wot U On\t",
+            "Jezebel\t",
+            "Seems 2 Be\t",
+            "Live O\t",
+            "Do It"
+        ],
+        "Date": "2020-07-21",
+        "Blurb": "To mark its 17th anniversary, we revisit an essential blueprint of grime.",
+        "Recommended": false,
+        "Author": "Resident Advisor"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Nervous Horizon Vol. 3",
+        "Genre": [
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "Gqom"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nervous Horizon"
+            }
+        ],
+        "Tracklist": [
+            "TSVI - Labyrinth",
+            "Chevel & Wallwork - Carbon 12",
+            "TSVI & DJ Plead - Force Field",
+            "object blue - Neo Noir",
+            "Tzusing & TSVI - 24hr",
+            "Wallwork - Hacienda ",
+            "DJ Plead - Ambush",
+            "DJ JM - Peak",
+            "Ehua - Meteora ",
+            "Wallwork - Detonate"
+        ],
+        "Date": "2019-12-03",
+        "Blurb": "Hear how the sounds of Durban, Taipei and Beirut are intensifying UK club music on this excellent compilation.",
+        "Recommended": false,
+        "Author": "Chal Ravens"
+    },
+    {
+        "Artist": "Loraine James",
+        "Title": "For You And I",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Club"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Glitch Bitch ",
+            "London Ting // Dark As Fuck feat. Le3 bLACK",
+            "So Scared ",
+            "Hand Drops ",
+            "Sensual feat Theo",
+            "For You And I ",
+            "My Future feat Le3 bLACK",
+            "Scraping My Feet",
+            "Sick 9",
+            "Vowel // Consonant",
+            "Words Ears Mouth"
+        ],
+        "Date": "2019-10-10",
+        "Blurb": "A deeply personal album that also captures the fragmented sound of UK dance music.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Wen",
+        "Title": "EPHEM:ERA",
+        "Genre": [
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Big Dada"
+            }
+        ],
+        "Tracklist": [
+            "Silhouette ",
+            "Glisten ",
+            "Time II Think ",
+            "Rain ",
+            "Blips ",
+            "Void ",
+            "Curve_Relay ",
+            "Grit ",
+            "Off-Kilter ",
+            "Sun Thru Blinds ",
+            "Schoene ",
+            "Diverse "
+        ],
+        "Date": "2018-08-01",
+        "Blurb": "Elegant, stripped-back grime loops from the UK artist.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Proc Fiskal",
+        "Title": "Insula",
+        "Genre": [
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hyperdub"
+            }
+        ],
+        "Tracklist": [
+            "Restart",
+            "Apple Juice",
+            "Kontinuance",
+            "L",
+            "Achlitibuie",
+            "Scotch Precog",
+            "Pints",
+            "Dopamine",
+            "Punishment Exercise",
+            "Dish Washing",
+            "Vaudeville",
+            "Future Headache",
+            "Hoax Nos Trinit",
+            "Evil Spirits",
+            "A Like Ye",
+            "Mourn Non Did"
+        ],
+        "Date": "2018-06-19",
+        "Blurb": "A winning debut album from the Edinburgh grime producer. ",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Debit",
+        "Title": "Animus",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Naafi"
+            }
+        ],
+        "Tracklist": [
+            "Nadie Diga",
+            "Gauzy ",
+            "Remain",
+            "Audiacious ",
+            "Matriz feat. Wasted Fates",
+            "Anamnesis feat. Zutzut",
+            "Lamat ",
+            "Realist",
+            "Power Chords",
+            "Inflection",
+            "Mitosis",
+            "Epigone"
+        ],
+        "Date": "2018-04-13",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "maude churchill"
+    },
+    {
+        "Artist": "Chevel",
+        "Title": "Always Yours",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Different Circles"
+            }
+        ],
+        "Tracklist": [
+            "One Evening In July",
+            "The Call",
+            "Bullet",
+            "Arp 2600",
+            "Warming Bath",
+            "Data Recovery",
+            "Dem Drums",
+            "Underwater",
+            "Always Yours"
+        ],
+        "Date": "2018-03-30",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Max Pearl"
+    },
+    {
+        "Artist": "Visionist",
+        "Title": "Value",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Big Dada"
+            }
+        ],
+        "Tracklist": [
+            "Self-",
+            "New Obsession",
+            "Homme ",
+            "Value ",
+            "Your Approval ",
+            "No Idols ",
+            "Made In Hope ",
+            "High Life ",
+            "Exi(s)t ",
+            "Invanity"
+        ],
+        "Date": "2017-12-29",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": "Sully",
+        "Title": "Escape",
+        "Genre": [
+            {
+                "name": "Garage"
+            },
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Jungle"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Keysound Recordings"
+            }
+        ],
+        "Tracklist": [
+            "Thema I",
+            "Casablanca",
+            "Assembly 1",
+            "Bullseye",
+            "Assembly 2",
+            "Thema II",
+            "Vanta",
+            "X Plus Y"
+        ],
+        "Date": "2017-10-17",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Angus Finlayson"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Nervous Horizon Vol. 2",
+        "Genre": [
+            {
+                "name": "Grime"
+            },
+            {
+                "name": "Club"
+            },
+            {
+                "name": "UK Funky"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Nervous Horizon"
+            }
+        ],
+        "Tracklist": [
+            "TSVI & Wallwork - Paradise 660",
+            "Lokane - Body Double (VIP)",
+            "Wallwork - Final Fantasy",
+            "Ikonika - Shovel",
+            "Luru - Lazer ",
+            "Tarquin, TSVI & Luru feat. Jammz - Come To The Dance ",
+            "DJ Missdevana - Come Back 2017",
+            "TSVI, Loom & Luru - Black Magic Ocarina",
+            "Wallwork - Havoc",
+            "Lloyd SB - Beat046 "
+        ],
+        "Date": "2017-08-02",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Angus Finlayson"
+    },
+    {
+        "Artist": "Slackk",
+        "Title": "A Little Light",
+        "Genre": [
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "R&S Records"
+            }
+        ],
+        "Tracklist": [
+            "Spring Mist",
+            "Paper Santos",
+            "Maze",
+            "RC",
+            "Sefton Park West",
+            "Desert Eagle",
+            "So Far, The Sea",
+            "Picture",
+            "Deluxe Night Edition",
+            "Old Petchy Shows",
+            "Reasons",
+            "End",
+            "Zip Me Up",
+            "And The Sun "
+        ],
+        "Date": "2017-06-06",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Paul Clarke"
+    },
+    {
+        "Artist": "Terror Danjah",
+        "Title": "The Planets: The Milkyway Edition",
+        "Genre": [
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Hardrive"
+            }
+        ],
+        "Tracklist": [
+            "Mercury ",
+            "Venus ",
+            "Earth feat. P Jam",
+            "Mars ",
+            "Jupiter ",
+            "Saturn ",
+            "Neptune ",
+            "Planet X feat. Trends",
+            "Pluto ",
+            "Button Moon "
+        ],
+        "Date": "2016-12-18",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    },
+    {
+        "Artist": "Various",
+        "Title": "Mumdance & Logos Present Different Circles",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Grime"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Different Circles"
+            }
+        ],
+        "Tracklist": [
+            "Mumdance - Bleep Stasis ",
+            "Airhead - Kazzt ",
+            "Airhead - Kazzt (Mumdance Remix) ",
+            "Mumdance & Logos - FFS ",
+            "Logos - Glass ",
+            "Mumdance - Path Of The Seer ",
+            "Mumdance & Rabit - Submerged Binary ",
+            "Mumdance & Logos - Cafe Del Mar ",
+            "Rabit - More Memories ",
+            "Mumdance - Cirrus ",
+            "Strict Face - Python Crossing ",
+            "Mumdance, Logos & Rabit - Inside The Catacomb ",
+            "Inkke - Pioneer ",
+            "Logos - Glass (Boylan Devil Mix) ",
+            "Inkke - Love Song ",
+            "DJ Sinclair - Bells (RPG Mix) ",
+            "Yamaneko - Shadow Temple Early ",
+            "Shapednoise - Deep Core Consciousness ",
+            "Fis - Angels Of The Water Table ",
+            "Logos - Glass (Shapednoise Remix) ",
+            "Sharp Veins - Already Bones "
+        ],
+        "Date": "2016-11-30",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Steph Kretowicz"
+    }
+]

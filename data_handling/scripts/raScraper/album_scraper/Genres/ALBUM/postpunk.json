@@ -1,0 +1,689 @@
+[
+    {
+        "Artist": "Bianca Scout",
+        "Title": "Pattern Damage",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Sferic"
+            }
+        ],
+        "Tracklist": [
+            "Intro",
+            "Forest Spirit feat. Darkmarik",
+            "Midnight feat. Mun Sing",
+            "Interlude",
+            "Chances",
+            "Desert feat. Marina Zispin",
+            "Lead Us",
+            "When My Heart Is Lonely (Monks Orchard)",
+            "Passage // Reversal // Fortune feat NWAKKE",
+            "Almost Nothing feat. Darkmarik",
+            "I Don't Sleep",
+            "Anon's Song"
+        ],
+        "Date": "2024-04-18",
+        "Blurb": "A bewitching mixture of sound collage, post-punk and avant-garde music with incisive lyrics.",
+        "Recommended": true,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": null,
+        "Title": "Rivet - L+P-2",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Midnight Shift"
+            }
+        ],
+        "Tracklist": [
+            "Tilt To Turn 1",
+            "Tilt To Turn 3",
+            "Ten Blind Doors",
+            "Sarcoma",
+            "Rōsh",
+            "Le Kland",
+            "Tilt To Turn 4",
+            "Lilo's Lullaby",
+            "Hukat feat. L.T. Fisk"
+        ],
+        "Date": "2023-12-26",
+        "Blurb": "A touching and occasionally searing portrait of grief through the lens of post-punk techno.",
+        "Recommended": false,
+        "Author": "Andrew Ryce"
+    },
+    {
+        "Artist": null,
+        "Title": "Klara Lewis & Nik Colk Void - Full-On",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Alter"
+            }
+        ],
+        "Tracklist": [
+            "Say Why",
+            "In Voice 1",
+            "Junk Funk ",
+            "Ski",
+            "Swimming",
+            "Guitar Hero",
+            "In Voice 2",
+            "Green ",
+            "Pop",
+            "Teeth",
+            "Found",
+            "To Hold ",
+            "Amo",
+            "Work It Out",
+            "Phantasy",
+            "Travel With Friend",
+            "I'll Always "
+        ],
+        "Date": "2023-07-18",
+        "Blurb": "A riveting collection of post-punk vignettes from two one-of-a-kind musicians.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "V/Z",
+        "Title": "Suono Assente",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "AD 93"
+            }
+        ],
+        "Tracklist": [
+            "Suono Assente",
+            "Candles",
+            "Habadash feat. Cathy Lucas",
+            "Bites feat. Coby Sey",
+            "Nail Jar",
+            "Plants No Virtues feat. Venus Ex Machina",
+            "Caffe Giallo",
+            "Candles (Version)"
+        ],
+        "Date": "2023-07-11",
+        "Blurb": "Moin member Valentina Magaletti and Zongamin make a fluid and effortless pair on their stellar debut record of dubby post-punk.",
+        "Recommended": false,
+        "Author": "Joseph Francis"
+    },
+    {
+        "Artist": "Debby Friday",
+        "Title": "Good Luck",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [],
+        "Tracklist": [
+            "Good Luck",
+            "So Hard To Tell",
+            "I Got it feat. Uñas",
+            "Hot Love",
+            "Heartbreakerrr",
+            "What A Man",
+            "Safe",
+            "Let U Down",
+            "Pluto Baby",
+            "Wake Up"
+        ],
+        "Date": "2023-04-21",
+        "Blurb": "The Toronto-based artist is hungry for violence again on her debut album, but this time she explores her adolescence with gripping candour.",
+        "Recommended": false,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "TONE",
+        "Title": "So I Can See You",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rhythm Section International"
+            }
+        ],
+        "Tracklist": [
+            ""
+        ],
+        "Date": "2022-03-28",
+        "Blurb": "Reggae-influenced post-punk with a sunny disposition and incisive lyrics.",
+        "Recommended": false,
+        "Author": "Emeka Okonkwo"
+    },
+    {
+        "Artist": "HTRK",
+        "Title": "Rhinestones",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "N & J Blueberries"
+            }
+        ],
+        "Tracklist": [
+            "Kiss Kiss And Rhinestones",
+            "Valentina",
+            "Sunlight Feels Like Bee Stings",
+            "Siren Song",
+            "Fast Friend",
+            "Real Headfuck",
+            "Reverse Déjà Vu",
+            "Straight To Hell",
+            "Gilbert And George"
+        ],
+        "Date": "2021-11-18",
+        "Blurb": "A skeletal and barebones approach makes the Australian duo's music all the more intimate.",
+        "Recommended": false,
+        "Author": "Alice Lyons"
+    },
+    {
+        "Artist": "Moin",
+        "Title": "Moot!",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "AD 93"
+            }
+        ],
+        "Tracklist": [
+            "No To Gods, No To Sunsets",
+            "Crappy Dreams Count",
+            "Don't Make Me Wait",
+            "Right is Alright, Wrong Is To Belong",
+            "Lungs",
+            "I Can't Help But Melt",
+            "An Utter Stink",
+            "It's Never Goodbye"
+        ],
+        "Date": "2021-07-27",
+        "Blurb": "A walk through the uncanny valley from Raime and Valentina Magaletti.",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Bruno Pronsato",
+        "Title": "Do It At Your Funeral",
+        "Genre": [
+            {
+                "name": "House"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Perlon"
+            }
+        ],
+        "Tracklist": [
+            "A1 Catching Lisbon",
+            "A2 Do It At Your Funeral",
+            "B1 Local Vampires",
+            "B2 Version You",
+            "C1 With Daze",
+            "C2 Isn't Measured Isn't Managed",
+            "D1 Best Before Benj",
+            "D2 Ode To Street Hassle feat. Benjamin Freeney",
+            "D3 Simenon Briefly"
+        ],
+        "Date": "2021-06-29",
+        "Blurb": "Perlon's resident rocker gets even weirder.",
+        "Recommended": false,
+        "Author": "Henry Ivry"
+    },
+    {
+        "Artist": "Dean Blunt",
+        "Title": "Black Metal 2",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rough Trade"
+            }
+        ],
+        "Tracklist": [
+            "VIGIL",
+            "MUGU",
+            "DASH SNOW",
+            "SKETAMINE",
+            "SEMTEX",
+            "LA RAZA",
+            "NIL BY MOUTH",
+            "ZaZa",
+            "WOOSAH",
+            "the rot"
+        ],
+        "Date": "2021-06-18",
+        "Blurb": "On the follow-up to his seminal 2014 album, the British artist sounds more confrontational, direct and hilarious than ever.",
+        "Recommended": true,
+        "Author": "Kiana Mickles"
+    },
+    {
+        "Artist": "Suzanne Kraft",
+        "Title": "About You",
+        "Genre": [
+            {
+                "name": "Downtempo"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Melody As Truth"
+            }
+        ],
+        "Tracklist": [
+            "On Our Hands",
+            "Red Flag",
+            "Bell",
+            "Wildlife",
+            "Blush",
+            "Waiting",
+            "Screenwriter",
+            "Peace",
+            "Attenuate",
+            "Going Down"
+        ],
+        "Date": "2021-06-16",
+        "Blurb": "Soft rock and shoegaze for long summer nights.\n",
+        "Recommended": false,
+        "Author": "Conor McTernan"
+    },
+    {
+        "Artist": "Jonnine",
+        "Title": "Blue Hills",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Boomkat Editions"
+            }
+        ],
+        "Tracklist": [
+            "The Tides Do That With Me",
+            "Can You Get Me There",
+            "I Chase You Like Light On A Sundial",
+            "I Feel Like I'm In A Film",
+            "Blue Hills",
+            "Serum 1",
+            "Serum 2",
+            "Red Stalks",
+            "Let The Waves Roll"
+        ],
+        "Date": "2020-08-17",
+        "Blurb": "Strange, achingly beautiful pop songs from the HTRK member.\n",
+        "Recommended": true,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "Various",
+        "Title": "A Short Illness From Which He Never Recovered",
+        "Genre": [
+            {
+                "name": "Ambient"
+            },
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Blackest Ever Black"
+            }
+        ],
+        "Tracklist": [
+            "Scythe - Flower, Drop\t",
+            "Lightning In A Twilight Hour - The Munich Post\t",
+            "Unchained - Gray D'Aboukir",
+            "Hypnotic Sleep - De dröigen Blaar",
+            "Jam Money - Dawn Swoop\t",
+            "Bridget Hayden - Solace\t",
+            "Brainman - Kilonovo\t",
+            "Carla dal Forno - Blue Morning",
+            "Ian Martin - Missing Realism",
+            "The Fulmars - Fish On"
+        ],
+        "Date": "2020-01-27",
+        "Blurb": "A key experimental label says goodbye with an excellent compilation of ghostly, skeletal rock.",
+        "Recommended": true,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "Tom Of England",
+        "Title": "Sex Monk Blues",
+        "Genre": [
+            {
+                "name": "Disco"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "L.I.E.S."
+            }
+        ],
+        "Tracklist": [
+            "In Your Town",
+            "Sniffin' At The Griffin",
+            "Neon Green",
+            "Be Me",
+            "Song Of The Sex Monk",
+            "Suspension"
+        ],
+        "Date": "2019-10-28",
+        "Blurb": "Thomas Bullock brings his well-travelled ear to this hedonistic mix of disco, post-punk and krautrock.",
+        "Recommended": false,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "HTRK",
+        "Title": "Venus In Leo",
+        "Genre": [
+            {
+                "name": "Pop"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Ghostly International"
+            }
+        ],
+        "Tracklist": [
+            "Into the Drama",
+            "Mentions",
+            "Venus In Leo",
+            "You Know How To Make Me Happy",
+            "Dream Symbol",
+            "Hit 'Em Wit Da Hee",
+            "Dying Of Jealousy",
+            "New Year's Day",
+            "New Year's Eve"
+        ],
+        "Date": "2019-09-06",
+        "Blurb": "The Australian duo successfully revamps their post-punk-informed sound while falling slightly short of past glories.",
+        "Recommended": false,
+        "Author": "Will Lynch"
+    },
+    {
+        "Artist": "New Order",
+        "Title": "Movement (Definitive Edition)",
+        "Genre": [
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Rhino Records"
+            }
+        ],
+        "Tracklist": [
+            "Disc 1",
+            "Dreams Never End ",
+            "Truth ",
+            "Senses ",
+            "Chosen Time ",
+            "ICB ",
+            "The Him ",
+            "Doubts Even Here ",
+            "Denial ",
+            "",
+            "Disc 2",
+            "Dreams Never End (Western Works Demo) ",
+            "Homage (Western Works Demo) ",
+            "Ceremony (Western Works Demo) ",
+            "Truth (Western Works Demo) ",
+            "Are You Ready For This? (Western Works Demo) ",
+            "The Him (Cargo Demo) ",
+            "Senses (Cargo Demo) ",
+            "Truth (Cargo Demo) ",
+            "Dreams Never End (Cargo Demo) ",
+            "Mesh (Cargo Demo) ",
+            "ICB (Cargo Demo) ",
+            "Procession (Cargo Demo) ",
+            "Cries And Whispers (Cargo Demo) ",
+            "Doubts Even Here (Instrumental) (Cargo Demo) ",
+            "Ceremony (1st Mix - Ceremony Sessions) ",
+            "Temptation (Alternative 7) ",
+            "Procession (Rehearsal Recording) ",
+            "Chosen Time (Rehearsal Recording) "
+        ],
+        "Date": "2019-04-28",
+        "Blurb": "A box set that reveals a legendary act searching for their unmistakeable sound.",
+        "Recommended": false,
+        "Author": "Joe Muggs"
+    },
+    {
+        "Artist": "LCD Soundsystem",
+        "Title": "Electric Lady Sessions",
+        "Genre": [
+            {
+                "name": "New Wave"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "DFA Records"
+            }
+        ],
+        "Tracklist": [
+            "Seconds (The Human League Cover) ",
+            "American Dream ",
+            "You Wanted A Hit ",
+            "Get Innocuous ",
+            "Call The Police ",
+            "I Used To ",
+            "Tonite ",
+            "Home ",
+            "I Want Your Love (Chic Cover) ",
+            "Emotional Haircut ",
+            "Oh Baby ",
+            "We Don't Need This) Fascist Groove Thang (Heaven 17 Cover) "
+        ],
+        "Date": "2019-02-21",
+        "Blurb": "With the pressure off, the band are audibly enjoying themselves on this live album.",
+        "Recommended": false,
+        "Author": "Ryan Keeling"
+    },
+    {
+        "Artist": "Raime",
+        "Title": "Tooth",
+        "Genre": [
+            {
+                "name": "Experimental"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Blackest Ever Black"
+            }
+        ],
+        "Tracklist": [
+            "Coax ",
+            "Dead Heat ",
+            "Hold Your Line ",
+            "Front Running ",
+            "Dialling In, Falling Out ",
+            "Glassed ",
+            "Cold Cain ",
+            "Stammer "
+        ],
+        "Date": "2016-06-10",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Ian Maleney"
+    },
+    {
+        "Artist": "Lifetones",
+        "Title": "For A Reason",
+        "Genre": [
+            {
+                "name": "Dub"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Light In The Attic"
+            }
+        ],
+        "Tracklist": [
+            "For A Reason\t",
+            "Good Side ",
+            "Decide ",
+            "Travelling ",
+            "Distance No Object ",
+            "Patience ",
+            ""
+        ],
+        "Date": "2016-05-07",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "Matt McDermott"
+    },
+    {
+        "Artist": "Broken English Club",
+        "Title": "Suburban Hunting",
+        "Genre": [
+            {
+                "name": "Techno"
+            },
+            {
+                "name": "EBM"
+            },
+            {
+                "name": "Post-Punk"
+            }
+        ],
+        "Labels": [
+            {
+                "name": "Cititrax"
+            }
+        ],
+        "Tracklist": [
+            "Nursing Home ",
+            "Vacant ",
+            "Derelict ",
+            "Godless ",
+            "Scum ",
+            "Tourist Zone ",
+            "Crime ",
+            "Suburban Hunting ",
+            "Knives ",
+            "Prayer Space ",
+            "Shallow Pits "
+        ],
+        "Date": "2016-01-20",
+        "Blurb": null,
+        "Recommended": false,
+        "Author": "holly dicker"
+    }
+]
