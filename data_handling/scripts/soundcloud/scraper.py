@@ -43,6 +43,7 @@ def insert_track(arr):
                 track_sql = "INSERT INTO Tracks (Title, ArtistID, Duration) VALUES (%s, %s, %s)"
                 cursor.execute(track_sql, (arr[0], artist_id, arr[3]))
                 track_id = cursor.lastrowid
+                connection.commit()
                 print(f"Inserted Track: {arr[0]} with ID: {track_id}")
             #insert when artist exists
             else:
@@ -50,21 +51,19 @@ def insert_track(arr):
                 cursor.execute(track_sql, (arr[0], artistResult['ArtistID'], arr[3]))
                 track_id = cursor.lastrowid
                 print(f"Inserted Track: {arr[0]} with ID: {track_id}")
+                connection.commit()
         else:
             track_id = trackResult['TrackID']
             print(f"Found Existing Track: {arr[0]} with ID: {track_id}")
     pass
 
 if __name__ == "__main__":
-    scraped = []
     api = SoundcloudAPI()
     for url in urls:
         playlist = api.resolve(url)
         assert type(playlist) is Playlist
         for track in playlist.tracks:
             temp = [track.title, track.artist, track.permalink_url, track.duration,track.genre]
-            #scraped.append(temp)
             insert_track(temp)
             #[title, aritist, url, duration, genre]
-    print(scraped)
     pass
