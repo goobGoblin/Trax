@@ -37,6 +37,8 @@ connection = pymysql.connect(
     cursorclass=pymysql.cursors.DictCursor
 )
 
+
+
 #Insert track inserts new tracks into the database
 def insert_track(arr):
 
@@ -44,8 +46,7 @@ def insert_track(arr):
     track = "SELECT * FROM Tracks WHERE Title = %s"
     artist = "SELECT ArtistID FROM Artists WHERE Name = %s"
     
-    with open('../data_handling/scripts/soundcloud/resultTrack.txt', 'w') as f:
-        f.close()
+    
     
     #Go through the database
     with connection.cursor() as cursor:
@@ -71,8 +72,8 @@ def insert_track(arr):
                 #get the current date and time
                 date = datetime.datetime.now(timezone.utc)
                 #write the track to a file
-                with open('../data_handling/scripts/soundcloud/resultTrack.txt', 'a') as f:
-                    f.write(f"\n[{{'TrackID': {track_id}, 'Title': '{arr[0]}', 'Duration': {arr[3]}, 'AlbumID': None, 'ArtistID': {artist_id}, 'CreatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'UpdatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'GenreID': None}}]")
+                
+                f.write(f"\n[{{'TrackID': {track_id}, 'Title': '{arr[0]}', 'Duration': {arr[3]}, 'AlbumID': None, 'ArtistID': {artist_id}, 'CreatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'UpdatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'GenreID': None}}]")
             #insert when artist exists
             else:
                 track_sql = "INSERT INTO Tracks (Title, ArtistID, Duration) VALUES (%s, %s, %s)"
@@ -85,8 +86,9 @@ def insert_track(arr):
                 #get the current date and time
                 date = datetime.datetime.now(timezone.utc)
                 #write the track to a file
-                with open('../data_handling/scripts/soundcloud/resultTrack.txt', 'a') as f:
-                    f.write(f"\n[{{'TrackID': {track_id}, 'Title': '{arr[0]}', 'Duration': {arr[3]}, 'AlbumID': None, 'ArtistID': {artistResult['ArtistID']}, 'CreatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'UpdatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'GenreID': None}}]")
+                
+                f.write(f"\n[{{'TrackID': {track_id}, 'Title': '{arr[0]}', 'Duration': {arr[3]}, 'AlbumID': None, 'ArtistID': {artistResult['ArtistID']}, 'CreatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'UpdatedAt': datetime.datetime({date.year}, {date.month}, {date.day}, {date.hour}, {date.minute}, {date.second}), 'GenreID': None}}]")
+            
         else:
             #track already exists, so nothing happens
             track_id = trackResult['TrackID']
@@ -95,11 +97,14 @@ def insert_track(arr):
             thisDate1 = trackResult['CreatedAt']
             thisDate2 = trackResult['UpdatedAt']
             #Add the track to the file for testing
-            with open('../data_handling/scripts/soundcloud/resultTrack.txt', 'a') as f:
-                   f.write(f"\n[{{'TrackID': {track_id}, 'Title': '{arr[0]}', 'Duration': {arr[3]}, 'AlbumID': None, 'ArtistID': {artistResult['ArtistID']}, 'CreatedAt': datetime.datetime({thisDate1.year}, {thisDate1.month}, {thisDate1.day}, {thisDate1.hour}, {thisDate1.minute}, {thisDate1.second}), 'UpdatedAt': datetime.datetime({thisDate2.year}, {thisDate2.month}, {thisDate2.day}, {thisDate2.hour}, {thisDate2.minute}, {thisDate2.second}), 'GenreID': None}}]")
+            f.write(f"\n[{{'TrackID': {track_id}, 'Title': '{arr[0]}', 'Duration': {arr[3]}, 'AlbumID': None, 'ArtistID': {artistResult['ArtistID']}, 'CreatedAt': datetime.datetime({thisDate1.year}, {thisDate1.month}, {thisDate1.day}, {thisDate1.hour}, {thisDate1.minute}, {thisDate1.second}), 'UpdatedAt': datetime.datetime({thisDate2.year}, {thisDate2.month}, {thisDate2.day}, {thisDate2.hour}, {thisDate2.minute}, {thisDate2.second}), 'GenreID': None}}]")
+    
     pass
 
-
+#open the file for writing
+f = open('../data_handling/scripts/soundcloud/resultTrack.txt', 'a')
+#clear the file
+f.truncate(0)
 #main checks for input of in urls
 if __name__ == "__main__":
     api = SoundcloudAPI()
@@ -119,5 +124,7 @@ if __name__ == "__main__":
         for track in playlist.tracks:
             temp = [track.title, track.artist, track.permalink_url, track.duration,track.genre]
             insert_track(temp)
+    
+    f.close()
     
     pass

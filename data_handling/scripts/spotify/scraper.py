@@ -1,29 +1,43 @@
+#Name of artifact: Scraper
+#This is a scraper that grabs tracks from Spotify 
+# and inserts them into the SQL database
+#Programmer: Harrison Reed
+#Date: 11/5/2024
+#Last Revision: 11/24/2024 - Added file writing for testing
+#Preconditions: A valid Spotify url is required for input, 
+# if the user chooses to input a url
+#Postconditions: The tracks from the spotify url are inserted into the database,
+#, and a file is created with the insertions for testing
+
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import os
 from cryptography.fernet import Fernet
 import pymysql
 import json
+import sys
 
 
+#Base urls for regular checks on Spotify
 urls = ["https://open.spotify.com/playlist/6UeSakyzhiEt4NB3UAd6NQ?si=5fd771417e344cf8",
         "https://open.spotify.com/playlist/451GSg2HhxCae2mXr4hQU1?si=063136e1d27d4047", 
         "https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj?si=5e85bf087db64794",
         "https://open.spotify.com/playlist/7HP1rgWfJcGKHYCFt0cnYH?si=87c51e17b3a74ddd",
         "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=a5b5f1d8240a4e3d"]
 
+#Grab the key
 with open('spotify_key.key', 'rb') as key_file:
     key = key_file.read()    
 
-print(key)
+#Decrypt the key
 fernet = Fernet(key)
 
 
-
+#Grab the config
 with open('config.JSON') as f:
     config = json.load(f)
     
-
+#Connect to the database
 connection = pymysql.connect(
     host=config['host'],
     user=config['user'],
@@ -33,12 +47,14 @@ connection = pymysql.connect(
     cursorclass=pymysql.cursors.DictCursor
 )
 
+#Insert track inserts new tracks into the database
 def insert_track(arr):
     
     #insert track into database
     #check if track exists
     track = "SELECT TrackID FROM Tracks WHERE Title = %s"
     artist = "SELECT ArtistID FROM Artists WHERE Name = %s"
+    #Go through the database
     with connection.cursor() as cursor:
         cursor.execute(track, (arr[0],))
         trackResult = cursor.fetchone()
@@ -70,33 +86,20 @@ def insert_track(arr):
     pass
 
 
+#Main function
 if __name__ == '__main__':
-    
-    print(os.getcwd())
-    
-    with open("/mnt/g/EECS 581/Project 3/data_handling/scripts/spotify/credentials.txt", "rb") as f:
-        credentials = f.read()
-        
-    credentialsDE = fernet.decrypt(credentials)
-    credentialsDE = credentialsDE.split(b'\n')
-    
-    for i in range(len(credentialsDE)):
-        currentCred = credentialsDE[i].split(b'='b'\'')
-        envVar = currentCred[0].split(b"export")
-        envVar = envVar[1].decode('utf-8')
-        envVar = envVar.replace(" ", "")
-        setVar = currentCred[1].split(b'\'')
-        setVar = setVar[0].decode('utf-8')
-        os.environ[envVar] = setVar
-        
+    if(os.environ["SPOTIPY_CLIENT_ID"] == "" or os.environ["SPOTIPY_CLIENT_ID"] == None):
+        print("Please set the SPOTIPY_CLIENT_ID environment variable\nIF YOU DO NOT HAVE access to the runSpotipy.sh script, please contact the developer")
+        sys.exit()
+    #Set the scope
     scope = "user-library-read"
-    
+    #Connect to the API
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-    #print(sp.categories(country=None, locale=None, limit=20, offset=0))
+    #Go through the urls
     for url in urls:
         results = sp.playlist(url)
         results = results['tracks']
-    
+        #Go through the tracks
         for idx, item in enumerate(results['items']):
             track = item['track']
             temp = [track['name'], track['artists'][0]['name'], track['external_urls']['spotify'], track['duration_ms']]
