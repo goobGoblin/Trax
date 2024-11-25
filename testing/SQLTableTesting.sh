@@ -1,3 +1,4 @@
+#With the sql username and password, and the name of the database tests, this script checks to see if the tables were created succesfuuly and has at least one tuple
 USER=""
 PASS=""
 NAME=""
