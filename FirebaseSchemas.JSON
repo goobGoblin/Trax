@@ -1,0 +1,672 @@
+[
+    {
+      "schemaType": "Collection",
+      "name": "Albums",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "ArtistID",
+          "type": "reference",
+          "required": true,
+          "unique": true,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "GenreID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "LabelID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "ReleaseDate",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Title",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "_id",
+          "type": "ObjectId",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    },
+    {
+      "schemaType": "Collection",
+      "name": "Artists",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "GenreID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Name",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Tracks",
+          "type": "Integer",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "_id",
+          "type": "ObjectId",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Biography",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    },
+    {
+      "schemaType": "Collection",
+      "name": "DJMixes",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "ArtistID",
+          "type": "reference",
+          "required": true,
+          "unique": true,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "GenreID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "LabelID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "ReleaseDate",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Title",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    },
+    {
+      "schemaType": "Collection",
+      "name": "Follows",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "FollowedID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "FollowType",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "FollowerID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    },
+    {
+      "schemaType": "Collection",
+      "name": "Users",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "Email",
+          "type": "String",
+          "required": true,
+          "unique": true,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Password",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "ProfileInfo",
+          "type": "Array",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Username",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "_id",
+          "type": "ObjectId",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    },
+    {
+      "schemaType": "Collection",
+      "name": "Genres",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "_id",
+          "type": "ObjectId",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Description",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Name",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    },
+    {
+      "schemaType": "Collection",
+      "name": "Lables",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Name",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "_id",
+          "type": "ObjectId",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Description",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    },
+    {
+      "schemaType": "Collection",
+      "name": "Tracks",
+      "defaultValue": "",
+      "description": "",
+      "fields": [
+        {
+          "schemaType": "Field",
+          "name": "GenreID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "ArtistID",
+          "type": "reference",
+          "required": true,
+          "unique": true,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "CreatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "ReleaseDate",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Title",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "UpdatedAt",
+          "type": "Date",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "_id",
+          "type": "ObjectId",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "AlbumID",
+          "type": "reference",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Duration",
+          "type": "Double",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "URL",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        },
+        {
+          "schemaType": "Field",
+          "name": "Source",
+          "type": "String",
+          "required": false,
+          "unique": false,
+          "defaultValue": "",
+          "description": "",
+          "index": 0,
+          "customProps": []
+        }
+      ]
+    }
+  ]
+                  
